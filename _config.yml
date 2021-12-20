@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 github: is\_project\_page:false
 title: Amen Jalal
 logo: "/images/me.jpg"
-email: "amenjalal94@gmail.com"
+social-network-links:
+  email: "amenjalal94@gmail.com"
