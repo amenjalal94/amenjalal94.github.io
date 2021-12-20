@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+Welcome! 
 
-You can use the [editor on GitHub](https://github.com/amenjalal94/amenjalal94.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a second year PhD candidate in economics at the London School of Economics (LSE), where I am affiliated with [STICERD](https://sticerd.lse.ac.uk), the [Hub for equal representation in the economy](https://www.hubequalrep.org) and the [Economics of Environment and Energy](https://sticerd.lse.ac.uk/_new/research/economics-environment-energy/default.asp) (EEE) Programme. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have a Bachelors in economics from Yale University.
 
-### Markdown
+Before starting the PhD, I worked at the World Bank as research analyst at the [Development Impact Evaluation](https://www.worldbank.org/en/research/dime) group and [ID4D](https://id4d.worldbank.org).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am also a Graduate Student Fellow at [CERP](https://www.cerp.org.pk).
 
-```markdown
-Syntax highlighted code block
+I have ongoing work on gender inequality in low income countries, including on female labor force participation, delivery and targeting of female cash transfer programs, and violence against women. I am also interested in environmental issues and energy markets in developing countries. 
 
-# Header 1
-## Header 2
-### Header 3
+## Work in progress 
 
-- Bulleted
-- List
+### Can biometric verification get more cash to poor women? Evidence from Pakistan 
+(with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Bilal Siddiqi](https://bilalsiddiqi.com), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-1. Numbered
-2. List
+_Draft available on request; supported by ID4D and the Gates Foundation_
 
-**Bold** and _Italic_ and `Code` text
+We exploit the staggered rollout of biometric identity verification, and exogenous changes to the market structure of payment delivery agents in Pakistanâ€™s Benazir Income Support Programme to assess impacts on the delivery of cash to low-income women. We find that biometric verification increases womenâ€™s control over how to spend the cash. In areas where the new system does not require additional payment agent involvement, beneficiaries also report receiving slightly more cash under the new system. However, we also find an increase in reports of side payments paid involuntarily to access the cash transfer, and a decline in beneficiary satisfaction with the payment system. We explore mechanisms for the effects including mobility constraints faced by female beneficiaries and the market power of payment agents.
 
-[Link](url) and ![Image](src)
-```
+### **What happens when cash transfers suddenly stop? Quasi-experimental evidence from new BISP eligibility criteria in Pakistan** 
+(with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+_Baseline data collection in progress; supported by IFPRI_
 
-### Jekyll Themes
+A growing body of evidence shows mostly positive impacts of cash transfers for women on a range of outcomes, especially intimate partner violence. However, there is limited work, empirical or theoretical, on what happens when long running unconditional cash transfers stop. Cash transfers may stop for a given household either because their economic position has improved and they no longer meet the eligibility criterion, or because of cuts to the funding pot resulting in a more stringent eligibility criterion. Since cash transfer programs are costly and may not be expected to provide support permanently, understanding how households cope when cash transfers stop is crucial. In this study, we use a regression discontinuity approach to examine the impact of the discontinuation of cash transfers on households in Pakistan who have been receiving transfers over a ten year period.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amenjalal94/amenjalal94.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Teaching 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **[LSE EC1A3 Microeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1A3.htm)** for undergraduate students, Fall 2021 (taught by Ronny Razin)
+- **[LSE PP455E Empirical Methods for Public Policy](https://www.lse.ac.uk/resources/calendar.bak/courseGuides/EC/2015_EC455E.htm)** for Executive Master of Public Administration and Executive Master of Public Policy students, Spring 2022 (taught by Daniel Sturm and Gregory Fischer)
+- **[LSE EC1B3 Macroeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1B3.htm)** for undergraduate students, Spring 2022 (taught by Antonio Mele)
