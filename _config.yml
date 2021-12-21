@@ -5,3 +5,6 @@ logo: "/images/me.jpg"
 social-network-links:
   email: "amenjalal94@gmail.com"
   twitter: amenjalal_
+share-links-active:
+  twitter: true
+  email: true
