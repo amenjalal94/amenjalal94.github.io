@@ -6,7 +6,7 @@ I have a Bachelors in economics from Yale University.
 
 Before starting the PhD, I worked at the World Bank as a research analyst at the [Development Impact Evaluation](https://www.worldbank.org/en/research/dime) group and [ID4D](https://id4d.worldbank.org).
 
-I am also a Graduate Student Fellow at [CERP](https://www.cerp.org.pk).
+I am also a Graduate Student Fellow at [CERP](https://www.cerp.org.pk), Pakistan.
 
 I have ongoing work on gender inequality in low income countries, including on female labor force participation, delivery and targeting of female cash transfer programs, and violence against women. I am also interested in environmental issues and energy markets in developing countries. 
 
