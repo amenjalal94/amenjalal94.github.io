@@ -2,6 +2,3 @@ theme: jekyll-theme-minimal
 github: is\_project\_page:false
 title: Amen Jalal
 logo: "/images/me.jpg"
-markdown: kramdown
-kramdown:
-  parse_block_html: true
