@@ -4,7 +4,7 @@ I am a second year PhD candidate in economics at the London School of Economics 
 
 I have a Bachelors in economics from Yale University.
 
-Before starting the PhD, I worked at the World Bank as research analyst at the [Development Impact Evaluation](https://www.worldbank.org/en/research/dime) group and [ID4D](https://id4d.worldbank.org).
+Before starting the PhD, I worked at the World Bank as a research analyst at the [Development Impact Evaluation](https://www.worldbank.org/en/research/dime) group and [ID4D](https://id4d.worldbank.org).
 
 I am also a Graduate Student Fellow at [CERP](https://www.cerp.org.pk).
 
