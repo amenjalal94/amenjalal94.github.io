@@ -2,5 +2,7 @@ theme: jekyll-theme-minimal
 github: is\_project\_page:false
 title: Amen Jalal
 logo: "/images/me.jpg"
-include: 
-  - "/_include/text-expand.html"
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "tables"]
