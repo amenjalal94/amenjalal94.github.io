@@ -16,7 +16,6 @@ I have ongoing work on gender inequality in low income countries, including on f
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Bilal Siddiqi](https://bilalsiddiqi.com), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available on request; supported by ID4D and the Gates Foundation_
-
   <details>
   
   <summary>Abstract</summary>
@@ -30,7 +29,6 @@ _Draft available on request; supported by ID4D and the Gates Foundation_
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Baseline data collection in progress; supported by IFPRI_
-
   <details>
   
   <summary>Abstract</summary>
