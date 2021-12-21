@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 github: is\_project\_page:false
 title: Amen Jalal
 logo: "/images/me.jpg"
-include: "_include/text-expand.html"
+include: 
+  - "/_include/text-expand.html"
