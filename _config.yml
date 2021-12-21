@@ -3,6 +3,3 @@ github: is\_project\_page:false
 title: Amen Jalal
 logo: "/images/me.jpg"
 markdown: CommonMarkGhPages
-commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "tables"]
