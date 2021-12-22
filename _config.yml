@@ -2,8 +2,8 @@ theme: jekyll-theme-minimal
 github: is\_project\_page:false
 title: Amen Jalal
 logo: "/images/me.jpg"
-authors:
-    Amen_Jalal:
-      author-name: Amen Jalal
-      author-email: amenjalal94@gmail.com
-      author-twitter: https://twitter.com/amenjalal_
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+email: amenjalal94 at gmail dot com
