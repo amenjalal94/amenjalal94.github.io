@@ -1,4 +1,4 @@
-remote_theme: BDHU/minimalist
+theme: jekyll-theme-minimalist
 github: is\_project\_page:false
 title: Amen Jalal
 logo: "/images/me.jpg"
