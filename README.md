@@ -24,7 +24,7 @@ _Draft available on request; supported by ID4D and the Gates Foundation_
 </details>	
 <br />
 	
-### What happens when cash transfers suddenly stop? Quasi-experimental evidence from new BISP eligibility criteria in Pakistan
+### What happens when cash transfers suddenly stop? Quasi-experimental evidence from Pakistan
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Baseline data collection in progress; supported by IFPRI_
