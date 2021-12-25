@@ -10,7 +10,7 @@ I am also a Graduate Student Fellow at [CERP](https://www.cerp.org.pk), Pakistan
 
 I have ongoing work on gender inequality in low income countries, including on female labor force participation, delivery and targeting of female cash transfer programs, and violence against women. I am also interested in environmental issues and energy markets in developing countries. 
 
-## Selected works in progress 
+## Select works in progress 
 
 ### Can biometric verification get more cash to poor women? Evidence from Pakistan 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Bilal Siddiqi](https://bilalsiddiqi.com), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
