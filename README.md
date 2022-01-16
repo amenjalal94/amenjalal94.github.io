@@ -1,6 +1,6 @@
 Welcome! 
 
-I am a second year PhD candidate in economics at the London School of Economics (LSE), where I am affiliated with [STICERD](https://sticerd.lse.ac.uk), the [Hub for equal representation in the economy](https://www.hubequalrep.org) and the [Economics of Environment and Energy](https://sticerd.lse.ac.uk/_new/research/economics-environment-energy/default.asp) (EEE) Programme. 
+I am a second year PhD candidate in economics at the London School of Economics (LSE), where I am affiliated with [STICERD](https://sticerd.lse.ac.uk), the [Hub for equal representation](https://www.hubequalrep.org) (HER) and the [Economics of Environment and Energy](https://sticerd.lse.ac.uk/_new/research/economics-environment-energy/default.asp) (EEE) Programme. 
 
 I have a Bachelors in economics from Yale University.
 
