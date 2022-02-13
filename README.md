@@ -1,6 +1,6 @@
 Welcome! 
 
-I am a second year PhD candidate in economics at the London School of Economics (LSE), where I am affiliated with [STICERD](https://sticerd.lse.ac.uk), the [Hub for equal representation](https://www.hubequalrep.org) (HER) and the [Economics of Environment and Energy](https://sticerd.lse.ac.uk/_new/research/economics-environment-energy/default.asp) (EEE) Programme. 
+I am a second year PhD candidate in economics at the London School of Economics (LSE), where I am affiliated with the [Hub for equal representation](https://www.hubequalrep.org) (HER) and the [Economics of Environment and Energy](https://sticerd.lse.ac.uk/_new/research/economics-environment-energy/default.asp) (EEE) Programme at [STICERD](https://sticerd.lse.ac.uk).
 
 I have a Bachelors in economics from Yale University.
 
@@ -10,7 +10,7 @@ I am also a Graduate Student Fellow at [CERP](https://www.cerp.org.pk), Pakistan
 
 I have ongoing work on gender inequality in low income countries, including on female labor force participation, delivery and targeting of female cash transfer programs, and violence against women. I am also interested in environmental issues and energy markets in developing countries. 
 
-## Select works in progress 
+## Works in progress 
 
 ### Can biometric verification get more cash to poor women? Evidence from Pakistan 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Bilal Siddiqi](https://bilalsiddiqi.com), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
@@ -49,6 +49,9 @@ _Supported by the IGC_
   Several countries are investing large sums of money in nation-wide tree planting programs as part of their climate mitigation and adaptation strategies. However, there is limited evidence on the impacts of such programs on livelihoods and ecosystems. These programs may harm ecosystems and agriculture, deplete water supplies, displace local communities, and lead to more deforestation in other areas downstream. Conversely, planting the right species of trees at the right place can sequester carbon, regenerate forests and provide ecosystem services like flood prevention. In this project, we use satellite, administrative and household survey data to evaluate the net environmental and economic impacts of Pakistan's Billion Tree Tsunami Afforestation Programme (BTTAP) with a general equilibrium framework. This framework accounts for the generation of new jobs and industries in ecosystem protection, as well as the displacement of existing economic activities like agriculture.
 </details>
 <br />
+
+### The female labor force participation tax: reservation wages and labor supply of college-educated women in Pakistan 
+(with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
 ## Teaching 
 
