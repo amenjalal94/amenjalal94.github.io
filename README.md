@@ -52,6 +52,7 @@ _Supported by the IGC_
 
 ### The female labor force participation tax: reservation wages and labor supply of college-educated women in Pakistan 
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
+<br />
 
 ## Teaching 
 
