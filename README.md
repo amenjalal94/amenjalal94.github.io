@@ -50,7 +50,7 @@ _Supported by the IGC_
 </details>
 <br />
 
-### The female labor force participation tax: reservation wages and labor supply of college-educated women in Pakistan 
+### The female labor force participation gap: reservation wages and labor supply of college-educated women in Pakistan 
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 <br />
 
