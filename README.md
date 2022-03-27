@@ -37,6 +37,19 @@ _Baseline data collection completed; supported by IFPRI_
 </details>
 <br />
 
+
+### The female labor force participation gap: reservation wages and labor supply of college-educated women in Pakistan 
+(with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
+
+<details>
+
+  <summary>Click for abstract</summary>  
+ 
+Only 25% of women with a university degree work in Pakistan. This implies misallocation of talent, with large negative consequences for output (Hsieh et al., 2019). In this paper, we survey male and female students enrolled in a large university in Pakistan. We embed hypothetical job choice vignettes into the survey to capture job preferences, and beliefs about social norms and the labor market. In particular, we elicit respondents’ reservation wages as well as beliefs about market wages against variations in work flexibility along two main dimensions: remote or on-site jobs, full or part-time jobs. By comparing men’s and women’s responses, we estimate how women’s preferences for flexibility affect the gender gap in labor force participation. Using labor market data from Pakistan's biggest job platform, we also compare reservation wages and beliefs about market wages with observed wages to infer biases in beliefs about the labor market. Finally, we elicit men’s and women’s perception of the degree of complementarity between the labor and the marriage market for women. We use insights from this baseline survey to desgin belief correction and job matching interventions for women and their families.
+</details>
+
+<br />
+
 ### General equilibrium effects of a billion trees: Evidence from a large-scale afforestation program in Pakistan
 (with [Veronica Salazar-Restrepo](https://www.lse.ac.uk/economics/people/research-students/veronica-salazar-restrepo))
 
@@ -48,10 +61,6 @@ _Supported by the IGC_
  
   Several countries are investing large sums of money in nation-wide tree planting programs as part of their climate mitigation and adaptation strategies. However, there is limited evidence on the impacts of such programs on livelihoods and ecosystems. These programs may harm ecosystems and agriculture, deplete water supplies, displace local communities, and lead to more deforestation in other areas downstream. Conversely, planting the right species of trees at the right place can sequester carbon, regenerate forests and provide ecosystem services like flood prevention. In this project, we use satellite, administrative and household survey data to evaluate the net environmental and economic impacts of Pakistan's Billion Tree Tsunami Afforestation Programme (BTTAP) with a general equilibrium framework. This framework accounts for the generation of new jobs and industries in ecosystem protection, as well as the displacement of existing economic activities like agriculture.
 </details>
-<br />
-
-### The female labor force participation gap: reservation wages and labor supply of college-educated women in Pakistan 
-(with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 <br />
 
 ## Teaching 
