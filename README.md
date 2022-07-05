@@ -38,8 +38,10 @@ _Baseline data collection completed; supported by IFPRI_
 <br />
 
 
-### The female labor force participation gap: reservation wages and labor supply of college-educated women in Pakistan 
+### The reservation wedge: reservation wages and labor supply of college-educated women in Pakistan 
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
+
+_Baseline data collection completed; supported by LSE STICERD, LSE RISF, LSE H.E.R. & The Gates Foundation_
 
 <details>
 
