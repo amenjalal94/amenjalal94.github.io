@@ -41,7 +41,7 @@ _Baseline data collection completed; supported by IFPRI_
 ### The reservation wedge: reservation wages and labor supply of college-educated women in Pakistan 
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
-_Baseline data collection completed; supported by LSE's STICERD, RISF, HER & The Gates Foundation_
+_Baseline data collection completed; supported by LSE's STICERD, RISF, HER, and The Gates Foundation_
 
 <details>
 
