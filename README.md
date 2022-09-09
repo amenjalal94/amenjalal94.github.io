@@ -13,7 +13,7 @@ I have ongoing work on gender inequality in low income countries, including on f
 ## Works in progress 
 
 ### Can biometric verification get more cash to poor women? Evidence from Pakistan 
-(with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Bilal Siddiqi](https://bilalsiddiqi.com), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
+(with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available on request; supported by the World Bank's ID4D and the Gates Foundation_
 
