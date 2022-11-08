@@ -50,7 +50,7 @@ Only 25% of women with a university degree work in Pakistan. This implies misall
 
 <br />
 
-### General equilibrium effects of a billion trees: Evidence from a large-scale afforestation program in Pakistan
+### General equilibrium effects of a billion trees: Evidence from Pakistan
 (with [Veronica Salazar-Restrepo](https://www.lse.ac.uk/economics/people/research-students/veronica-salazar-restrepo))
 
 _Supported by the IGC_
