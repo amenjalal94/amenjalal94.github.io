@@ -51,6 +51,7 @@ Only 25% of women with a university degree work in Pakistan. This implies misall
 <br />
 
 ###  Barriers to climate adaptation in Pakistan’s devastating floods
+(with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
 _Supported by IGC_
 
