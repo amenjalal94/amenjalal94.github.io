@@ -80,11 +80,7 @@ _Supported by the IGC_
 
 ## Teaching 
 
-### Current courses 
-
-- [LSE PP455E Empirical Methods for Public Policy](https://www.lse.ac.uk/resources/calendar.bak/courseGuides/EC/2015_EC455E.htm) for Executive Master of Public Administration and Executive Master of Public Policy students, Spring 2022 (taught by Daniel Sturm and Gregory Fischer)
-- [LSE EC1B3 Macroeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1B3.htm) for undergraduate students, Spring 2022 (taught by Antonio Mele)
-
-### Past courses 
-- [LSE EC1A3 Microeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1A3.htm) for undergraduate students, Fall 2021 (taught by Ronny Razin)
+- [LSE PP455E Empirical Methods for Public Policy](https://www.lse.ac.uk/resources/calendar.bak/courseGuides/EC/2015_EC455E.htm) for Executive Master of Public Administration and Executive Master of Public Policy students, Spring 2022 (taught by Daniel Sturm and Gregory Fischer in 2022; and Daniel Sturm and Michael Callen in 2023)
+- [LSE EC1B3 Macroeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1B3.htm) for undergraduate students (taught by Antonio Mele)
+- [LSE EC1A3 Microeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1A3.htm) for undergraduate students (taught by Ronny Razin)
 
