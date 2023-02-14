@@ -10,15 +10,15 @@ I have ongoing work on gender inequality in low income countries, including on f
 
 ## Works in progress 
 
-### Can biometric verification get more cash to poor women? Evidence from Pakistan 
+### Can competition reduce corruption? Evidence from cash transfers in Pakistan 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Draft available on request; supported by the World Bank's ID4D and the Gates Foundation_
+_Supported by the World Bank's ID4D and the Gates Foundation_
 
 <details>
 
   <summary>Click for abstract</summary>	
-  We exploit the staggered rollout of biometric identity verification, and exogenous changes to the market structure of payment delivery agents in Pakistan's Benazir Income Support Programme to assess impacts on the delivery of cash to low-income women. We find that biometric verification increases women's control over how to spend the cash. In areas where the new system does not require additional payment agent involvement, beneficiaries also report receiving slightly more cash under the new system. However, we also find an increase in reports of side payments paid involuntarily to access the cash transfer, and a decline in beneficiary satisfaction with the payment system. We explore mechanisms for the effects including mobility constraints faced by female beneficiaries and the market power of payment agents.
+  We study whether corruption can be reduced through increased competition between public officials that are prone to demanding bribes. We exploit exogenous changes to the market structure of payment delivery agents in Pakistan's Benazir Income Support Programme to assess impacts on corruption in the delivery of cash transfers. We find that a payments reform that led to exclusive reliance on payment delivery agents increased reports of side payments paid involuntarily to access the cash transfer. However, an increase in market competition between these payment agents reduces extensive and intensive margin demand for bribes. 
 </details>	
 <br />
 	
@@ -45,7 +45,7 @@ _Baseline data collection completed; supported by STICERD, RISF and HER at LSE, 
 
   <summary>Click for abstract</summary>  
  
-Only 25% of women with a university degree work in Pakistan. This implies misallocation of talent, with large negative consequences for output (Hsieh et al., 2019). In this paper, we survey male and female students enrolled in a large university in Pakistan. We embed hypothetical job choice vignettes into the survey to capture job preferences, and beliefs about social norms and the labor market. In particular, we elicit respondents’ reservation wages as well as beliefs about market wages against variations in work flexibility along two main dimensions: remote or on-site jobs, full or part-time jobs. By comparing men’s and women’s responses, we estimate how women’s preferences for flexibility affect the gender gap in labor force participation. Using labor market data from Pakistan's biggest job platform, we also compare reservation wages and beliefs about market wages with observed wages to infer biases in beliefs about the labor market. Finally, we elicit men’s and women’s perception of the degree of complementarity between the labor and the marriage market for women. We use insights from this baseline survey to desgin belief correction and job matching interventions for women and their families.
+Only 25% of women with a university degree work in Pakistan. This implies misallocation of talent, with large negative consequences for output. We survey male and female students enrolled in a large university in Pakistan. We embed hypothetical job choice vignettes into the survey to capture job preferences, and beliefs about social norms and the labor market. In particular, we elicit respondents’ reservation wages as well as beliefs about market wages against variations in work flexibility along two main dimensions: remote or on-site jobs, full or part-time jobs. By comparing men’s and women’s responses, we estimate how women’s preferences for flexibility affect the gender gap in labor force participation. Using labor market data from Pakistan's biggest job platform, we also compare reservation wages and beliefs about market wages with observed wages to infer biases in beliefs about the labor market. Finally, we elicit men’s and women’s perception of the degree of complementarity between the labor and the marriage market for women. We use insights from this baseline survey to desgin belief correction and job matching interventions for women and their families.
 </details>
 
 <br />
