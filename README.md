@@ -19,7 +19,7 @@ _Supported by the World Bank's ID4D and the Gates Foundation_
 
   <summary>Click for abstract</summary>	
 	
-  We study whether corruption can be reduced through increased competition between public officials that are prone to demanding bribes. We exploit exogenous changes to the market structure of payment delivery agents in Pakistan's Benazir Income Support Programme to assess impacts on corruption in the delivery of cash transfers. We find that a payment reform that led to exclusive reliance on payment delivery agents increased reports of side payments paid involuntarily to access the cash transfer. However, increasing market competition between these rent-seeking payment agents reduces extensive and intensive margin demand for bribes. 
+  We study whether market competition between public officials can reduce corruption. We exploit exogenous changes to the market structure of payment delivery agents in Pakistan's Benazir Income Support Programme to assess impacts on corruption in the delivery of these cash transfers. We find that a payment reform that led to exclusive reliance on payment delivery agents increased reports of side payments paid involuntarily to access the cash transfer. However, higher market competition between these rent-seeking agents reduced extensive and intensive margin demand for bribes. 
 </details>	
 <br />
 	
