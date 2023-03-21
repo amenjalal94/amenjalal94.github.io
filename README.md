@@ -10,7 +10,7 @@ I have ongoing work on gender inequality in low income countries, including on f
 
 ## Works in progress 
 
-### Can competition reduce corruption? Evidence from cash transfers in Pakistan 
+### Can market competition reduce corruption? Evidence from cash transfers in Pakistan 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Supported by the World Bank's ID4D and the Gates Foundation_
