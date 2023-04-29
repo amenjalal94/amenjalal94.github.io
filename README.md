@@ -10,6 +10,21 @@ I have ongoing work on gender inequality in low income countries, including on f
 
 ## Works in progress 
 
+###  Barriers to climate adaptation in Pakistan’s devastating floods
+(with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
+
+_Supported by the IGC and STEG_
+
+<details>
+
+<summary>Click for abstract</summary>
+
+Extreme weather events are increasingly common as a result of climate change. Yet little is known about how exceptional climate shocks affect the lives of those most vulnerable to them, or about the barriers they face to moving out of harm's way. In this project, we study the effects of the 2022 flooding in Pakistan, which has affected 33 million households and left one third of the country under water. We track a random sample of 5,000 ultra-poor rural households at high frequency over 3-5 years. We estimate the impact of flooding on welfare outcomes, migration and occupational change by comparing the post-flood outcomes of 3,000 flood-affected households to those of 2,000 flood-unaffected households. Given that flooding was rainfall driven and entirely unanticipated, we consider this comparison to be the causal effect of exposure to floods. We also test for three barriers that may explain limited adaptation to climate change through migration and occupational change: (i) physical distance to migration destinations; (ii) presence of strong village networks; and (iii) ownership of sector- or location-specific immobile assets. Unforeseen floods shock these factors in plausibly random ways, allowing us to unpick the impact of frictions.
+
+</details>
+
+<br />
+
 ### Can market competition reduce corruption? Evidence from cash transfers in Pakistan 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
@@ -51,20 +66,6 @@ Only 25% of women with a university degree work in Pakistan. This implies misall
 
 <br />
 
-###  Barriers to climate adaptation in Pakistan’s devastating floods
-(with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
-
-_Supported by the IGC and STEG_
-
-<details>
-
-<summary>Click for abstract</summary>
-
-Extreme weather events are increasingly common as a result of climate change. Yet little is known about how exceptional climate shocks affect the lives of those most vulnerable to them, or about the barriers they face to moving out of harm's way. In this project, we study the effects of the 2022 flooding in Pakistan, which has affected 33 million households and left one third of the country under water. We track a random sample of 5,000 ultra-poor rural households at high frequency over 3-5 years. We estimate the impact of flooding on welfare outcomes, migration and occupational change by comparing the post-flood outcomes of 3,000 flood-affected households to those of 2,000 flood-unaffected households. Given that flooding was rainfall driven and entirely unanticipated, we consider this comparison to be the causal effect of exposure to floods. We also test for three barriers that may explain limited adaptation to climate change through migration and occupational change: (i) physical distance to migration destinations; (ii) presence of strong village networks; and (iii) ownership of sector- or location-specific immobile assets. Unforeseen floods shock these factors in plausibly random ways, allowing us to unpick the impact of frictions.
-
-</details>
-
-<br />
 
 ### General equilibrium effects of a billion trees: Evidence from Pakistan
 (with [Veronica Salazar-Restrepo](https://www.lse.ac.uk/economics/people/research-students/veronica-salazar-restrepo))
