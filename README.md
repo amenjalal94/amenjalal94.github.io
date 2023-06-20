@@ -25,17 +25,19 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 
 <br />
 
-### Can market competition reduce corruption? Evidence from cash transfers in Pakistan 
-(with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Supported by the World Bank's ID4D and the Gates Foundation_
+### When there is a will but not a way: labor supply of college-educated women in Pakistan 
+(with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
+
+_Three waves of data collection completed; supported by STICERD, RISF and HER at LSE, and the Gates Foundation_
 
 <details>
 
-  <summary>Click for abstract</summary>	
-	
-  We study whether market competition between public officials can reduce corruption. We exploit exogenous changes to the market structure of payment delivery agents in Pakistan's Benazir Income Support Programme to assess impacts on corruption in the delivery of these cash transfers. We find that a payment reform that led to exclusive reliance on payment delivery agents increased reports of side payments paid involuntarily to access the cash transfer. However, higher market competition between these rent-seeking agents reduced extensive and intensive margin demand for bribes. 
-</details>	
+  <summary>Click for abstract</summary>  
+ 
+For the past 25 years, the female labor force participation of college-educated women in Pakistan has stagnated at 33%. In this project, we measure and track over time both beliefs and actual labor market decisions of thousands of students graduating from a large private university in Lahore. We find that at graduation, women believe, on average, that they have a 72% chance of working six months later. This is close to men’s own employment belief, at 78%, hence rejecting the hypothesis that women use education solely as a marriage market signal. However, while men have, on average, nearly accurate beliefs about their future employment, women vastly overestimate it: only 43% of women work six months later, while 70% of men do. We explore potential mechanisms behind these gender gaps, including search intensity, wage expectations, preferences for non-wage amenities, and family involvement. 
+</details>
+
 <br />
 	
 ### What happens when cash transfers suddenly stop? Quasi-experimental evidence from Pakistan
@@ -51,21 +53,18 @@ _Baseline data collection completed; supported by IFPRI and IPA_
 </details>
 <br />
 
+### Can market competition reduce corruption? Evidence from cash transfers in Pakistan 
+(with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-### The reservation wedge: labor supply of college-educated women in Pakistan 
-(with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
-
-_Three waves of data collection completed; supported by STICERD, RISF and HER at LSE, and the Gates Foundation_
+_Supported by the World Bank's ID4D and the Gates Foundation_
 
 <details>
 
-  <summary>Click for abstract</summary>  
- 
-Only 25% of women with a university degree work in Pakistan. This implies misallocation of talent, with large negative consequences for output. We survey male and female students enrolled in a large university in Pakistan. We embed hypothetical job choice vignettes into the survey to capture job preferences, and beliefs about social norms and the labor market. In particular, we elicit respondents’ reservation wages as well as beliefs about market wages against variations in work flexibility along two main dimensions: remote or on-site jobs, full or part-time jobs. By comparing men’s and women’s responses, we estimate how women’s preferences for flexibility affect the gender gap in labor force participation. Using labor market data from Pakistan's biggest job platform, we also compare reservation wages and beliefs about market wages with observed wages to infer biases in beliefs about the labor market. Finally, we elicit men’s and women’s perception of the degree of complementarity between the labor and the marriage market for women. We use insights from this baseline survey to desgin belief correction and job matching interventions for women and their families.
-</details>
-
+  <summary>Click for abstract</summary>	
+	
+  We study whether market competition between public officials can reduce corruption. We exploit exogenous changes to the market structure of payment delivery agents in Pakistan's Benazir Income Support Programme to assess impacts on corruption in the delivery of these cash transfers. We find that a payment reform that led to exclusive reliance on payment delivery agents increased reports of side payments paid involuntarily to access the cash transfer. However, higher market competition between these rent-seeking agents reduced extensive and intensive margin demand for bribes. 
+</details>	
 <br />
-
 
 ### General equilibrium effects of a billion trees: Evidence from Pakistan
 (with [Veronica Salazar-Restrepo](https://www.lse.ac.uk/economics/people/research-students/veronica-salazar-restrepo))
