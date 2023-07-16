@@ -13,7 +13,7 @@ I have ongoing work on gender inequality in low income countries, including on f
 ###  Barriers to climate adaptation in Pakistan’s devastating floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
-_Supported by the IGC and STEG_
+_Data collection ongoing; supported by the IGC and STEG_
 
 <details>
 
@@ -29,7 +29,7 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 ### When there is a will but not a way: labor supply of college-educated women in Pakistan 
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
-_Four waves of data collection completed; supported by STICERD, RISF and HER at LSE, and the Gates Foundation_
+_Data collection ongoing; supported by STICERD, RISF and HER at LSE, and the Gates Foundation_
 
 <details>
 
@@ -43,7 +43,7 @@ For the past 25 years, the female labor force participation of college-educated 
 ### What happens when cash transfers suddenly stop? Quasi-experimental evidence from Pakistan
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Baseline data collection completed; supported by IFPRI and IPA_
+_Data collection completed; supported by IFPRI and IPA_
   
 <details>
 
@@ -56,7 +56,7 @@ _Baseline data collection completed; supported by IFPRI and IPA_
 ### Can market competition reduce corruption? Evidence from cash transfers in Pakistan 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Supported by the World Bank's ID4D and the Gates Foundation_
+_Analysis ongoing; supported by the World Bank's ID4D and the Gates Foundation_
 
 <details>
 
@@ -69,7 +69,7 @@ _Supported by the World Bank's ID4D and the Gates Foundation_
 ### General equilibrium effects of a billion trees: Evidence from Pakistan
 (with [Veronica Salazar-Restrepo](https://www.lse.ac.uk/economics/people/research-students/veronica-salazar-restrepo))
 
-_Supported by the IGC_
+_Analysis ongoing; Supported by the IGC_
 
 <details>
 
