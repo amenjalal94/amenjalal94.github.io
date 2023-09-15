@@ -52,7 +52,7 @@ started receiving marriage offers shortly after graduating and reported growing 
 to consider these offers imminently. If marriage offers arrive faster than job offers – and women get engaged
 or married before they start work – they may never work. Conversely, if a woman is already employed when she enters the marriage market, she is
 unlikely to receive offers from men who find a working woman unsuitable, thus shifting the composition of
-marriage offers in favor of sustained FLFP. To test how the timing of job search affects FLFP, we are running our experiment with 2,100 students graduating from Pakistan’s largest (public) university.
+marriage offers in favor of sustained FLFP. To test how the timing of job search affects FLFP, we are running this experiment with 2,100 students graduating from Pakistan’s largest (public) university.
 </details>
 
 <br />
