@@ -45,8 +45,7 @@ force and only 34% were gainfully employed. In contrast, 85% of men were in the 
 them were employed. This is despite the fact that women on average had a higher GPA, and conditional on
 applying, received job offers at the same rate as men. In an ongoing experiment, we test one potential channel explaining why women’s LFP falls short of
 their expectations: the timing of their job application. Specifically, we test whether encouraging women to
-apply to jobs before or right after graduation leads to higher LFP. This experiment is motivated by stylized
-facts established through baseline surveys. We observed that while men’s labor market outcomes do not depend on the timing of their applications, women’s
+apply to jobs before or right after graduation leads to higher LFP. At baseline, we observed that while men’s labor market outcomes do not depend on the timing of their applications, women’s
 chances of LFP and employment double if they started applying to jobs earlier. However, most students –
 especially women – did not start applying to jobs until a few months after graduation. Meanwhile, women
 started receiving marriage offers shortly after graduating and reported growing pressure from their families
