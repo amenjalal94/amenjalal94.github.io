@@ -26,16 +26,34 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 <br />
 
 
-### When there is a will but not a way: labor supply of college-educated women in Pakistan 
+### When job offers out-pace the marriage market: Labour supply of college educated women in Pakistan
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
-_Data collection ongoing; supported by STICERD, RISF and HER at LSE, and the Gates Foundation_
+_Data collection ongoing; supported by STICERD, RISF and HER at LSE_
 
 <details>
 
   <summary>Click for abstract</summary>  
  
-For the past 25 years, the female labor force participation of college-educated women in Pakistan has stagnated at 33%. In this project, we measure and track over time both beliefs and actual labor market decisions of thousands of students graduating from a large private university in Lahore. We find that at graduation, women believe, on average, that they have a 72% chance of working six months later. This is close to men’s own employment belief, at 78%. However, while men have, on average, nearly accurate beliefs about their future employment, women vastly overestimate it: only 43% of women work six months later, while 70% of men do. We explore potential mechanisms behind these gender gaps, including search intensity, wage expectations, preferences for non-wage amenities, and family involvement. 
+Over the past 25 years, increased college education for women in Pakistan has not translated into
+higher female labor force participation (FLFP): only 33% of college-educated women participate in the labor
+force, which is almost as low as the national average rate of FLFP. In June 2022, we surveyed the entire graduating
+cohort (2,200 students) of a large private university in Lahore. Strikingly, we found that virtually all female
+students intended to work after college, and believed themselves to be about as likely as their male peers
+to find a job within 6 months. However, 6 months later, only 48% of female students were in the labor
+force and only 34% were gainfully employed. In contrast, 85% of men were in the labor force and 60% of
+them were employed. This is despite the fact that women on average had a higher GPA, and conditional on
+applying, received job offers at the same rate as men. In an ongoing experiment, we test one potential channel explaining why women’s LFP falls short of
+their expectations: the timing of their job application. Specifically, we test whether encouraging women to
+apply to jobs before or right after graduation leads to higher LFP. This experiment is motivated by stylized
+facts established through baseline surveys. We observed that while men’s labor market outcomes do not depend on the timing of their applications, women’s
+chances of LFP and employment double if they started applying to jobs earlier. However, most students –
+especially women – did not start applying to jobs until a few months after graduation. Meanwhile, women
+started receiving marriage offers shortly after graduating and reported growing pressure from their families
+to consider these offers imminently. If marriage offers arrive faster than job offers – and women get engaged
+or married before they start work – they may never work. Conversely, if a woman is already employed when she enters the marriage market, she is
+unlikely to receive offers from men who find a working woman unsuitable, thus shifting the composition of
+marriage offers in favor of sustained FLFP. To test how the timing of job search affects FLFP, we are running our experiment with 2,100 students graduating from Pakistan’s largest (public) university.
 </details>
 
 <br />
