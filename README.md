@@ -31,6 +31,8 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 
 _Data collection ongoing; supported by STICERD, RISF and HER at LSE_
 
+[AEA registry](https://www.socialscienceregistry.org/trials/11298)
+
 <details>
 
   <summary>Click for abstract</summary>  
