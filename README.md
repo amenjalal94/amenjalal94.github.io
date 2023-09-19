@@ -56,19 +56,6 @@ marriage offers in favor of sustained FLFP. To test how the timing of job search
 </details>
 
 <br />
-	
-### What happens when cash transfers suddenly stop? Quasi-experimental evidence from Pakistan
-(with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
-
-_Data collection completed; supported by IFPRI and IPA_
-  
-<details>
-
-  <summary>Click for abstract</summary>  
- 
-  A growing body of evidence shows mostly positive impacts of cash transfers for women on a range of outcomes. However, there is limited work, empirical or theoretical, on what happens when long running unconditional cash transfers stop. Cash transfers may stop for a given household either because their economic position has improved and they no longer meet the eligibility criterion, or because of cuts to the funding pot resulting in a more stringent eligibility criterion. Since cash transfer programs are costly and may not be expected to provide support permanently, understanding how households cope when cash transfers stop is crucial. In this study, we use a regression discontinuity approach to examine the impact of the discontinuation of cash transfers on households in Pakistan who have been receiving transfers over a ten year period.
-</details>
-<br />
 
 ### Can market competition reduce corruption? Evidence from cash transfers in Pakistan 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
@@ -81,6 +68,19 @@ _Analysis ongoing; supported by the World Bank's ID4D and the Gates Foundation_
 	
   We study whether market competition between public officials can reduce corruption. We exploit exogenous changes to the market structure of payment delivery agents in Pakistan's Benazir Income Support Programme to assess impacts on corruption in the delivery of these cash transfers. We find that a payment reform that led to exclusive reliance on payment delivery agents increased reports of side payments paid involuntarily to access the cash transfer. However, higher market competition between these rent-seeking agents reduced extensive and intensive margin demand for bribes. 
 </details>	
+<br />
+	
+### What happens when cash transfers suddenly stop? Quasi-experimental evidence from Pakistan
+(with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
+
+_Analysis on-going; supported by IFPRI and IPA_
+  
+<details>
+
+  <summary>Click for abstract</summary>  
+ 
+  A growing body of evidence shows mostly positive impacts of cash transfers for women on a range of outcomes. However, there is limited work, empirical or theoretical, on what happens when long running unconditional cash transfers stop. Cash transfers may stop for a given household either because their economic position has improved and they no longer meet the eligibility criterion, or because of cuts to the funding pot resulting in a more stringent eligibility criterion. Since cash transfer programs are costly and may not be expected to provide support permanently, understanding how households cope when cash transfers stop is crucial. In this study, we use a regression discontinuity approach to examine the impact of the discontinuation of cash transfers on households in Pakistan who have been receiving transfers over a ten year period.
+</details>
 <br />
 
 ### General equilibrium effects of a billion trees: Evidence from Pakistan
