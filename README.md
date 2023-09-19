@@ -62,6 +62,8 @@ marriage offers in favor of sustained FLFP. To test how the timing of job search
 
 _Analysis ongoing; supported by the World Bank's ID4D and the Gates Foundation_
 
+[Policy brief](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)
+
 <details>
 
   <summary>Click for abstract</summary>	
