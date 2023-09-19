@@ -37,7 +37,7 @@ _Data collection ongoing; supported by STICERD, RISF and HER at LSE_
 
   <summary>Click for abstract</summary>  
  
-Over the past 25 years, while access to college education has increased for women, female labor force participation (FLFP) has remained stagnant in Pakistan. Only 33% of college-educated women participate in the labor force. In June 2022, we surveyed the entire graduating
+Over the past 25 years, while access to college education has increased for women, female labor force participation (FLFP) has remained stagnant in Pakistan; only 33% of college-educated women participate in the labor force. In June 2022, we surveyed the entire graduating
 cohort (2,200 students) of a large private university in Lahore. Strikingly, we found that virtually all female
 students intended to work after college, and believed themselves to be about as likely as their male peers
 to find a job within 6 months. However, 6 months later, only 48% of female students were in the labor
