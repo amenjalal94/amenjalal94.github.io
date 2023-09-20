@@ -86,7 +86,7 @@ _Analysis on-going; supported by IFPRI and IPA_
 <br />
 
 ### General equilibrium effects of a billion trees: Evidence from Pakistan
-(with [Veronica Salazar-Restrepo](veronicasalazarrestrepo.com))
+(with [Veronica Salazar-Restrepo](https://www.veronicasalazarrestrepo.com))
 
 _Analysis ongoing; Supported by the IGC_
 
