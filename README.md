@@ -75,7 +75,7 @@ _Analysis ongoing; supported by the World Bank's ID4D and the Gates Foundation_
 ### What happens when cash transfers suddenly stop? Quasi-experimental evidence from Pakistan
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Analysis on-going; supported by IFPRI and IPA_
+_Analysis ongoing; supported by IFPRI and IPA_
   
 <details>
 
