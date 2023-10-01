@@ -13,7 +13,7 @@ I have ongoing work on gender inequality in low income countries, including on f
 ###  Barriers to climate adaptation in Pakistan’s devastating floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
-_Data collection ongoing; supported by the IGC and STEG_
+_First survey wave completed; supported by the IGC and STEG_
 
 <details>
 
