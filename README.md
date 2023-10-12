@@ -29,7 +29,7 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 ### When job offers out-pace the marriage market: Labour supply of college educated women in Pakistan
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
-_Data collection ongoing; supported by STICERD, RISF and HER at LSE_
+_Baseline and first follow-up completed; supported by STICERD, RISF and HER at LSE_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/11298)
 
