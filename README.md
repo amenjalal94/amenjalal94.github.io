@@ -10,7 +10,7 @@ I have ongoing work on gender inequality in low income countries, including on f
 
 ## Works in progress 
 
-###  Barriers to climate adaptation in Pakistan’s devastating floods
+###  How the rural poor cope with a climate catastrophe: Evidence from Pakistan's 2022 floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
 _First survey wave completed; supported by the IGC and STEG_
