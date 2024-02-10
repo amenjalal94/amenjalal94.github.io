@@ -1,8 +1,8 @@
-I am a 4th year PhD student in economics at the London School of Economics (LSE), where I am affiliated with the [Hub for equal representation](https://www.hubequalrep.org) (HER) and the [Economics of Environment and Energy](https://sticerd.lse.ac.uk/_new/research/economics-environment-energy/default.asp) (EEE) Programme at [STICERD](https://sticerd.lse.ac.uk).
+I am a 4th year PhD student in economics at the **London School of Economics** (LSE), where I am affiliated with the [Hub for equal representation](https://www.hubequalrep.org) (HER) and the [Economics of Environment and Energy](https://sticerd.lse.ac.uk/_new/research/economics-environment-energy/default.asp) (EEE) Programme at [STICERD](https://sticerd.lse.ac.uk).
 
-I have a Bachelors in economics from Yale University.
+I have a Bachelors in economics from **Yale University**.
 
-Before starting the PhD, I worked at the World Bank as a research assistant at [DIME](https://www.worldbank.org/en/research/dime) and [ID4D](https://id4d.worldbank.org).
+Before starting the PhD, I worked at the **World Bank** as a research assistant at [DIME](https://www.worldbank.org/en/research/dime) and [ID4D](https://id4d.worldbank.org).
 
 I am also a Graduate Student Fellow at [CERP](https://www.cerp.org.pk), Pakistan.
 
