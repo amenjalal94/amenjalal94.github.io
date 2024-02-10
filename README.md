@@ -13,7 +13,7 @@ I have ongoing work on gender inequality in low income countries, including on f
 ###  How the rural poor cope with a climate catastrophe: Evidence from Pakistan's 2022 floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
-_First survey wave completed; supported by the IGC, STEG and Center for International Development at Harvard University_
+_One year follow-up completed; supported by the IGC, STEG and Center for International Development at Harvard University_
 
 <details>
 
@@ -29,7 +29,7 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 ### When job offers out-pace the marriage market: Labour supply of college educated women in Pakistan
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
-_Baseline and first follow-up completed; supported by HER, STICERD, and RISF at LSE_
+_Experiment and two follow-ups completed; supported by HER, STICERD, and RISF at LSE_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/11298)
 
