@@ -43,14 +43,10 @@ students intended to work after college, and believed themselves to be about as 
 to find a job within 6 months. However, 6 months later, only 48% of female students were in the labor
 force and only 34% were gainfully employed. In contrast, 85% of men were in the labor force and 60% of
 them were employed. This is despite the fact that women on average had a higher GPA, and conditional on
-applying, received job offers at the same rate as men. In an ongoing experiment, we test one potential channel explaining why women’s LFP falls short of
+applying, received job offers at the same rate as men. We test one potential channel explaining why women’s LFP falls short of
 their expectations: the timing of their job applications. Specifically, we test whether encouraging women to
-apply to jobs before or right after graduation leads to higher LFP. At baseline, we observed that while men’s labor market outcomes do not depend on the timing of their applications, women’s
-chances of LFP and employment double if they started applying to jobs earlier. However, most students –
-especially women – did not start applying to jobs until a few months after graduation. Meanwhile, women
-started receiving marriage offers shortly after graduating and reported growing pressure from their families
-to consider these offers imminently. If marriage offers arrive faster than job offers – and women get engaged
-or married before they start work – they may never work. Conversely, if a woman is already employed when she enters the marriage market, she is
+apply to jobs right after graduation leads to higher LFP. At baseline, we observed that while men’s labor market outcomes do not depend on the timing of their applications, women’s chances of LFP and employment double if they started applying to jobs earlier. However, most students – especially women – did not start applying to jobs until a few months after graduation. Meanwhile, women
+started receiving marriage offers shortly after graduating and reported growing pressure from their families to consider these offers imminently. If marriage offers arrive faster than job offers – and women get engaged or married before they start work – they may never work. Conversely, if a woman is already employed when she enters the marriage market, she is
 unlikely to receive offers from men who find a working woman unsuitable, thus shifting the composition of
 marriage offers in favor of sustained FLFP. To test how the timing of job search affects FLFP, we are running this experiment with 2,100 students graduating from Pakistan’s largest (public) university.
 </details>
