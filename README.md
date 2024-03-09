@@ -6,7 +6,7 @@ Before starting the PhD, I worked at the World Bank as a research assistant at [
 
 I am also a Graduate Student Fellow at [CERP](https://www.cerp.org.pk), Pakistan.
 
-I have ongoing work on gender inequality in low income countries, including on female labor force participation, and cash transfer programs for women. I also work on studying the impacts of, and adaptation to climate change in low income countries.
+I have ongoing work on labor market frictions and gender inequality in low income countries, including on female labor force participation, and cash transfer programs for women. I also work on studying the impacts of, and adaptation to climate change in low income countries.
 
 ## Works in progress 
 
