@@ -26,7 +26,7 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 <br />
 
 
-### The race between the labor and marriage markets: Labour supply of college educated women in Pakistan
+### The race between the labor and marriage markets
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
 _Experiment and two follow-ups completed; supported by HER, STICERD, and RISF at LSE_
