@@ -13,7 +13,9 @@ I have ongoing work on labor market frictions and gender inequality in low incom
 ###  How the rural poor cope with a climate catastrophe: Evidence from Pakistan's 2022 floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
-_One year follow-up completed; supported by the IGC, STEG and Center for International Development at Harvard University_
+_One year follow-up completed_ 
+
+_Supported by the IGC, STEG and Center for International Development at Harvard University_
 
 <details>
 
@@ -29,7 +31,9 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 ### The race between the labor and marriage markets
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
-_Draft available soon; supported by HER, STICERD, and RISF at LSE_
+_Draft available soon_
+
+_Supported by HER, STICERD, and RISF at LSE_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/11298)
 
@@ -56,7 +60,8 @@ marriage offers in favor of sustained FLFP. To test how the timing of job search
 ### Can market competition reduce corruption? Evidence from cash transfers in Pakistan 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Draft available soon; supported by the World Bank's ID4D and the Gates Foundation_
+_Draft available soon_ 
+_Supported by the World Bank's ID4D and the Gates Foundation_
 
 [Policy brief](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)
 
@@ -71,7 +76,8 @@ _Draft available soon; supported by the World Bank's ID4D and the Gates Foundati
 ### What happens when cash transfers suddenly stop? Quasi-experimental evidence from Pakistan
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Draft available soon; supported by IFPRI and IPA_
+_Draft available soon_ 
+_Supported by IFPRI and IPA_
   
 <details>
 
@@ -84,7 +90,9 @@ _Draft available soon; supported by IFPRI and IPA_
 ### General equilibrium effects of a billion trees: Evidence from Pakistan
 (with [Veronica Salazar-Restrepo](https://www.veronicasalazarrestrepo.com))
 
-_Analysis ongoing; Supported by the IGC_
+_Analysis ongoing_
+
+_Supported by the IGC_
 
 <details>
 
