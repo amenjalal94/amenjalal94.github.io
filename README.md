@@ -29,7 +29,7 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 ### The race between the labor and marriage markets
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
-_Experiment and two follow-ups completed; supported by HER, STICERD, and RISF at LSE_
+_Draft available soon; supported by HER, STICERD, and RISF at LSE_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/11298)
 
@@ -56,7 +56,7 @@ marriage offers in favor of sustained FLFP. To test how the timing of job search
 ### Can market competition reduce corruption? Evidence from cash transfers in Pakistan 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Analysis ongoing; supported by the World Bank's ID4D and the Gates Foundation_
+_Draft available soon; supported by the World Bank's ID4D and the Gates Foundation_
 
 [Policy brief](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)
 
@@ -71,7 +71,7 @@ _Analysis ongoing; supported by the World Bank's ID4D and the Gates Foundation_
 ### What happens when cash transfers suddenly stop? Quasi-experimental evidence from Pakistan
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Analysis ongoing; supported by IFPRI and IPA_
+_Draft available soon; supported by IFPRI and IPA_
   
 <details>
 
