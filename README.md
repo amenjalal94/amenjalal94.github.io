@@ -14,7 +14,7 @@ I have ongoing work on labor market frictions and gender inequality in low incom
 
 _Experiment on-going_
 
-_Supported by G2LM|LIC_
+_Supported by G2LMLIC_
 
 <details>
 
