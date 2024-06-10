@@ -44,7 +44,7 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 <br />
 
 
-### The illusion of time: Job Search and Female Labor Force Participation
+### The illusion of time: Job search and female labor force participation
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
 _Draft available soon_
