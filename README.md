@@ -10,6 +10,22 @@ I have ongoing work on labor market frictions and gender inequality in low incom
 
 ## Works in progress 
 
+### Salary disclosure in job ads 
+
+_Experiment on-going_
+
+_Supported by G2LM|LIC_
+
+<details>
+
+<summary>Click for abstract</summary>
+
+Salary is a central characteristic of jobs, and varies considerably across firms for similar positions. However, globally, salary information is scarce at the hiring stage, making it difficult for workers to direct search. This study assesses how salary disclosure in job ads affects workers’ sorting and firms’ wage setting behavior. Using firm surveys and administrative data from Pakistan’s largest online job search platform—where I see salary ranges even when they are hidden from jobseekers—I find that larger and better paying firms are more likely to hide salary information. In particular, such firms use salary non-disclosure as a ‘self-screening' tool to exclusively attract ‘suitable’ workers. This practice may disadvantage women, who tend to have lower labor market exposure and thus may be less able to extract wage signals from job descriptions, or may prefer to know the bargaining space before negotiating. To study these issues, I partner with the job platform to run an experiment in which treated ads are induced to post salary ranges while control ads can choose whether to disclose this information. In response, workers may reallocate search towards jobs for which learning about salaries was previously difficult, but that are ex-post revealed to pay well, e.g., jobs in larger firms. I capture reallocation of search by exploring relevant heterogeneity in firm and job characteristics, and leveraging a saturation design that randomly exposes some labor markets to high (75%) and others to low (25%) treatment intensity.
+
+</details>
+
+<br />
+
 ###  How the rural poor cope with a climate catastrophe: Evidence from Pakistan's 2022 floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
@@ -28,7 +44,7 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 <br />
 
 
-### The race between the labor and marriage markets
+### The illusion of time: Job Search and Female Labor Force Participation
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
 _Draft available soon_
