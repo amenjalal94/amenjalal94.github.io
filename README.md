@@ -16,6 +16,8 @@ _Experiment on-going_
 
 _Supported by G2LMLIC_
 
+[AEA registry](https://www.socialscienceregistry.org/trials/13788)
+
 <details>
 
 <summary>Click for abstract</summary>
@@ -32,6 +34,8 @@ Salary is a central characteristic of jobs, and varies considerably across firms
 _One year follow-up completed_ 
 
 _Supported by the IGC, STEG and Center for International Development at Harvard University_
+
+[IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)
 
 <details>
 
