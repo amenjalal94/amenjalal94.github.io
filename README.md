@@ -1,10 +1,10 @@
-Hello! I am a 4th year PhD student in economics at the London School of Economics (LSE), where I am affiliated with the [Hub for equal representation](https://www.hubequalrep.org) (HER) and the [Economics of Environment and Energy](https://sticerd.lse.ac.uk/_new/our-work/economics-of-environment-and-energy/) (EEE) Programme at [STICERD](https://sticerd.lse.ac.uk).
+Hello! I am a 5th year PhD student in economics at the London School of Economics (LSE), where I am affiliated with the [Hub for equal representation](https://www.hubequalrep.org) (HER) and the [Economics of Environment and Energy](https://sticerd.lse.ac.uk/_new/our-work/economics-of-environment-and-energy/) (EEE) Programme at [STICERD](https://sticerd.lse.ac.uk).
 
 I have a Bachelors in economics from Yale University.
 
 Before starting the PhD, I worked at the World Bank as a research assistant at [DIME](https://www.worldbank.org/en/research/dime) and [ID4D](https://id4d.worldbank.org).
 
-I have ongoing work on labor market frictions and gender inequality in low income countries. I also work on studying the impacts of, and adaptation to climate change in low income countries.
+I work on labor, gender and environmental issues in low income countries.
 
 ## Works in progress 
 
