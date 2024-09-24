@@ -111,8 +111,8 @@ _Supported by the IGC_
 
 ## Teaching 
 <a id="teaching"></a>
-- [LSE PP455E Empirical Methods for Public Policy](https://www.lse.ac.uk/resources/calendar.bak/courseGuides/EC/2015_EC455E.htm) for Executive Master of Public Administration and Executive Master of Public Policy students (2022, 2023, 2024)
+- [LSE PP455E Empirical Methods for Public Policy](https://www.lse.ac.uk/resources/calendar.bak/courseGuides/EC/2015_EC455E.htm) for Executive Master of Public Administration and Public Policy students (2022, 2023, 2024)
 - [LSE EC1B3 Macroeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1B3.htm) for undergraduate students (2022, 2023, 2024)
 - [LSE EC1A3 Microeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1A3.htm) for undergraduate students (2022, 2023)
-- [Intro to Statistics](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/PP/2023_PP430E.htm) for Executive Master of Public Administration and Executive Master of Public Policy students (2022, 2023, 2024)
+- [Intro to Statistics](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/PP/2023_PP430E.htm) for Executive Master of Public Administration and Public Policy students (2022, 2023, 2024)
 
