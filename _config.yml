@@ -8,7 +8,7 @@ authors:
     author-twitter: https://twitter.com/amenjalal_
     author-CV: https://www.dropbox.com/scl/fi/1itzo6u7gak7fmt3r94h2/CV.pdf?rlkey=9lxmji0oqczbjbnlgreqs69yw&dl=0
 sidebar:
-  - title: "Works in Progress"
+    title: "Works in Progress"
     url: "#works-in-progress"
-  - title: "Teaching"
+    title: "Teaching"
     url: "#teaching"
