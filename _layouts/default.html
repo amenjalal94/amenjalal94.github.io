@@ -23,16 +23,6 @@
   </head>
   <body>
     <div class="wrapper">
-            
-      <!-- Sidebar -->
-      <div class="sidebar">
-        <ul>
-          <li><a href="#about-me">About Me</a></li>
-          <li><a href="#works-in-progress">Works in Progress</a></li>
-          <li><a href="#teaching">Teaching</a></li>
-        </ul>
-      </div>
-
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
@@ -53,7 +43,16 @@
         <ul style="list-style-type:none;">
         <li><i class="fas fa-file-alt"></i> <a href="https://www.dropbox.com/scl/fi/1itzo6u7gak7fmt3r94h2/CV.pdf?rlkey=9lxmji0oqczbjbnlgreqs69yw&dl=0"> CV</a></li> 
         <li><i class="fas fa-envelope-open"></i><a href="mailto:amenjalal94gmail.com"> email</a></li> 
-        <li><i class="fab fa-twitter"> </i><a href="https://twitter.com/amenjalal_"> twitter</a></li>
+        <li><i class="fab fa-twitter"> </i><a href="https://twitter.com/amenjalal_"> twitter</a></li>              
+        <!-- Sidebar -->
+        <div class="sidebar">
+          <ul>
+            <li><a href="#about-me">About Me</a></li>
+            <li><a href="#works-in-progress">Works in Progress</a></li>
+            <li><a href="#teaching">Teaching</a></li>
+          </ul>
+        </div>
+
         </ul>
         {% endif %}
         
