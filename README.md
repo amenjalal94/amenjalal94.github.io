@@ -9,7 +9,7 @@ I work on labor, gender and environmental issues in low income countries.
 
 _Experiment on-going_
 
-_Supported by G2LMLIC_
+_Supported by [G2LMLIC_](https://g2lm-lic.iza.org)
 
 [AEA registry](https://www.socialscienceregistry.org/trials/13788)
 
@@ -28,7 +28,7 @@ Salary is a central characteristic of jobs, and varies considerably across firms
 
 _One year follow-up completed_ 
 
-_Supported by the IGC, STEG and Center for International Development at Harvard University_
+_Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [CID, Harvard University](https://www.hks.harvard.edu/centers/cid)_
 
 [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)
 
@@ -48,7 +48,7 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 
 _Draft available soon_
 
-_Supported by HER, STICERD, and RISF at LSE_
+_Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD](https://sticerd.lse.ac.uk/), and [RISF, LSE](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/11298)
 
@@ -66,7 +66,7 @@ This paper documents a large gap between college-graduating women’s intended a
 
 _Draft available soon_ 
 
-_Supported by the World Bank's ID4D and the Gates Foundation_
+_Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)_
 
 [Policy brief](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)
 
@@ -83,7 +83,7 @@ _Supported by the World Bank's ID4D and the Gates Foundation_
 
 _Draft available soon_ 
 
-_Supported by IFPRI and IPA_
+_Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org)_
   
 <details>
 
@@ -98,7 +98,7 @@ _Supported by IFPRI and IPA_
 
 _Analysis ongoing_
 
-_Supported by the IGC_
+_Supported by the [IGC](https://www.theigc.org)_
 
 <details>
 
