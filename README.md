@@ -9,7 +9,7 @@ I work on labor, gender and environmental issues in low income countries.
 
 _Experiment on-going_
 
-_Supported by [G2LMLIC_](https://g2lm-lic.iza.org)
+_Supported by [G2LMLIC](https://g2lm-lic.iza.org)_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/13788)
 
