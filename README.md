@@ -48,7 +48,7 @@ Extreme weather events are increasingly common as a result of climate change. Ye
 
 _Draft available soon_
 
-_Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD](https://sticerd.lse.ac.uk/), and [RISF, LSE](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)_
+_Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD, LSE](https://sticerd.lse.ac.uk/), and [RISF, LSE](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/11298)
 
