@@ -23,7 +23,7 @@ Salary is a central characteristic of jobs, and varies considerably across firms
 
 <br />
 
-###  How the rural poor cope with a climate catastrophe: Evidence from Pakistan's 2022 floods
+###  How the rural poor cope with a climate catastrophe: Pakistan's 2022 floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
 _One year follow-up completed_ 
@@ -61,7 +61,7 @@ This paper documents a large gap between college-graduating women’s intended a
 
 <br />
 
-### Can market competition reduce corruption? Evidence from cash transfers in Pakistan 
+### Can market competition reduce corruption? 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available soon_ 
@@ -78,7 +78,7 @@ _Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates
 </details>	
 <br />
 	
-### What happens when cash transfers suddenly stop? Quasi-experimental evidence from Pakistan
+### What happens when cash transfers suddenly stop? 
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available soon_ 
