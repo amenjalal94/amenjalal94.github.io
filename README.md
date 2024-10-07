@@ -23,7 +23,7 @@ Salary is a central characteristic of jobs, and varies considerably across firms
 
 <br />
 
-###  How do the rural poor cope with a climate catastrophe: Pakistan's 2022 floods
+###  Coping with catastrophe: Pakistan's 2022 floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
 _Second annual follow-up survey ongoing_ 
