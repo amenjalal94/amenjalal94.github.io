@@ -23,10 +23,10 @@ Salary is a central characteristic of jobs, and varies considerably across firms
 
 <br />
 
-###  How the rural poor cope with a climate catastrophe: Pakistan's 2022 floods
+###  How do the rural poor cope with a climate catastrophe: Pakistan's 2022 floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
-_One year follow-up completed_ 
+_Second annual follow-up survey ongoing_ 
 
 _Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [CID, Harvard University](https://www.hks.harvard.edu/centers/cid)_
 
@@ -36,7 +36,7 @@ _Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) a
 
 <summary>Click for abstract</summary>
 
-Extreme weather events are increasingly common as a result of climate change. Yet little is known about how exceptional climate shocks affect the lives of those most vulnerable to them, or about the barriers they face to moving out of harm's way. In this project, we study the effects of the 2022 flooding in Pakistan, which has affected 33 million households and left one third of the country under water. We leverage pre- and post-flood panel data on a random sample of 5,000 low-income, rural households across 6 districts of Sindh, who vary in their local exposure to the 2022 floods. We study (i) how floods impact these households, (ii) what decisions they make to cope with the immediate consequences of this shock, and (iii) what forces shape their forward-looking adaptation decisions. We exploit plausibly random local variation in flood water inundation – i.e., precipitation interacted with topography – conditional on historical likelihood of inundation and district fixed effects. Our outcomes include flood damages (e.g. loss of income or assets, health impacts, and disruption of social networks and trade), coping strategies (e.g. drawdown of savings, sale of assets, new loans, increased labour supply, changes to educational or nuturitional investments) and adaptation (e.g. diversification of networks or assets, and migration). 
+Extreme weather events are becoming more frequent due to climate change, yet we know little about how unprecedented climate shocks impact the most vulnerable populations. In this project, we investigate the effects of the 2022 floods in Pakistan, which affected 33 million households and left one third of the country under water. Using a pre-flood census, we draw a random sample of 5,100 low-income, rural households across 6 districts of Sindh, whom we track and survey one and two years after the floods. These households vary in their local exposure to the 2022 floods. We study (i) the impact of the floods on these households, (ii) how they cope with these impacts and make forward-looking adaptations, and (iii) how flood impacts evolve over time. We exploit plausibly random local variation in flood water inundation – i.e., precipitation interacted with topography – conditional on historical rain and flood risk. Our outcomes include flood damages (e.g. loss of income or assets, health impacts, and disruption of social networks and trade), coping strategies (e.g. drawdown of savings, sale of assets, new loans, increased labour supply, changes to educational or nuturitional investments) and adaptation (e.g. diversification of networks or assets, and migration). 
 
 </details>
 
