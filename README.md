@@ -5,7 +5,7 @@ I work on labor, gender and environmental issues in low income countries.
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-### Salary range disclosure in job ads 
+### Salary Range Disclosure in Job Ads 
 
 _Experiment on-going_
 
@@ -23,7 +23,7 @@ Salary is a central characteristic of jobs, and varies considerably across firms
 
 <br />
 
-###  Coping with catastrophe: Pakistan's 2022 floods
+###  Coping with Catastrophe: Pakistan's 2022 Floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
 _Second annual follow-up survey ongoing_ 
@@ -43,7 +43,7 @@ Extreme weather events are becoming more frequent due to climate change, yet we 
 <br />
 
 
-### The illusion of time: Job search and female labor force participation
+### The Illusion of Time: Job Search and Female Labor Force Participation
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
 _Draft available soon_
@@ -61,7 +61,7 @@ This paper documents a large gap between college-graduating women’s intended a
 
 <br />
 
-### Can market competition reduce corruption? 
+### Can Market Competition Reduce Corruption? 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available soon_ 
@@ -78,7 +78,7 @@ _Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates
 </details>	
 <br />
 	
-### What happens when cash transfers suddenly stop? 
+### What Happens When Cash Transfers Suddenly Stop? 
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available soon_ 
@@ -93,7 +93,7 @@ _Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.or
 </details>
 <br />
 
-### General equilibrium effects of a billion trees: Evidence from Pakistan
+### Equilibrium Effects of a Billion Trees: Evidence from Pakistan
 (with [Veronica Salazar-Restrepo](https://www.veronicasalazarrestrepo.com))
 
 _Analysis ongoing_
