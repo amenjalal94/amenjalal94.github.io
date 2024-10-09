@@ -28,7 +28,7 @@ Salary is a central characteristic of jobs, and varies considerably across firms
 
 _Second annual follow-up survey ongoing_ 
 
-_Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [CID, Harvard University](https://www.hks.harvard.edu/centers/cid)_
+_Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [CID (Harvard University)](https://www.hks.harvard.edu/centers/cid)_
 
 [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)
 
@@ -48,7 +48,7 @@ Extreme weather events are becoming more frequent due to climate change, yet we 
 
 _Draft available soon_
 
-_Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD, LSE](https://sticerd.lse.ac.uk/), and [RISF, LSE](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)_
+_Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/11298)
 
