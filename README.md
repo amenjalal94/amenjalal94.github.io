@@ -7,7 +7,7 @@ I work on labor, gender and environmental issues in low income countries.
 
 ### Salary Range Disclosure in Job Ads 
 
-_Experiment on-going_
+_Experiment ongoing_
 
 _Supported by [G2LMLIC](https://g2lm-lic.iza.org)_
 
