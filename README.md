@@ -89,7 +89,7 @@ _Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.or
 
   <summary>Click for abstract</summary>  
  
-  Cash transfers are the most popular form of social protection globally. However, they may not pay out indefinitely due to budget cuts, changes to program design, or graduation of recipients from the program. How do low-income households cope after long-running cash transfers suddenly stop? Using a regression discontinuity-in-differences design around a revised eligibility threshold, we investigate the effect of being exited from Pakistan's largest cash transfer program. One year after discontinuation, we find no significant impacts on households' economic outcomes or well-being. Two years later, we find a 5% drop in consumption ($\approx$ 40% of the transfer) and a 6 pp (12.5%) decrease in women's mobility (p<0.1), defined as market visits unaccompanied by family.
+  Cash transfers are the most popular form of social protection globally. However, they may not pay out indefinitely due to budget cuts, changes to program design, or graduation of recipients from the program. How do low-income households cope after long-running cash transfers suddenly stop? Using a regression discontinuity-in-differences design around a revised eligibility threshold, we investigate the effect of being exited from Pakistan's largest cash transfer program. One year after discontinuation, we find no significant impacts on households' economic outcomes or well-being. Two years later, we find a 5% drop in consumption (40% of the value of the transfer) and a 6 pp (12.5%) decrease in women's mobility (p<0.1), defined as market visits unaccompanied by family.
 </details>
 <br />
 
