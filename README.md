@@ -28,7 +28,7 @@ Salary is a central characteristic of jobs, and varies considerably across firms
 
 _Second annual follow-up survey ongoing_ 
 
-_Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [CID (Harvard University)](https://www.hks.harvard.edu/centers/cid)_
+_Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)_
 
 [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)
 
