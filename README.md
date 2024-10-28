@@ -93,22 +93,6 @@ _Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.or
 </details>
 <br />
 
-### Equilibrium Effects of a Billion Trees: Evidence from Pakistan
-(with [Veronica Salazar-Restrepo](https://www.veronicasalazarrestrepo.com))
-
-_Analysis ongoing_
-
-_Supported by the [IGC](https://www.theigc.org)_
-
-<details>
-
-  <summary>Click for abstract</summary>  
- 
-  Several countries are investing large sums of money in nation-wide tree planting programs for climate mitigation and adaptation. However, there is limited evidence on the impacts of such programs. They may disrupt ecosystems and agriculture, displace local communities, and lead to more deforestation in other areas. Conversely, planting the right species of trees at the right place can sequester carbon, regenerate forests, and provide ecosystem services like flood prevention. In this project, we focus on Pakistan's Billion Tree Tsunami Afforestation Programme (BTTAP), which planted 1 billion trees in the province of Khyber Pakhtunkhwa. First, we process high-resolution satellite imagery using a cutting-edge, context-specific remote-sensing algorithm. Second, we gather environmental data on wind, fires, temperature, precipitation, and pollution to measure spillovers of the program in down-wind areas. Finally, we incorporate these spillovers in a theoretical framework to analyze whether the program displaced existing economic activities like agriculture.
-
-</details>
-<br />
-
 ## Teaching 
 <a id="teaching"></a>
 - LSE PP440 Micro Economics for Master of Public Administration students (2024)
