@@ -22,3 +22,9 @@ summary {
 details summary {
     color: $brand-color;
 }
+// Phonetic pronunciation style
+.phonetic {
+    font-size: 0.9em;  /* Slightly smaller font */
+    color: $grey-color-darkish;  /* Subdued color */
+    margin-top: -8px;  /* Adjust spacing */
+}
