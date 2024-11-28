@@ -26,7 +26,7 @@ Salary is a central characteristic of jobs, and varies considerably across firms
 ###  Coping with Catastrophe: Pakistan's 2022 Floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
-_Second annual follow-up survey ongoing_ 
+_Two annual follow-up surveys completed_ 
 
 _Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)_
 
