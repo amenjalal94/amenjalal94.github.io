@@ -61,7 +61,7 @@ This paper documents a large gap between college-graduating women’s intended a
 
 <br />
 
-### Can Market Competition Reduce Corruption? 
+### Can Market Competition Reduce Corruption in the Public Sector? 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available soon_ 
