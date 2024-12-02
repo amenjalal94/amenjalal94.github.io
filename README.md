@@ -5,7 +5,7 @@ I work on labor, gender and environmental issues in low income countries.
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-### Salary Range Disclosure in Job Ads 
+### Screening Women Out? Experimental Evidence on Salary Disclosure in Job Ads  
 
 _Experiment ongoing_
 
@@ -17,7 +17,7 @@ _Supported by [G2LMLIC](https://g2lm-lic.iza.org)_
 
 <summary>Click for abstract</summary>
 
-Salary is a central characteristic of jobs, and varies considerably across firms for similar positions. However, globally, salary information is scarce at the hiring stage, making it difficult for workers to direct search. This study assesses how salary disclosure in job ads affects workers’ sorting and firms’ wage setting behavior. Using firm surveys and administrative data from Pakistan’s largest online job search platform—where I see salary ranges even when they are hidden from jobseekers—I find that better paying firms are more likely to hide salary information. In particular, such firms use salary non-disclosure as a ‘self-screening' tool to exclusively attract ‘suitable’ workers. This practice may disadvantage women, who tend to have lower labor market exposure and thus may be less able to extract wage signals from job descriptions, or may prefer to know the bargaining space before negotiating. To study these issues, I partner with the job platform to run an experiment in which treated ads are induced to post salary ranges while control ads can choose whether to disclose this information. The experiment uses a saturation design that randomly exposes some labor markets to high (75%) and others to low (25%) treatment intensity.
+Salary is a central characteristic of jobs, and varies considerably across firms for similar positions. However, globally, salary information is scarce at the hiring stage, making it difficult for workers to direct search. This study assesses how salary disclosure in job ads affects workers’ sorting and firms’ wage setting behavior. Using firm surveys and administrative data from Pakistan’s largest online job search platform—where I see salary ranges even when they are hidden from jobseekers—I find that better paying firms are more likely to hide salary information. In particular, such firms use salary non-disclosure as a ‘self-screening' tool to exclusively attract ‘suitable’ workers. This practice especially disadvantages women, who tend to have lower labor market exposure and thus may be less able to extract wage signals from job descriptions, or may prefer to know the bargaining space before negotiating. To study these issues, I partner with the job platform to run an experiment in which treated ads are induced to post salary ranges while control ads can choose whether to disclose this information. The experiment uses a saturation design that randomly exposes some labor markets to high (75%) and others to low (25%) treatment intensity.
 
 </details>
 
