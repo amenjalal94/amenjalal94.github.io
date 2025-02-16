@@ -1,4 +1,4 @@
-Hello! I am a 5th year PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant in the [DIME](https://www.worldbank.org/en/research/dime) and [ID4D](https://id4d.worldbank.org) teams.
+I am a 5th year PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant in the [DIME](https://www.worldbank.org/en/research/dime) and [ID4D](https://id4d.worldbank.org) teams.
 
 I work on labor, gender and environmental issues in low income countries.
 
@@ -7,9 +7,7 @@ I work on labor, gender and environmental issues in low income countries.
 
 ### Screening Women Out? Experimenting with Salary Disclosure in Job Ads  
 
-_Experiment ongoing_
-
-_Supported by [G2LMLIC](https://g2lm-lic.iza.org)_
+_Experiment ongoing. Supported by [G2LMLIC](https://g2lm-lic.iza.org)_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/13788)
 
@@ -26,9 +24,7 @@ Firm premiums can widen gender gaps in employment and pay if women face barriers
 ###  Coping with Catastrophe: Pakistan's 2022 Floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
-_Two annual follow-up surveys completed_ 
-
-_Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)_
+_Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)_
 
 [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)
 
@@ -46,9 +42,7 @@ Extreme weather events are becoming more frequent due to climate change, yet we 
 ### The Illusion of Time: Job Search and Female Labor Force Participation
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
-_Draft available soon_
-
-_Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)_
+_Draft available soon. Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)_
 
 [AEA registry](https://www.socialscienceregistry.org/trials/11298)
 
@@ -64,9 +58,7 @@ This paper studies why the employment rate of college-educated women remains low
 ### Can Competition Reduce Corruption? 
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Draft available soon_ 
-
-_Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)_
+_Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)_
 
 [Policy brief](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)
 
@@ -81,9 +73,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 ### What Happens When Cash Transfers Suddenly Stop? 
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Draft available soon_ 
-
-_Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org)_
+_Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org)_
   
 <details>
 
