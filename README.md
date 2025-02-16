@@ -5,7 +5,7 @@ I work on labor, gender and environmental issues in low income countries.
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-### Screening Women Out? Experimental Evidence on Salary Disclosure in Job Ads  
+### Screening Women Out? Experimenting with Salary Disclosure in Job Ads  
 
 _Experiment ongoing_
 
