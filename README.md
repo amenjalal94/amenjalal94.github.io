@@ -5,7 +5,7 @@ I work on labor, gender and environmental issues in low income countries.
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-### Screening Women Out? Experimenting with Salary Disclosure in Job Ads  
+**Screening Women Out? Experimenting with Salary Disclosure in Job Ads**
 
 _Experiment ongoing. Supported by [G2LMLIC](https://g2lm-lic.iza.org)_
 
@@ -21,7 +21,7 @@ Firm premiums can widen gender gaps in employment and pay if women face barriers
 
 <br />
 
-###  Coping with Catastrophe: Pakistan's 2022 Floods
+**Coping with Catastrophe: Pakistan's 2022 Floods**
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
 _Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)_
@@ -39,7 +39,7 @@ Extreme weather events are becoming more frequent due to climate change, yet we 
 <br />
 
 
-### The Illusion of Time: Job Search and Female Labor Force Participation
+**The Illusion of Time: Job Search and Female Labor Force Participation**
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
 _Draft available soon. Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)_
@@ -55,7 +55,7 @@ This paper studies why the employment rate of college-educated women remains low
 
 <br />
 
-### Can Competition Reduce Corruption? 
+**Can Competition Reduce Corruption?**
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)_
@@ -70,7 +70,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 </details>	
 <br />
 	
-### What Happens When Cash Transfers Suddenly Stop? 
+**What Happens When Cash Transfers Suddenly Stop?**
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org)_
