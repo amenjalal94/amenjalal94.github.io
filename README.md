@@ -7,7 +7,7 @@ I work on labor, gender and environmental issues in low income countries.
 
 #### Screening Women Out? Experimenting with Salary Disclosure in Job Ads
 
-_Experiment ongoing. Supported by [G2LM|LIC](https://g2lm-lic.iza.org)._ [ [AEA registry](https://www.socialscienceregistry.org/trials/13788) ]
+_Experiment ongoing. Supported by [G2LMLIC](https://g2lm-lic.iza.org)._ [ [AEA registry](https://www.socialscienceregistry.org/trials/13788) ]
 
 <details>
 
