@@ -52,7 +52,7 @@ This paper studies why the employment rate of college-educated women remains low
 #### Can Competition Reduce Corruption?
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
-_Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ [ [Policy brief](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf) ]
+_Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ 
 
 <details>
 
