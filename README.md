@@ -75,6 +75,12 @@ _Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](htt
 </details>
 <br />
 
+## Policy writing 
+
+**[Using Biometrics to Deliver Cash Payments to Women: Early Results from an Impact Evaluation in Pakistan](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)**. World Bank 2022.
+
+**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf)**. World Bank 2025.
+
 ## Teaching 
 <a id="teaching"></a>
 - LSE PP440 Micro Economics for Master of Public Administration students (2024)
