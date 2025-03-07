@@ -36,7 +36,7 @@ Extreme weather events are becoming more frequent due to climate change, yet we 
 <br />
 
 
-#### The Illusion of Time: Job Search and Female Labor Force Participation
+#### The Illusion of Time: Gender Gaps in Job Search and Employment
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
 _Draft available soon. Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)._ [ [AEA registry](https://www.socialscienceregistry.org/trials/11298) ]
