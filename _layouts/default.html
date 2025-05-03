@@ -17,7 +17,6 @@
     
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -39,6 +38,8 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+
         
         
         <ul style="list-style-type:none;">
@@ -47,7 +48,7 @@
         <li>
           <i class="fab fa-twitter" style="color:gray;"></i> 
           <a href="https://twitter.com/amenjalal_">X</a> / 
-          <i class="fas fa-butterfly" style="color:gray;"></i> 
+          <i class="fa-brands fa-bluesky"></i>
           <a href="https://bsky.app/profile/amenjalal.bsky.social">Bluesky</a>
         </li>
         <li><i class="fas fa-link"></i><a href="#works-in-progress"> Works in Progress</a></li>
