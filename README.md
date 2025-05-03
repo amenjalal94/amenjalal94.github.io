@@ -83,7 +83,7 @@ _Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](htt
 
 ## Teaching 
 <a id="teaching"></a>
-- [LSE PP440 Micro Economics for Master of Public Administration](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/PP/2024_PP440.htm) students (2024, 2025)
+- [LSE PP440 Micro Economics for Public Policy](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/PP/2024_PP440.htm) students (2024, 2025)
 - [LSE PP455E Empirical Methods for Public Policy](https://www.lse.ac.uk/resources/calendar.bak/courseGuides/EC/2015_EC455E.htm) for Executive Master of Public Administration and Public Policy students (2022, 2023, 2024)
 - [LSE EC1B3 Macroeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1B3.htm) for undergraduate students (2022, 2023, 2024)
 - [LSE EC1A3 Microeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1A3.htm) for undergraduate students (2022, 2023)
