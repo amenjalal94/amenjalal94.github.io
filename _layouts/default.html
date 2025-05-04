@@ -30,8 +30,12 @@
         <p class="phonetic"><em>(My name is pronounced Aey-mun Ja-laal)</em></p>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <div style="text-align: center;">
+            <img src="{{site.logo | relative_url}}" alt="Photo of Amen Jalal" >
+            <p style="font-size: 0.75em; color: gray; margin-top: 0.25em;">Photo by Surbhi Bharadwaj</p>
+          </div>
         {% endif %}
+
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
