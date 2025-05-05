@@ -7,7 +7,7 @@ I work on labor, gender and environmental issues in low income countries.
 
 #### Screening Women Out? Experimenting with Salary Disclosure in Job Ads
 
-_Experiment concluded. Follow-up surveys ongoing. Supported by [G2LMLIC](https://g2lm-lic.iza.org)._ [ [AEA registry](https://www.socialscienceregistry.org/trials/13788) ]
+_Experiment concluded. Follow-up surveys ongoing. Supported by [G2LMLIC](https://g2lm-lic.iza.org)._ [[AEA registry](https://www.socialscienceregistry.org/trials/13788)]
 
 <details>
 
@@ -22,7 +22,7 @@ Firms vary in pay for otherwise similar jobs. Barriers that limit women's access
 #### Coping with Catastrophe: Pakistan's 2022 Floods
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
-_Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)._ [ [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022) ]
+_Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)._ [[IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)]
 
 <details>
 
@@ -38,7 +38,7 @@ Extreme weather events are becoming more frequent due to climate change, yet we 
 #### The Illusion of Time: Gender Gaps in Job Search and Employment
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
-_Draft available soon. Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)._ [ [AEA registry](https://www.socialscienceregistry.org/trials/11298) ]
+_Draft available soon. Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)._ [[AEA registry](https://www.socialscienceregistry.org/trials/11298)]
 
 <details>
 
