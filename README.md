@@ -1,6 +1,6 @@
 Hello! I am a 5th year PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant in the [DIME](https://www.worldbank.org/en/research/dime) and [ID4D](https://id4d.worldbank.org) teams.
 
-I work on labor, gender and environmental issues in low income countries.
+My research is in development, labor and environmental economics, and frequently focuses on gender. 
 
 ## Works in progress 
 <a id="works-in-progress"></a>
