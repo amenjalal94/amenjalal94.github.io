@@ -5,9 +5,9 @@ My research interests are in gender, development and environmental economics.
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-#### Screening Women Out? Experimenting with Salary Disclosure in Job Ads
+**Screening Women Out? Experimenting with Salary Disclosure in Job Ads** (Job Market Paper)
 
-_Job Market Paper. Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://sites.google.com/view/dnd-workshop/home). Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA registry [here](https://www.socialscienceregistry.org/trials/13788)._ 
+_Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://sites.google.com/view/dnd-workshop/home). Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA registry [here](https://www.socialscienceregistry.org/trials/13788)._ 
 
 <details>
 
@@ -19,7 +19,7 @@ Salaries vary across firms for similar jobs, and women systematically sort into 
 
 <br />
 
-#### Coping with Catastrophe: Pakistan's 2022 Floods
+**Coping with Catastrophe: Pakistan's 2022 Floods**
 (with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
 _Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)._ _[IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)_.
@@ -35,7 +35,7 @@ Extreme weather events are becoming more frequent due to climate change, yet we 
 <br />
 
 
-#### The Illusion of Time: Gender Gaps in Job Search and Employment
+**The Illusion of Time: Gender Gaps in Job Search and Employment**
 (with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
 _Draft available soon. Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund). AEA registry [here](https://www.socialscienceregistry.org/trials/11298)._
@@ -49,7 +49,7 @@ This paper studies why the employment rate of college-educated women remains low
 
 <br />
 
-#### Can Competition Reduce Corruption?
+**Can Competition Reduce Corruption?**
 (with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ 
@@ -62,7 +62,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 </details>	
 <br />
 	
-#### What Happens When Cash Transfers Suddenly Stop?
+**What Happens When Cash Transfers Suddenly Stop?**
 (with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
 
 _Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org)._
