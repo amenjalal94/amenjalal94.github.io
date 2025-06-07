@@ -7,7 +7,9 @@ My research interests are in development, labor, gender and environmental econom
 
 **Screening Women Out? Experimenting with Salary Disclosure in Job Ads** (Job Market Paper)
 
-_Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://sites.google.com/view/dnd-workshop/home). Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA registry [here](https://www.socialscienceregistry.org/trials/13788)._ 
+_Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://sites.google.com/view/dnd-workshop/home)._ 
+
+_Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA registry [here](https://www.socialscienceregistry.org/trials/13788)._ 
 
 <details>
 
