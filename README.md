@@ -52,7 +52,7 @@ In countries with low female labor force participation, women often transition d
 <br />
 
 **Can Competition Reduce Corruption?**
-(with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb) and [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
+(with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Kate Vyborny](https://sites.google.com/site/kvyborny/home) and Alex Quispe)
 
 _Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ 
 
