@@ -83,7 +83,7 @@ _Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](htt
 
 **[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf)**. World Bank 2025.
 
-**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/collections/equilibrium-effects-billion-trees-ecosystems-and-livelihoods-evidence-tree-planting)**. IGC 2025.
+**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan)**. IGC 2025.
 
 ## Teaching 
 <a id="teaching"></a>
