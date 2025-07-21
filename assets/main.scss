@@ -28,3 +28,10 @@ details summary {
     color: $grey-color-darkish;  /* Subdued color */
     margin-top: -4px;  /* Adjust spacing */
 }
+section {
+  padding: 40px 24px;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
