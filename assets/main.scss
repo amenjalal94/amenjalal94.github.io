@@ -43,4 +43,17 @@ header img {
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);  // soft shadow
   margin: 10px auto;             // center the image
 }
+.jmp-badge {
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: 600;
+  padding: 4px 10px;
+  margin-left: 6px;
+  background-color: #2a7ae2;  // brand blue
+  color: white;
+  border-radius: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  cursor: default;
+}
 
