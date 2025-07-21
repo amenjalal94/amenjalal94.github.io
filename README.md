@@ -2,7 +2,7 @@ Hello! I am a 5th year PhD student in economics at the [London School of Economi
 
 My research interests are in development, labor, gender and environmental economics. 
 
-## Working papers
+## Working papers 
 <a id="working-papers"></a>
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://www.dropbox.com/scl/fi/iiwb1ayok7m0n112d0g46/BJR_July2025.pdf?rlkey=cohn9dly56v2fd1xxn2kggshw&dl=0)**
