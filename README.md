@@ -2,6 +2,23 @@ Hello! I am a 5th year PhD student in economics at the [London School of Economi
 
 My research interests are in development, labor, gender and environmental economics. 
 
+## Working papers
+<a id="working-papers"></a>
+
+**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://www.dropbox.com/scl/fi/iiwb1ayok7m0n112d0g46/BJR_July2025.pdf?rlkey=cohn9dly56v2fd1xxn2kggshw&dl=0)**
+(with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
+
+_[NBER Working Paper](https://www.nber.org/papers/w34051). Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund). AEA registry [here](https://www.socialscienceregistry.org/trials/11298)._
+
+<details>
+
+  <summary>Click for abstract</summary>  
+ 
+In countries with low female employment, college educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 students from two major universities, we document labor market expectations before graduation, and realized outcomes in the year that follows. Men and women have similar work aspirations, apply at similar times and rates, and receive comparable numbers of job offers, but women are more likely to reject them. As a result, a 27 pp employment gap emerges within six months. The gap stems largely from timing: for women, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. There is no such window for men. To test whether this relationship is causal --- and anticipated --- we randomize a modest incentive to apply early. By shifting students' search into the critical early window, the intervention raises women's employment by $\sim$ 20\%, but leaves men's unaffected, closing a third of the gender employment gap. Treatment effects are driven by women who underestimate how quickly marriage market activities arise, revealing an “illusion of time.” 
+</details>
+
+<br />
+
 ## Works in progress 
 <a id="works-in-progress"></a>
 
@@ -32,21 +49,6 @@ _Two annual follow-up surveys completed. Supported by the [IGC](https://www.thei
 
 Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women’s. These findings highlight significant medium-term needs for consumption, health, and mental health support among disaster-affected households.
 
-</details>
-
-<br />
-
-
-**The Illusion of Time: Gender Gaps in Job Search and Employment**
-(with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
-
-_Draft available soon. Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund). AEA registry [here](https://www.socialscienceregistry.org/trials/11298)._
-
-<details>
-
-  <summary>Click for abstract</summary>  
- 
-In countries with low female employment, college educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 students from two major universities, we document labor market expectations before graduation, and realized outcomes in the year that follows. Men and women have similar work aspirations, apply at similar times and rates, and receive comparable numbers of job offers, but women are more likely to reject them. As a result, a 27 pp employment gap emerges within six months. The gap stems largely from timing: for women, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. There is no such window for men. To test whether this relationship is causal --- and anticipated --- we randomize a modest incentive to apply early. By shifting students' search into the critical early window, the intervention raises women's employment by $\sim$ 20\%, but leaves men's unaffected, closing a third of the gender employment gap. Treatment effects are driven by women who underestimate how quickly marriage market activities arise, revealing an “illusion of time.” 
 </details>
 
 <br />
