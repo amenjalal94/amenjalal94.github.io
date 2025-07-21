@@ -1,6 +1,7 @@
 Hello! I am a 5th year PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant in the [DIME](https://www.worldbank.org/en/research/dime) and [ID4D](https://id4d.worldbank.org) teams.
 
 My research interests are in development, labor, gender and environmental economics. 
+<hr class="section-divider">
 
 ## Working papers 
 <a id="working-papers"></a>
@@ -18,6 +19,8 @@ In countries with low female employment, college educated women often transition
 </details>
 
 <br />
+
+<hr class="section-divider">
 
 ## Works in progress 
 <a id="works-in-progress"></a>
@@ -79,6 +82,8 @@ _Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](htt
 </details>
 <br />
 
+<hr class="section-divider">
+
 ## Policy writing 
 
 **[Using Biometrics to Deliver Cash Payments to Women: Early Results from an Impact Evaluation in Pakistan](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)**. World Bank 2022.
@@ -86,6 +91,8 @@ _Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](htt
 **[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf)**. World Bank 2025.
 
 **[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan)**. IGC 2025.
+
+<hr class="section-divider">
 
 ## Teaching 
 <a id="teaching"></a>
