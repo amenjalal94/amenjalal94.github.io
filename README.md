@@ -6,7 +6,7 @@ My research interests are in development, labor, gender and environmental econom
 <a id="working-papers"></a>
 
 ### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://www.dropbox.com/scl/fi/iiwb1ayok7m0n112d0g46/BJR_July2025.pdf?rlkey=cohn9dly56v2fd1xxn2kggshw&dl=0)
-(with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
+with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/)
 
 _[NBER Working Paper](https://www.nber.org/papers/w34051). Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund). AEA registry [here](https://www.socialscienceregistry.org/trials/11298)._
 
@@ -39,7 +39,7 @@ Women sort into low-paying firms for otherwise similar jobs. This may reflect a 
 <br />
 
 ### Coping with Catastrophe: Pakistan's 2022 Floods
-(with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
+with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson)
 
 _Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)._ _[IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)_.
 
@@ -54,7 +54,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 <br />
 
 ### Can Competition Reduce Corruption?
-(with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Kate Vyborny](https://sites.google.com/site/kvyborny/home) and Alex Quispe)
+with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Kate Vyborny](https://sites.google.com/site/kvyborny/home) and Alex Quispe
 
 _Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ 
 
@@ -67,7 +67,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 <br />
 	
 ### What Happens When Cash Transfers Suddenly Stop?
-(with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home))
+with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home)
 
 _Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org)._
   
