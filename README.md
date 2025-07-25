@@ -68,6 +68,20 @@ _Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldba
 Corruption remains a major obstacle to the delivery of public services in developing countries. We study whether competition between service delivery agents can mitigate corruption, leveraging exogenous changes to the market structure of agents responsible for delivering government cash transfers in Pakistan. A reform that increased the market power of these agents led to a 29.1 pp increase in the probability that a beneficiary had to pay an involuntary bribe to access the cash transfer. However, in areas with 1 standard deviation higher competition, this increase in bribe payments is almost completely eliminated. We rule out that mechanisms other than competition drive these results, such as strategic entry, changes in market access, and differences in monitoring efforts or cash recipient characteristics.
 </details>	
 <br />
+
+### Heat Insurance at Work
+with [Ashley Pople](https://www.ashleypople.com),  [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson) and [Eddy Zou](https://sites.google.com/view/eddyzou/home)
+
+_Implementation on-going_
+  
+<details>
+
+  <summary>Click for abstract</summary>	
+
+Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor work or limited access to adaptive resources. In 2024, 37 cities in India surpassed 45°C (113°F), and around 40,000 heat stroke cases were reported. How can social protection systems evolve to address the growing losses caused by extreme heat? We evaluate an innovative intervention that offers automatic daily wage payments to low-income workers when temperatures exceed a predetermined threshold. Developed by the Self Employed Women’s Association (SEWA)—a union representing over 3 million informal workers—the scheme is the world’s first parametric heat insurance product targeting earnings loss. We use a randomized encouragement design, incentivizing SEWA officers to promote enrollment in 2,821 treatment villages, while 2,821 control villages receive no targeted outreach. Panel survey data—combined with high-frequency measurement during the hot season—will allow us to estimate impacts on labor supply, financial decisions, health, consumption, and adaptive behavior. We also assess willingness to pay relative to actuarially fair pricing, providing evidence on the potential for sustainable insurance-based climate protection for informal workers.
+</details>	
+<br />
+
 	
 ### What Happens When Cash Transfers Suddenly Stop?
 with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home)
