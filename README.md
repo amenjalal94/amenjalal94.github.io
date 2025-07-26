@@ -25,7 +25,7 @@ In countries with low female employment, college educated women often transition
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-### Screening Women Out? How Pay Transparency Shapes Women's Job Search <span class="jmp-badge">Job Market Paper</span>
+### Screening Women Out? Pay Transparency and Women's Job Search <span class="jmp-badge">Job Market Paper</span>
 
 _Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop)._ 
 
