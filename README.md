@@ -22,7 +22,7 @@ In countries with low female employment, college educated women often transition
 
 <hr class="section-divider">
 
-## Works in progress 
+## Select works in progress 
 <a id="works-in-progress"></a>
 
 ### Screening Women Out? Pay Transparency and Job Search <span class="jmp-badge">Job Market Paper</span>
@@ -56,19 +56,6 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 <br />
 
-### Can Competition Reduce Corruption?
-with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Kate Vyborny](https://sites.google.com/site/kvyborny/home) and Alex Quispe
-
-_Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ 
-
-<details>
-
-  <summary>Click for abstract</summary>	
-	
-Corruption remains a major obstacle to the delivery of public services in developing countries. We study whether competition between service delivery agents can mitigate corruption, leveraging exogenous changes to the market structure of agents responsible for delivering government cash transfers in Pakistan. A reform that increased the market power of these agents led to a 29.1 pp increase in the probability that a beneficiary had to pay an involuntary bribe to access the cash transfer. However, in areas with 1 standard deviation higher competition, this increase in bribe payments is almost completely eliminated. We rule out that mechanisms other than competition drive these results, such as strategic entry, changes in market access, and differences in monitoring efforts or cash recipient characteristics.
-</details>	
-<br />
-
 ### Heat Insurance at Work
 with [Ashley Pople](https://www.ashleypople.com),  [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson) and [Eddy Zou](https://sites.google.com/view/eddyzou/home)
 
@@ -82,18 +69,17 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 </details>	
 <br />
 
-	
-### What Happens When Cash Transfers Suddenly Stop?
-with [Nasir Iqbal](https://nasiriqbal.com.pk), [Mahreen Mahmud](https://sites.google.com/site/mahreenmahmudsite/home?authuser=0), [Kate Vyborny](https://sites.google.com/site/kvyborny/home)
+### Can Competition Reduce Corruption?
+with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Kate Vyborny](https://sites.google.com/site/kvyborny/home) and Alex Quispe
 
-_Draft available soon. Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org)._
-  
+_Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ 
+
 <details>
 
-  <summary>Click for abstract</summary>  
- 
-  Female-targeted cash transfers are frequently used by governments as a policy tool to enhance women's empowerment.  A large body of evidence has demonstrated positive impacts on women's empowerment.  However, a household may not continue to receive cash transfer payments indefinitely; they may be terminated due to budget cuts, program changes, or recipient graduation. Do the documented gains to women's empowerment erode once transfers are discontinued?  Using a regression discontinuity-in-differences approach around a revised eligibility threshold, we study the consequences for households of exiting Pakistan’s largest cash transfer program.  We find no reduction in a range of measures of women's empowerment one year after program exit.
-</details>
+  <summary>Click for abstract</summary>	
+	
+Corruption remains a major obstacle to the delivery of public services in developing countries. We study whether competition between service delivery agents can mitigate corruption, leveraging exogenous changes to the market structure of agents responsible for delivering government cash transfers in Pakistan. A reform that increased the market power of these agents led to a 29.1 pp increase in the probability that a beneficiary had to pay an involuntary bribe to access the cash transfer. However, in areas with 1 standard deviation higher competition, this increase in bribe payments is almost completely eliminated. We rule out that mechanisms other than competition drive these results, such as strategic entry, changes in market access, and differences in monitoring efforts or cash recipient characteristics.
+</details>	
 <br />
 
 <hr class="section-divider">
