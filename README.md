@@ -9,7 +9,7 @@ My research interests are in development, labor, gender and environmental econom
 ### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://www.dropbox.com/scl/fi/iiwb1ayok7m0n112d0g46/BJR_July2025.pdf?rlkey=cohn9dly56v2fd1xxn2kggshw&dl=0)
 with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/)
 
-_[NBER Working Paper](https://www.nber.org/papers/w34051). Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund). AEA registry [here](https://www.socialscienceregistry.org/trials/11298)._
+_[NBER Working Paper](https://www.nber.org/papers/w34051). Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)._
 
 <details>
 
@@ -29,7 +29,7 @@ In countries with low female employment, college-educated women often transition
 
 _Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop)._ 
 
-_Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA registry [here](https://www.socialscienceregistry.org/trials/13788)._ 
+_Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788)._ 
 
 <details>
 
@@ -59,7 +59,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 ### Heat Insurance at Work
 with [Ashley Pople](https://www.ashleypople.com),  [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson) and [Eddy Zou](https://sites.google.com/view/eddyzou/home)
 
-_Implementation on-going. AEA registry [here](https://www.socialscienceregistry.org/trials/15728)._
+_Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728)._
   
 <details>
 
