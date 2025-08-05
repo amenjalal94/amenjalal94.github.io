@@ -27,7 +27,7 @@ In countries with low female employment, college-educated women often transition
 
 ### Screening Women Out? Pay Transparency in Job Search 
 
-**Job Market Paper**
+**[ Job Market Paper ]**
 
 _Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop)._ 
 
