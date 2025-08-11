@@ -61,7 +61,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 ### Heat Insurance at Work
 with [Ashley Pople](https://www.ashleypople.com),  [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson) and [Eddy Zou](https://sites.google.com/view/eddyzou/home)
 
-_Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728)._
+_Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative)._
   
 <details>
 
