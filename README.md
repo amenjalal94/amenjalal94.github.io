@@ -1,4 +1,4 @@
-Hello! I am a 5th year PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant in the [DIME](https://www.worldbank.org/en/research/dime) and [ID4D](https://id4d.worldbank.org) teams.
+Hello! I am a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics) and I will be on the 2025-26 job market. I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant in the [DIME](https://www.worldbank.org/en/research/dime) and [ID4D](https://id4d.worldbank.org) teams.
 
 My research interests are in development, labor, gender and environmental economics. 
 <hr class="section-divider">
