@@ -8,7 +8,7 @@ My research interests are in development, labor, gender and environmental econom
 ## Working papers 
 <a id="working-papers"></a>
 
-### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://www.dropbox.com/scl/fi/iiwb1ayok7m0n112d0g46/BJR_July2025.pdf?rlkey=cohn9dly56v2fd1xxn2kggshw&dl=0)
+### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://ninaroussille.github.io/files/BJR_July2025.pdf)
 with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/)
 
 _[NBER Working Paper](https://www.nber.org/papers/w34051). Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)._
