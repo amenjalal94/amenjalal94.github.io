@@ -76,14 +76,17 @@
     .action-link {
       text-decoration:none;
       font-weight:500;
-      transition: transform .08s ease, font-weight .08s ease;
+      color: inherit;  /* use site’s default link color if set */
+      transition: transform .08s ease, font-weight .08s ease, color .08s ease;
     }
     
     .action-link:hover {
       font-weight:700;
       transform: scale(1.03);
       text-decoration:none;
-    }  
+      color: var(--link-color, #0066cc); /* use theme link color */
+    }
+
     /* divider */
     .sidebar-divider{
       border:0; border-top:1px solid #e5e7eb;
@@ -155,7 +158,7 @@
             </a>
             <span class="dot">•</span>
             <a href="mailto:u.jalal@lse.ac.uk" class="action-link">
-              <img src="/assets/icons/email.png" alt="Email" class="icon-img"> Email
+              <img src="/assets/icons/emails.png" alt="Email" class="icon-img"> Email
             </a>
           </div>
 
