@@ -51,7 +51,9 @@
     .meta-row a:hover {
       text-decoration:none;  /* remove underline */
     }
-    
+    .meta-row.actions {
+      justify-content: center;   /* center this row */
+    }
     .dot { color:#888; font-weight:700; margin:0 .3rem; }
     
     .meta-row .label {
@@ -61,13 +63,12 @@
     
     /* socials row: tighter, smaller text */
     .meta-row.socials {
-      flex-wrap:nowrap; column-gap:0.5rem;
+      flex-wrap:nowrap; column-gap:0.2rem;
     }
     .meta-row.socials a {
       font-size:0.83rem;
       white-space:nowrap;
     }
-    
     /* CV + Email links grow + bold on hover */
     .action-link {
       font-weight:500;
