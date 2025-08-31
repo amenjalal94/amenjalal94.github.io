@@ -37,7 +37,7 @@
     .bluesky{ color:#0285FF; }        /* official Bluesky blue */
     
     /* rows */
-    .meta-row{
+    .meta-row {
       display:flex; align-items:center; flex-wrap:wrap;
       gap:.5rem; margin:.45rem 0;
     }
@@ -45,38 +45,50 @@
       display:inline-flex;
       align-items:center;
       font-size:0.95rem;
-      color:inherit;
       text-decoration:none;
+      transition: color 0.15s ease;
     }
-    .meta-row a:hover{ text-decoration:underline; }
-    .dot{ color:#888; font-weight:700; margin:0 .3rem; }
-
+    .meta-row a:hover {
+      text-decoration:none;  /* remove underline */
+    }
+    
+    .dot { color:#888; font-weight:700; margin:0 .3rem; }
+    
     .meta-row .label {
       font-weight:600;
       margin-right:0.5rem;
     }
-    .meta-row a:hover { text-decoration:none; }  
-    .meta-row.socials a {
-      font-size: 0.83rem;   /* smaller than .95rem */
-      white-space: nowrap;
-    }
-    .meta-row.socials{
-      flex-wrap:nowrap;          /* keep on a single line */
-      column-gap:0.4rem;         /* a touch tighter than default */
+    
+    /* socials row: tighter, smaller text */
+    .meta-row.socials {
+      flex-wrap:nowrap; column-gap:0.4rem;
     }
     .meta-row.socials a {
-      transition: color 0.15s ease;
+      font-size:0.83rem;
+      white-space:nowrap;
     }
     
     /* CV + Email links grow + bold on hover */
     .action-link {
-      text-decoration:none;
       font-weight:500;
-      color: inherit;  /* use site’s default link color if set */
-      transition: transform .08s ease, font-weight .08s ease, color .08s ease;
+      transition: transform .08s ease, font-weight .08s ease;
+    }
+    .action-link:hover {
+      font-weight:700;
+      transform: scale(1.03);
     }
     
-    .action-link:hover {
+    /* Jump to */
+    .jump-to .label { font-weight:700; margin:.6rem 0 .3rem; }
+    .jump-to ul { list-style:none; padding:0; margin:0; }
+    .jump-to li { margin:.3rem 0; }
+    
+    /* Jump links: grow + bold on hover */
+    .jump-link {
+      text-decoration:none; font-weight:500;
+      transition: transform .08s ease, font-weight .08s ease;
+    }
+    .jump-link:hover {
       font-weight:700;
       transform: scale(1.03);
       text-decoration:none;
