@@ -23,69 +23,53 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     <style>
-      /* icons */
-    .sidebar-links img.icon {
-      width: 22px;
-      height: 22px;
-      object-fit: contain;
-      vertical-align: middle;
-      margin-right: 4px;
+    /* PNG icons (CV, Email) */
+    .icon-img{
+      width:20px; height:20px; object-fit:contain;
+      vertical-align:middle; margin-right:6px;
     }
     
-    /* rows (cv/email and socials) */
-    .meta-row {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin: 0.4rem 0;
-      flex-wrap: wrap;
+    /* FA icons (X, Bluesky) sized to match PNGs */
+    .icon-fa{
+      font-size:20px; line-height:1;
+      vertical-align:middle; margin-right:6px; color:#1f2937;
+    }
+    .bluesky{ color:#0285FF; }        /* official Bluesky blue */
+    
+    /* rows */
+    .meta-row{
+      display:flex; align-items:center; flex-wrap:wrap;
+      gap:.5rem; margin:.45rem 0;
+    }
+    .meta-row a{
+      display:inline-flex; align-items:center;
+      color:#1f2937; text-decoration:none; font-size:.95rem;
+    }
+    .meta-row a:hover{ text-decoration:underline; }
+    .dot{ color:#888; font-weight:700; margin:0 .3rem; }
+    
+    /* divider */
+    .sidebar-divider{
+      border:0; border-top:1px solid #e5e7eb;
+      margin:.6rem 0 .4rem 0;
     }
     
-    .meta-row a {
-      display: inline-flex;
-      align-items: center;
-      color: #1f2937;
-      text-decoration: none;
-      font-size: 0.95rem;
-    }
+    /* Jump to */
+    .jump-to .label{ font-weight:700; margin:.6rem 0 .3rem; }
     
-    .meta-row a:hover { text-decoration: underline; }
+    .jump-to ul{ list-style:none; padding:0; margin:0; }
+    .jump-to li{ margin:.3rem 0; }
     
-    .dot {
-      color: #888;
-      font-weight: bold;
-      margin: 0 0.3rem;
+    /* blue links that grow + bold on hover */
+    .jump-link{
+      color:#1d4ed8; text-decoration:none; font-weight:500;
+      transition: transform .08s ease, font-weight .08s ease;
     }
-    
-    /* jump to section */
-    .jump-to .label {
-      font-weight: 600;
-      margin-top: 0.6rem;
-      margin-bottom: 0.3rem;
-    }
-    
-    .jump-to ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    
-    .jump-to li {
-      margin: 0.3rem 0;
-    }
-    .jump-to a {
-      color: #1f2937;
-      text-decoration: none;
-    }
-    .jump-to a:hover {
+    .jump-link:hover{
+      font-weight:700; transform: scale(1.03);
       text-decoration: underline;
     }
-    .bluesky-icon {
-      font-size: 22px;   /* match .icon width/height */
-      color: #0285FF;    /* official bluesky blue */
-      margin-right: 4px;
-      vertical-align: middle;
-    }
+    
     .jmp-badge {
       display: inline-block;
       background-color: white;
@@ -129,37 +113,41 @@
           <!-- line 1: CV + Email -->
           <div class="meta-row">
             <a href="https://amenjalal94.github.io/docs/CV.pdf">
-              <img src="/assets/icons/CV.png" alt="CV" class="icon"> CV
+              <img src="/assets/icons/CV.png" alt="CV" class="icon-img"> CV
             </a>
             <span class="dot">•</span>
             <a href="mailto:u.jalal@lse.ac.uk">
-              <img src="/assets/icons/email.png" alt="Email" class="icon"> Email
+              <img src="/assets/icons/email.png" alt="Email" class="icon-img"> Email
             </a>
           </div>
         
-          <!-- line 2: Twitter + Bluesky -->
+          <!-- line 2: Twitter + Bluesky (both FA for perfect sizing) -->
           <div class="meta-row">
             <a href="https://twitter.com/amenjalal_">
-              <img src="/assets/icons/x.png" alt="Twitter/X" class="icon"> Twitter (X)
+              <i class="fab fa-x-twitter icon-fa"></i> Twitter (X)
             </a>
             <span class="dot">•</span>
             <a href="https://bsky.app/profile/amenjalal.bsky.social">
-              <i class="fab fa-bluesky bluesky-icon"></i> Bluesky
+              <i class="fab fa-bluesky icon-fa bluesky"></i> Bluesky
             </a>
           </div>
+        
+          <!-- divider -->
+          <hr class="sidebar-divider">
         
           <!-- jump to -->
           <div class="jump-to">
             <p class="label">Jump to:</p>
             <ul>
-              <li><a href="#working-papers">Working papers</a></li>
-              <li><a href="#select-works-in-progress">Works in progress</a></li>
-              <li><a href="#policy-writing">Policy writing</a></li>
-              <li><a href="#teaching">Teaching</a></li>
+              <li><a class="jump-link" href="#working-papers">Working papers</a></li>
+              <li><a class="jump-link" href="#select-works-in-progress">Works in progress</a></li>
+              <li><a class="jump-link" href="#policy-writing">Policy writing</a></li>
+              <li><a class="jump-link" href="#teaching">Teaching</a></li>
             </ul>
           </div>
         
         </div>
+
 
         {% endif %}
         
