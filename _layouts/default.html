@@ -51,9 +51,6 @@
     .meta-row a:hover {
       text-decoration:none;  /* remove underline */
     }
-    .meta-row.actions {
-      justify-content: center;   /* center this row */
-    }
     .dot { color:#888; font-weight:700; margin:0 .3rem; }
     
     .meta-row .label {
@@ -63,7 +60,10 @@
     
     /* socials row: tighter, smaller text */
     .meta-row.socials {
-      flex-wrap:nowrap; column-gap:0.2rem;
+      flex-wrap:nowrap; column-gap:0.5rem;
+    }
+    .meta-row.socials .label {
+      margin-right: 0.25rem;
     }
     .meta-row.socials a {
       font-size:0.83rem;
@@ -89,12 +89,6 @@
       border:0; border-top:1px solid #e5e7eb;
       margin:.6rem 0 .4rem 0;
     }
-    
-    /* Jump to */
-    .jump-to .label{ font-weight:700; margin:.6rem 0 .3rem; }
-    
-    .jump-to ul{ list-style:none; padding:0; margin:0; }
-    .jump-to li{ margin:.3rem 0; }
     
     /* blue links that grow + bold on hover */
     .jump-link{
