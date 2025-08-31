@@ -25,7 +25,7 @@
     <style>
     /* PNG icons (CV, Email) */
     .icon-img{
-      width:24px; height:24px; object-fit:contain;
+      width:28px; height:28px; object-fit:contain;
       vertical-align:middle; margin-right:6px;
     }
     
@@ -64,6 +64,14 @@
     .meta-row.socials{
       flex-wrap:nowrap;          /* keep on a single line */
       column-gap:0.4rem;         /* a touch tighter than default */
+    }
+    .meta-row.socials a {
+      color: #1f2937;   /* default text color (gray/black) */
+      transition: color 0.15s ease;
+    }
+    
+    .meta-row.socials a:hover {
+      color: var(--link-color, #0066cc); /* fallback if no CSS var */
     }
     /* divider */
     .sidebar-divider{
