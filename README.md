@@ -87,6 +87,19 @@ Corruption remains a major obstacle to the delivery of public services in develo
 </details>	
 <br />
 
+### Rebuilding Lives: Integrating Mental Health and Economic Recovery in Climate Disaster Response
+with [Canishk Naik](https://canishknaik.github.io) and [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson)
+
+_Designing pilot. Supported by LSE's [Hub for Equal Representation](https://www.hubequalrep.org)_
+
+<details>
+
+  <summary>Click for abstract</summary>	
+	
+Disaster recovery often focuses on rebuilding physical infrastructure, overlooking the mental health impact of traumatic events like floods. In Pakistan, where flooding in 2022 submerged a third of the country under water and lasted up to 8 months, over one in five flood affectees report severe psychological distress 2 years later. Ignoring mental health in reconstruction may prolong the socio-economic impact of disasters by limiting individuals’ ability to work, plan, and recover. This project studies the interaction between physical and psychological recovery in flood-affected communities by randomizing a locally developed mental health literacy initiative among households who are marginally eligible for a housing reconstruction program. Our 2x2 design allows us to compare the benefits of mental health support against the standard infrastructure-focused approach, and explore complementarities. Our findings aim to measure the non-economic losses and damages of climate catastrophes, and inform more holistic disaster recovery policies that address both physical and psychological needs. 
+</details>	
+<br />
+
 <hr class="section-divider">
 
 ## Policy writing 
