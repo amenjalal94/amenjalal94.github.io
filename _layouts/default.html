@@ -25,7 +25,7 @@
     <style>
     /* PNG icons (CV, Email) */
     .icon-img{
-      width:30px; height:30px; object-fit:contain;
+      width:32px; height:32px; object-fit:contain;
       vertical-align:middle; margin-right:6px;
     }
     
@@ -37,53 +37,52 @@
     .bluesky{ color:#0285FF; }        /* official Bluesky blue */
     
     /* rows */
-    .meta-row{
+    .meta-row {
       display:flex; align-items:center; flex-wrap:wrap;
       gap:.5rem; margin:.45rem 0;
     }
-    .meta-row a{
-      display:inline-flex; align-items:center;
-      color:#1f2937; text-decoration:none; font-size:.95rem;
+    .meta-row a {
+      display:inline-flex;
+      align-items:center;
+      font-size:0.95rem;
+      text-decoration:none;
+      transition: color 0.15s ease;
     }
-    .meta-row a:hover{ text-decoration:underline; }
-    .dot{ color:#888; font-weight:700; margin:0 .3rem; }
-
+    .meta-row a:hover {
+      text-decoration:none;  /* remove underline */
+    }
+    
+    .dot { color:#888; font-weight:700; margin:0 .3rem; }
+    
     .meta-row .label {
       font-weight:600;
       margin-right:0.5rem;
     }
-    .meta-row a {
-      font-size:0.95rem;
-      color:inherit;  /* keeps them same color as text unless overridden */
-    }
-    .meta-row a:hover { text-decoration:none; }  
-    .meta-row.socials a {
-      font-size: 0.83rem;   /* smaller than .95rem */
-      white-space: nowrap;
-    }
-    .meta-row.socials{
-      flex-wrap:nowrap;          /* keep on a single line */
-      column-gap:0.4rem;         /* a touch tighter than default */
+    
+    /* socials row: tighter, smaller text */
+    .meta-row.socials {
+      flex-wrap:nowrap; column-gap:0.5rem;
     }
     .meta-row.socials a {
-      transition: color 0.15s ease;
+      font-size:0.83rem;
+      white-space:nowrap;
     }
     
-    .meta-row.socials a:hover {
-      color: var(--link-color, #0066cc); /* fallback if no CSS var */
-    }
     /* CV + Email links grow + bold on hover */
     .action-link {
-      text-decoration:none;
       font-weight:500;
       transition: transform .08s ease, font-weight .08s ease;
     }
-    
     .action-link:hover {
       font-weight:700;
       transform: scale(1.03);
-      text-decoration:none;
-    }  
+    }
+    
+    /* Jump to */
+    .jump-to .label { font-weight:700; margin:.6rem 0 .3rem; }
+    .jump-to ul { list-style:none; padding:0; margin:0; }
+    .jump-to li { margin:.3rem 0; }
+    
     /* divider */
     .sidebar-divider{
       border:0; border-top:1px solid #e5e7eb;
@@ -155,7 +154,7 @@
             </a>
             <span class="dot">•</span>
             <a href="mailto:u.jalal@lse.ac.uk" class="action-link">
-              <img src="/assets/icons/email.png" alt="Email" class="icon-img"> Email
+              <img src="/assets/icons/emails.png" alt="Email" class="icon-img"> Email
             </a>
           </div>
 
