@@ -59,9 +59,11 @@
     .meta-row a:hover { text-decoration:none; }  
     .meta-row.socials a {
       font-size: 0.83rem;   /* smaller than .95rem */
-      gap: 0.4rem;   /* smaller than default */
-      flex-wrap: nowrap; /* force single line */
       white-space: nowrap;
+    }
+    .meta-row.socials{
+      flex-wrap:nowrap;          /* keep on a single line */
+      column-gap:0.4rem;         /* a touch tighter than default */
     }
     /* divider */
     .sidebar-divider{
