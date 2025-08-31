@@ -58,7 +58,10 @@
     }
     .meta-row a:hover { text-decoration:none; }  
     .meta-row.socials a {
-      font-size: 0.85rem;   /* smaller than .95rem */
+      font-size: 0.83rem;   /* smaller than .95rem */
+      gap: 0.4rem;   /* smaller than default */
+      flex-wrap: nowrap; /* force single line */
+      white-space: nowrap;
     }
     /* divider */
     .sidebar-divider{
@@ -144,11 +147,11 @@
             <a href="https://twitter.com/amenjalal_" rel="me" aria-label="Twitter (X)">
               <i class="fab fa-x-twitter icon-fa"></i> Twitter (X)
             </a>
-            <span class="dot">•</span>
             <a href="https://bsky.app/profile/amenjalal.bsky.social" rel="me" aria-label="Bluesky">
               <i class="fab fa-bluesky icon-fa bluesky"></i> Bluesky
             </a>
           </div>
+
           
           <!-- divider -->
           <hr class="sidebar-divider">
@@ -163,9 +166,6 @@
               <li><a class="jump-link" href="#teaching">Teaching</a></li>
             </ul>
           </div>
-
-           <!-- divider -->
-          <hr class="sidebar-divider">
         
         </div>
 
