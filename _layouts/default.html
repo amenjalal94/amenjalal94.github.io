@@ -47,6 +47,16 @@
     }
     .meta-row a:hover{ text-decoration:underline; }
     .dot{ color:#888; font-weight:700; margin:0 .3rem; }
+
+    .meta-row .label {
+      font-weight:600;
+      margin-right:0.5rem;
+    }
+    .meta-row a {
+      font-size:0.95rem;
+      color:inherit;  /* keeps them same color as text unless overridden */
+    }
+    .meta-row a:hover { text-decoration:none; }  
     
     /* divider */
     .sidebar-divider{
@@ -62,7 +72,7 @@
     
     /* blue links that grow + bold on hover */
     .jump-link{
-      color:#1d4ed8; text-decoration:none; font-weight:500;
+      text-decoration:none; font-weight:500;
       transition: transform .08s ease, font-weight .08s ease;
     }
     .jump-link:hover{
@@ -121,16 +131,17 @@
             </a>
           </div>
         
-          <!-- line 2: Twitter + Bluesky (both FA for perfect sizing) -->
+          <!-- Socials -->
           <div class="meta-row">
-            <a href="https://twitter.com/amenjalal_">
-              <i class="fab fa-x-twitter icon-fa"></i> X
+            <span class="label">Social media:</span>
+            <a href="https://twitter.com/amenjalal_" rel="me" aria-label="Twitter (X)">
+              <i class="fab fa-x-twitter icon-fa"></i>
             </a>
-            <span class="dot">•</span>
-            <a href="https://bsky.app/profile/amenjalal.bsky.social">
-              <i class="fab fa-bluesky icon-fa bluesky"></i> Bluesky
+            <a href="https://bsky.app/profile/amenjalal.bsky.social" rel="me" aria-label="Bluesky">
+              <i class="fab fa-bluesky icon-fa bluesky"></i>
             </a>
           </div>
+
         
           <!-- divider -->
           <hr class="sidebar-divider">
