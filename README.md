@@ -24,7 +24,7 @@ In countries with low female employment, college-educated women often transition
 
 <hr class="section-divider">
 
-## Select works in progress 
+## Works in progress 
 <a id="works-in-progress"></a>
 
 ### Screening Women Out? Pay Transparency in Job Search 
