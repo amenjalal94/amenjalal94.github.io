@@ -57,7 +57,9 @@
       color:inherit;  /* keeps them same color as text unless overridden */
     }
     .meta-row a:hover { text-decoration:none; }  
-    
+    .meta-row.socials a {
+      font-size: 0.85rem;   /* smaller than .95rem */
+    }
     /* divider */
     .sidebar-divider{
       border:0; border-top:1px solid #e5e7eb;
@@ -135,9 +137,9 @@
           
           <!-- divider -->
           <hr class="sidebar-divider">
-        
+                  
           <!-- Socials -->
-          <div class="meta-row">
+          <div class="meta-row socials">
             <span class="label">Social media:</span>
             <a href="https://twitter.com/amenjalal_" rel="me" aria-label="Twitter (X)">
               <i class="fab fa-x-twitter icon-fa"></i> Twitter (X)
@@ -147,9 +149,7 @@
               <i class="fab fa-bluesky icon-fa bluesky"></i> Bluesky
             </a>
           </div>
-
-
-        
+          
           <!-- divider -->
           <hr class="sidebar-divider">
         
@@ -163,6 +163,9 @@
               <li><a class="jump-link" href="#teaching">Teaching</a></li>
             </ul>
           </div>
+
+           <!-- divider -->
+          <hr class="sidebar-divider">
         
         </div>
 
