@@ -25,7 +25,7 @@
     <style>
     /* PNG icons (CV, Email) */
     .icon-img{
-      width:28px; height:28px; object-fit:contain;
+      width:30px; height:30px; object-fit:contain;
       vertical-align:middle; margin-right:6px;
     }
     
@@ -66,13 +66,24 @@
       column-gap:0.4rem;         /* a touch tighter than default */
     }
     .meta-row.socials a {
-      color: #1f2937;   /* default text color (gray/black) */
       transition: color 0.15s ease;
     }
     
     .meta-row.socials a:hover {
       color: var(--link-color, #0066cc); /* fallback if no CSS var */
     }
+    /* CV + Email links grow + bold on hover */
+    .action-link {
+      text-decoration:none;
+      font-weight:500;
+      transition: transform .08s ease, font-weight .08s ease;
+    }
+    
+    .action-link:hover {
+      font-weight:700;
+      transform: scale(1.03);
+      text-decoration:none;
+    }  
     /* divider */
     .sidebar-divider{
       border:0; border-top:1px solid #e5e7eb;
@@ -139,14 +150,15 @@
         
           <!-- line 1: CV + Email -->
           <div class="meta-row">
-            <a href="https://amenjalal94.github.io/docs/CV.pdf">
+            <a href="https://amenjalal94.github.io/docs/CV.pdf" class="action-link">
               <img src="/assets/icons/CV.png" alt="CV" class="icon-img"> CV
             </a>
             <span class="dot">•</span>
-            <a href="mailto:u.jalal@lse.ac.uk">
+            <a href="mailto:u.jalal@lse.ac.uk" class="action-link">
               <img src="/assets/icons/email.png" alt="Email" class="icon-img"> Email
             </a>
           </div>
+
           
           <!-- divider -->
           <hr class="sidebar-divider">
