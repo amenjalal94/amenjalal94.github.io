@@ -10,10 +10,8 @@ My research interests are in development, labor, gender and environmental econom
 <a id="working-papers"></a>
 
 ### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
-<span style="color:inherit">
-(with <a href="https://www.orianabandiera.net" style="color:black; text-decoration:none;">Oriana Bandiera</a> and 
-<a href="http://ninaroussille.github.io/" style="color:black; text-decoration:none;">Nina Roussille</a>)
-</span>
+(<span style="color:#333333;">with</span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a> 
+<span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>)
 
 Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
 
