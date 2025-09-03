@@ -93,7 +93,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 <br />
 
 ### Rebuilding Lives: Mental Health and Economic Recovery in Climate Disaster Response
-(<span style="color:#333333;">with</span> <a href="https://canishknaik.github.io">Canishk Naik</a> 
+<span style="color:#333333;">(with</span> <a href="https://canishknaik.github.io">Canishk Naik</a> 
 <span style="color:#333333;">and</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
 
 Designing pilot. Supported by LSE's [Hub for Equal Representation](https://www.hubequalrep.org).
