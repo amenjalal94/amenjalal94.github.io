@@ -10,7 +10,7 @@ My research interests are in development, labor, gender and environmental econom
 <a id="working-papers"></a>
 
 ### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
-with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/)
+(with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/))
 
 _Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)._
 
@@ -30,9 +30,9 @@ In countries with low female employment, college-educated women often transition
 
 ### Screening Women Out? Pay Transparency in Job Search 
 
-**[ Job Market Paper ]**
+**[ <span style="color:rgb(213,62,79); font-weight:bold;">Job Market Paper</span> ]**
 
-_Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop)._ 
+Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).
 
 _Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788)._ 
 
@@ -47,7 +47,7 @@ Women sort into low-paying firms for otherwise similar jobs. This paper explains
 <br />
 
 ### Coping with Catastrophe: Pakistan's 2022 Floods
-with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson)
+(with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
 _Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)._ _[IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)_.
 
@@ -62,7 +62,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 <br />
 
 ### Heat Insurance at Work
-with [Ashley Pople](https://www.ashleypople.com),  [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson) and [Eddy Zou](https://sites.google.com/view/eddyzou/home)
+(with [Ashley Pople](https://www.ashleypople.com),  [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson) and [Eddy Zou](https://sites.google.com/view/eddyzou/home))
 
 _Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative)._
   
@@ -75,7 +75,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 ### Can Competition Reduce Corruption?
-with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Kate Vyborny](https://sites.google.com/site/kvyborny/home) and Alex Quispe
+(with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Kate Vyborny](https://sites.google.com/site/kvyborny/home) and Alex Quispe)
 
 _Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ 
 
@@ -88,7 +88,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 <br />
 
 ### Rebuilding Lives: Integrating Mental Health and Economic Recovery in Climate Disaster Response
-with [Canishk Naik](https://canishknaik.github.io) and [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson)
+(with [Canishk Naik](https://canishknaik.github.io) and [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson))
 
 _Designing pilot. Supported by LSE's [Hub for Equal Representation](https://www.hubequalrep.org)._
 
