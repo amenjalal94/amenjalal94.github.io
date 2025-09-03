@@ -35,7 +35,7 @@ In countries with low female employment, college-educated women often transition
 
 **[ <span style="color:rgb(213,62,79); font-weight:bold;">Job Market Paper</span> ]**
 
-Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).
+<span style="color:black">Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).</span>
 
 Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788).
 
@@ -54,7 +54,7 @@ Women sort into low-paying firms for otherwise similar jobs. This paper explains
 (with <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson" style="color:black; text-decoration:none;">Pol Simpson</a>)
 </span>
 
-Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)._ _[IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022).
+Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022).
 
 <details>
 
