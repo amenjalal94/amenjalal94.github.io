@@ -11,7 +11,7 @@ My research interests are in development, labor, gender and environmental econom
 
 ### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
 (<span style="color:#333333;">with</span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a> 
-<span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>)
+<span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>
 
 Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
 
@@ -48,9 +48,7 @@ Women sort into low-paying firms for otherwise similar jobs. This paper explains
 <br />
 
 ### Coping with Catastrophe: Pakistan's 2022 Floods
-<span style="color:black">
-(with <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson" style="color:black; text-decoration:none;">Pol Simpson</a>)
-</span>
+(<span style="color:#333333;">with</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
 
 Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022).
 
@@ -65,11 +63,9 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 <br />
 
 ### Heat Insurance at Work
-<span style="color:black">
-(with <a href="https://www.ashleypople.com" style="color:black; text-decoration:none;">Ashley Pople</a>, 
-<a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson" style="color:black; text-decoration:none;">Pol Simpson</a> and 
-<a href="https://sites.google.com/view/eddyzou/home" style="color:black; text-decoration:none;">Eddy Zou</a>)
-</span>
+(<span style="color:#333333;">with</span> <a href="https://www.ashleypople.com">Ashley Pople</a>, 
+<a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a> 
+<span style="color:#333333;">and</span> <a href="https://sites.google.com/view/eddyzou/home">Eddy Zou</a><span style="color:#333333;">)</span>
 
 Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
   
@@ -82,11 +78,9 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 ### Can Competition Reduce Corruption?
-<span style="color:black">
-(with <a href="https://sites.google.com/view/mhaseeb" style="color:black; text-decoration:none;">Muhammad Haseeb</a>, 
-<a href="https://sites.google.com/site/kvyborny/home" style="color:black; text-decoration:none;">Kate Vyborny</a> and 
-Alex Quispe)
-</span>
+(<span style="color:#333333;">with</span> <a href="https://sites.google.com/view/mhaseeb">Muhammad Haseeb</a>, 
+<a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a> 
+<span style="color:#333333;">and</span> Alex Quispe<span style="color:#333333;">)</span>
 
 Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
 
@@ -99,10 +93,8 @@ Corruption remains a major obstacle to the delivery of public services in develo
 <br />
 
 ### Rebuilding Lives: Mental Health and Economic Recovery in Climate Disaster Response
-<span style="color:black">
-(with <a href="https://canishknaik.github.io" style="color:black; text-decoration:none;">Canishk Naik</a> and 
-<a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson" style="color:black; text-decoration:none;">Pol Simpson</a>)
-</span>
+(<span style="color:#333333;">with</span> <a href="https://canishknaik.github.io">Canishk Naik</a> 
+<span style="color:#333333;">and</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
 
 Designing pilot. Supported by LSE's [Hub for Equal Representation](https://www.hubequalrep.org).
 
