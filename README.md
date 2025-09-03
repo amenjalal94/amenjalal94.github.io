@@ -35,7 +35,7 @@ In countries with low female employment, college-educated women often transition
 
 **[ <span style="color:rgb(213,62,79); font-weight:bold;">Job Market Paper</span> ]**
 
-<span style="color:black">Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).</span>
+Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).
 
 Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788).
 
