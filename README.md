@@ -15,7 +15,7 @@ My research interests are in development, labor, gender and environmental econom
 <a href="http://ninaroussille.github.io/" style="color:black; text-decoration:none;">Nina Roussille</a>)
 </span>
 
-_Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)._
+Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
 
 <details>
 
@@ -37,7 +37,7 @@ In countries with low female employment, college-educated women often transition
 
 Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).
 
-_Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788)._ 
+Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788).
 
 <details>
 
@@ -54,7 +54,7 @@ Women sort into low-paying firms for otherwise similar jobs. This paper explains
 (with <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson" style="color:black; text-decoration:none;">Pol Simpson</a>)
 </span>
 
-_Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)._ _[IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)_.
+Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)._ _[IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022).
 
 <details>
 
@@ -73,7 +73,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 <a href="https://sites.google.com/view/eddyzou/home" style="color:black; text-decoration:none;">Eddy Zou</a>)
 </span>
 
-_Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative)._
+Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
   
 <details>
 
@@ -90,7 +90,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 Alex Quispe)
 </span>
 
-_Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ 
+Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
 
 <details>
 
@@ -106,7 +106,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson" style="color:black; text-decoration:none;">Pol Simpson</a>)
 </span>
 
-_Designing pilot. Supported by LSE's [Hub for Equal Representation](https://www.hubequalrep.org)._
+Designing pilot. Supported by LSE's [Hub for Equal Representation](https://www.hubequalrep.org).
 
 <details>
 
