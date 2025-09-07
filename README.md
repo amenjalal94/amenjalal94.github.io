@@ -1,4 +1,4 @@
-Hello! I am a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics) and I will be on the 2025-26 job market. 
+Hello! I am a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics) and <span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. 
 
 I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant.
 
@@ -10,15 +10,16 @@ My research interests are in development, labor, gender and environmental econom
 <a id="working-papers"></a>
 
 ### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
-with [Oriana Bandiera](https://www.orianabandiera.net) and [Nina Roussille](http://ninaroussille.github.io/)
+<span style="color:#333333;">(with</span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a> 
+<span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>
 
-_Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund)._
+Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
 
 <details>
 
   <summary>Click for abstract</summary>  
  
-In countries with low female employment, college-educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 college-graduating students, we document that men and women start their search with similar work aspirations, apply at similar rates, and receive comparable numbers of job offers. Yet a 27 pp employment gap emerges within six months post-graduation. This gap stems largely from timing: for women alone, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. To test whether this relationship is causal, we randomize a modest incentive to apply early. By shifting search into the early window, the intervention raises women's employment by ~20\% but leaves men's employment unaffected, closing a third of the gender gap. Our evidence suggests that applying early enables women to start working before demands from the marriage market arise. Treatment effects are driven by women who underestimate how quickly these demands materialize, revealing an “illusion of time.” This illusion can be persistent since women in our sample recognize the barriers to employment faced by their female peers, but overestimate their own ability to overcome them.
+In countries with low female employment, college-educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 college-graduating students, we document that men and women start their search with similar work aspirations, apply at similar rates, and receive comparable numbers of job offers. Yet a 27 pp employment gap emerges within six months post-graduation. This gap stems largely from timing: for women alone, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. To test whether this relationship is causal, we randomize a modest incentive to apply early. By shifting search into the early window, the intervention raises women's employment by ~20% but leaves men's employment unaffected, closing a third of the gender gap. Our evidence suggests that applying early enables women to start working before demands from the marriage market arise. Treatment effects are driven by women who underestimate how quickly these demands materialize, revealing an “illusion of time.” This illusion can be persistent since women in our sample recognize the barriers to employment faced by their female peers, but overestimate their own ability to overcome them.
 </details>
 
 <br />
@@ -30,11 +31,14 @@ In countries with low female employment, college-educated women often transition
 
 ### Screening Women Out? Pay Transparency in Job Search 
 
-**[ Job Market Paper ]**
+<span style="color:#333333; font-weight:bold;">[</span>
+<span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
+<span style="color:#333333; font-weight:bold;">]</span>
 
-_Outstanding Paper Award at the [Discrimination and Diversity Workshop, 2025](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop)._ 
 
-_Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788)._ 
+Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).
+
+Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788).
 
 <details>
 
@@ -47,9 +51,9 @@ Women sort into low-paying firms for otherwise similar jobs. This paper explains
 <br />
 
 ### Coping with Catastrophe: Pakistan's 2022 Floods
-with [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson)
+<span style="color:#333333;">(with</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
 
-_Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid)._ _[IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022)_.
+Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022).
 
 <details>
 
@@ -62,9 +66,11 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 <br />
 
 ### Heat Insurance at Work
-with [Ashley Pople](https://www.ashleypople.com),  [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson) and [Eddy Zou](https://sites.google.com/view/eddyzou/home)
+<span style="color:#333333;">(with</span> <a href="https://www.ashleypople.com">Ashley Pople</a>, 
+<a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a> 
+<span style="color:#333333;">and</span> <a href="https://sites.google.com/view/eddyzou/home">Eddy Zou</a><span style="color:#333333;">)</span>
 
-_Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative)._
+Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
   
 <details>
 
@@ -75,9 +81,11 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 ### Can Competition Reduce Corruption?
-with [Muhammad Haseeb](https://sites.google.com/view/mhaseeb), [Kate Vyborny](https://sites.google.com/site/kvyborny/home) and Alex Quispe
+<span style="color:#333333;">(with</span> <a href="https://sites.google.com/view/mhaseeb">Muhammad Haseeb</a>, 
+<a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a> 
+<span style="color:#333333;">and Alex Quispe)</span>
 
-_Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org)._ 
+Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
 
 <details>
 
@@ -87,16 +95,17 @@ Corruption remains a major obstacle to the delivery of public services in develo
 </details>	
 <br />
 
-### Rebuilding Lives: Integrating Mental Health and Economic Recovery in Climate Disaster Response
-with [Canishk Naik](https://canishknaik.github.io) and [Pol Simpson](https://www.lse.ac.uk/economics/people/research-students/polly-simpson)
+### Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery
+<span style="color:#333333;">(with</span> <a href="https://canishknaik.github.io">Canishk Naik</a> 
+<span style="color:#333333;">and</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
 
-_Designing pilot. Supported by LSE's [Hub for Equal Representation](https://www.hubequalrep.org)_
+Designing pilot. Supported by LSE's [Hub for Equal Representation](https://www.hubequalrep.org).
 
 <details>
 
   <summary>Click for abstract</summary>	
 	
-Disaster recovery often focuses on rebuilding physical infrastructure, overlooking the mental health impact of traumatic events like floods. In Pakistan, where flooding in 2022 submerged a third of the country under water and lasted up to 8 months, over one in five flood affectees report severe psychological distress 2 years later. Ignoring mental health in reconstruction may prolong the socio-economic impact of disasters by limiting individuals’ ability to work, plan, and recover. This project studies the interaction between physical and psychological recovery in flood-affected communities by randomizing a locally developed mental health literacy initiative among households who are marginally eligible for a housing reconstruction program. Our 2x2 design allows us to compare the benefits of mental health support against the standard infrastructure-focused approach, and explore complementarities. Our findings aim to measure the non-economic losses and damages of climate catastrophes, and inform more holistic disaster recovery policies that address both physical and psychological needs. 
+Disaster recovery often focuses on rebuilding physical infrastructure, overlooking the mental health impact of traumatic events like floods. In Pakistan, where flooding in 2022 submerged a third of the country and lasted up to 8 months, women exposed to a more intense flood shock were 11 pp more likely to have severe psychological distress 2 years later. Ignoring mental health in reconstruction may prolong the socio-economic impact of disasters by limiting individuals’ ability to work, plan, and recover. This project explores complementarities between mental health support and the standard infrastructure-focused approach by randomizing a trauma-based mental health intervention and leveraging natural variation in access to a housing reconstruction program in a 2x2 design. Our findings aim to measure the non-economic losses and damages of climate catastrophes, and inform more holistic disaster recovery policies that address both physical and psychological needs.
 </details>	
 <br />
 
