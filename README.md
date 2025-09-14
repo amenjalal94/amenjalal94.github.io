@@ -38,7 +38,7 @@ In countries with low female employment, college-educated women often transition
 
 Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).
 
-Supported by [G2LMLIC](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788).
+Supported by [G<sup>2</sup>LM|LIC (IZA)](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788).
 
 <details>
 
@@ -99,7 +99,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 <span style="color:#333333;">(with</span> <a href="https://canishknaik.github.io">Canishk Naik</a> 
 <span style="color:#333333;">and</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
 
-Designing pilot. Supported by LSE's [Hub for Equal Representation](https://www.hubequalrep.org).
+Designing pilot. Supported by the [Hub for Equal Representation](https://www.hubequalrep.org) (LSE).
 
 <details>
 
