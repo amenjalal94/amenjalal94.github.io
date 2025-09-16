@@ -38,7 +38,7 @@ In countries with low female employment, college-educated women often transition
 
 Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).
 
-Supported by [G2LM|LIC (IZA)](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788).
+Supported by [G<sup>2</sup>LM LIC (IZA)](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788).
 
 <details>
 
