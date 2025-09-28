@@ -70,7 +70,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a> 
 <span style="color:#333333;">, 
 </span> <a href="https://sites.google.com/view/eddyzou/home">Eddy Zou</a><span style="color:#333333;"></span> and 
-<span style="color:#333333;"></span> <a href="https://www.orianabandiera.net">Oriana Bandiera)</a> 
+<span style="color:#333333;"></span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a>)
 
 Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
   
