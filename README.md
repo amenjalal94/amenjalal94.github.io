@@ -91,7 +91,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 <a id="works-in-progress"></a>
 
 ### Coping with Catastrophe: Pakistan's 2022 Floods
-<span style="color:#333333;">(with</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
+<span style="color:#333333;">(with</span> <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">)</span>
 
 Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022).
 
@@ -107,7 +107,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 ### Heat Insurance at Work
 <span style="color:#333333;">(with</span> <a href="https://www.ashleypople.com">Ashley Pople</a>, 
-<a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a> 
+<a href="https://polsimpson.github.io">Pol Simpson</a> 
 <span style="color:#333333;">, 
 </span> <a href="https://sites.google.com/view/eddyzou/home">Eddy Zou</a><span style="color:#333333;"></span> and 
 <span style="color:#333333;"></span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a>)
@@ -124,7 +124,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 ### Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery
 <span style="color:#333333;">(with</span> <a href="https://canishknaik.github.io">Canishk Naik</a> 
-<span style="color:#333333;">and</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
+<span style="color:#333333;">and</span> <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">)</span>
 
 Designing pilot. Supported by the [Hub for Equal Representation](https://www.hubequalrep.org) (LSE).
 
