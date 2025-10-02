@@ -62,9 +62,27 @@ Corruption remains a major obstacle to the delivery of public services in develo
 </details>	
 <br />
 
+
+
+
+### [What happens when women suddenly stop receiving cash transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)
+<span style="color:#333333;">(with Nasir Iqbal,</span> <a href="https://sites.google.com/site/mahreenmahmudsite/home">Mahreen Mahmud</a> 
+<span style="color:#333333;">and </span> <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a>)
+
+Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org).
+
+<details>
+
+  <summary>Click for abstract</summary>	
+	
+Female-targeted cash transfers are widely used as a policy tool to enhance women's empowerment.  However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation.  We study how women are affected by program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow a panel of 2,333 women exiting Pakistan’s largest cash transfer program.  One year after exit, drawing on a comprehensive battery of empowerment,  intimate partner violence, and well-being measures, we find no evidence of backlash. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit. 
+</details>	
+<br />
+
+
+
 <hr class="section-divider">
-
-
+ 
 
 
 ## Works in progress 
