@@ -9,27 +9,7 @@ My research interests are in development, labor, gender and environmental econom
 ## Working papers 
 <a id="working-papers"></a>
 
-### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
-<span style="color:#333333;">(with</span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a> 
-<span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>
-
-Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
-
-<details>
-
-  <summary>Click for abstract</summary>  
- 
-In countries with low female employment, college-educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 college-graduating students, we document that men and women start their search with similar work aspirations, apply at similar rates, and receive comparable numbers of job offers. Yet a 27 pp employment gap emerges within six months post-graduation. This gap stems largely from timing: for women alone, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. To test whether this relationship is causal, we randomize a modest incentive to apply early. By shifting search into the early window, the intervention raises women's employment by ~20% but leaves men's employment unaffected, closing a third of the gender gap. Our evidence suggests that applying early enables women to start working before demands from the marriage market arise. Treatment effects are driven by women who underestimate how quickly these demands materialize, revealing an “illusion of time.” This illusion can be persistent since women in our sample recognize the barriers to employment faced by their female peers, but overestimate their own ability to overcome them.
-</details>
-
-<br />
-
-<hr class="section-divider">
-
-## Works in progress 
-<a id="works-in-progress"></a>
-
-### Screening Women Out? Pay Transparency in Job Search 
+### [Screening Women Out? Pay Transparency in Job Search](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)
 
 <span style="color:#333333; font-weight:bold;">[</span>
 <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
@@ -49,6 +29,46 @@ Women sort into low-paying firms for otherwise similar jobs. Whether this reflec
 </details>
 
 <br />
+
+
+### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
+<span style="color:#333333;">(with</span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a> 
+<span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>
+
+Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
+
+<details>
+
+  <summary>Click for abstract</summary>  
+ 
+In countries with low female employment, college-educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 college-graduating students, we document that men and women start their search with similar work aspirations, apply at similar rates, and receive comparable numbers of job offers. Yet a 27 pp employment gap emerges within six months post-graduation. This gap stems largely from timing: for women alone, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. To test whether this relationship is causal, we randomize a modest incentive to apply early. By shifting search into the early window, the intervention raises women's employment by ~20% but leaves men's employment unaffected, closing a third of the gender gap. Our evidence suggests that applying early enables women to start working before demands from the marriage market arise. Treatment effects are driven by women who underestimate how quickly these demands materialize, revealing an “illusion of time.” This illusion can be persistent since women in our sample recognize the barriers to employment faced by their female peers, but overestimate their own ability to overcome them.
+</details>
+
+<br />
+
+
+### [Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)
+<span style="color:#333333;">(with</span> <a href="https://sites.google.com/view/mhaseeb">Muhammad Haseeb</a>, 
+<a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a> 
+<span style="color:#333333;">and Alex Quispe)</span>
+
+Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
+
+<details>
+
+  <summary>Click for abstract</summary>	
+	
+Corruption remains a major obstacle to the delivery of public services in developing countries. We study whether competition between service delivery agents can mitigate corruption, leveraging exogenous changes to the market structure of agents responsible for delivering government cash transfers in Pakistan. A reform that increased the market power of these agents led to a 29.1 pp increase in the probability that a beneficiary had to pay an involuntary bribe to access the cash transfer. However, in areas with 1 standard deviation higher competition, this increase in bribe payments is almost completely eliminated. We rule out that mechanisms other than competition drive these results, such as strategic entry, changes in market access, and differences in monitoring efforts or cash recipient characteristics.
+</details>	
+<br />
+
+<hr class="section-divider">
+
+
+
+
+## Works in progress 
+<a id="works-in-progress"></a>
 
 ### Coping with Catastrophe: Pakistan's 2022 Floods
 <span style="color:#333333;">(with</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
@@ -79,21 +99,6 @@ Implementation on-going. AEA RCT registration [here](https://www.socialsciencere
   <summary>Click for abstract</summary>	
 
 Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor work or limited access to adaptive resources. In 2024, 37 cities in India surpassed 45°C (113°F), and around 40,000 heat stroke cases were reported. How can social protection systems evolve to address the growing losses caused by extreme heat? We evaluate an innovative intervention in India that offers automatic daily wage payments to low-income workers when temperatures exceed a predetermined threshold. Developed by the Self Employed Women’s Association (SEWA) – a union representing over 3 million informal workers – the scheme is the world’s first parametric heat insurance product targeting earnings loss. We use a randomized encouragement design, incentivizing SEWA officers to promote enrollment in 2,821 treatment villages, while 2,821 control villages receive no targeted outreach. Panel survey data – combined with high-frequency measurement during the hot season – will allow us to estimate impacts on labor supply, financial decisions, health, consumption, and adaptive behavior. We also assess willingness to pay relative to actuarially fair pricing, providing evidence on the potential for commercial insurance-based heat protection.
-</details>	
-<br />
-
-### Can Competition Reduce Corruption?
-<span style="color:#333333;">(with</span> <a href="https://sites.google.com/view/mhaseeb">Muhammad Haseeb</a>, 
-<a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a> 
-<span style="color:#333333;">and Alex Quispe)</span>
-
-Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
-
-<details>
-
-  <summary>Click for abstract</summary>	
-	
-Corruption remains a major obstacle to the delivery of public services in developing countries. We study whether competition between service delivery agents can mitigate corruption, leveraging exogenous changes to the market structure of agents responsible for delivering government cash transfers in Pakistan. A reform that increased the market power of these agents led to a 29.1 pp increase in the probability that a beneficiary had to pay an involuntary bribe to access the cash transfer. However, in areas with 1 standard deviation higher competition, this increase in bribe payments is almost completely eliminated. We rule out that mechanisms other than competition drive these results, such as strategic entry, changes in market access, and differences in monitoring efforts or cash recipient characteristics.
 </details>	
 <br />
 
