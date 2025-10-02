@@ -18,7 +18,7 @@ My research interests are in development, labor, gender and environmental econom
 
 Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop).
 
-Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). AEA RCT registration [here](https://www.socialscienceregistry.org/trials/13788).
+Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
 
 <details>
 
