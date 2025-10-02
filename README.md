@@ -52,7 +52,7 @@ In countries with low female employment, college-educated women often transition
 <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a> 
 <span style="color:#333333;">and Alex Quispe)</span>
 
-Draft available soon. Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
+Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
 
 <details>
 
