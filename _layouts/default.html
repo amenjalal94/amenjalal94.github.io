@@ -48,6 +48,15 @@
       text-decoration:none;
       transition: color 0.15s ease;
     }
+    /* Bigger text for CV + Email only (icons stay 32px due to .icon-img) */
+    .meta-row.actions a.action-link {
+      font-size: 1.2rem;   /* adjust to scale */
+      font-weight: 600;
+    }
+    
+    /* make the separator dot scale with the text */
+    .meta-row.actions .dot { font-size: 1.1rem; }
+      
     .meta-row a:hover {
       text-decoration:none;  /* remove underline */
     }

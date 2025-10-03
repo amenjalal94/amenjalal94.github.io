@@ -1,4 +1,6 @@
-Hello! I am a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics) and <span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. 
+Hello! I am a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). 
+
+<span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. 
 
 I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant.
 
@@ -24,7 +26,7 @@ Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org).
 
 <summary>Click for abstract</summary>
 
-Women sort into low-paying firms for otherwise similar jobs. Whether this reflects preferences for amenities or barriers to search remains unknown. Using 29 million job applications from Pakistan's largest job search platform, and a lab experiment, I document that large, high-paying firms are more likely to omit salaries from job ads, and less likely to offer flexibility – which women value slightly more than men. When pay is disclosed, women respond to higher wages like men. Without disclosure, they apply to lower-paying jobs while men search randomly. A search model rationalizes this, showing that pay non-disclosure transforms modest gender differences in amenity preferences into large gender gaps in applications.  To test whether transparency closes these gaps, I randomize mandatory versus optional pay disclosure for 20,000 jobs in 8,900 firms on the platform. Large-firm salaries and amenities remain unchanged by the intervention. Yet, women's applications to these firms rise by 95%, and men's by 59%, eliminating the gender gap. This reveals that women do not knowingly "buy" flexibility with pay. Rather, they turn to flexibility when its price is obscured.
+Women sort into low-paying firms for otherwise similar jobs. Whether this reflects preferences or frictions is largely unknown. Using 29 million job applications from Pakistan's largest job search platform, and a discrete-choice experiment, I document that large, high-paying firms are more likely to omit salaries from job ads, and less likely to offer flexibility – which women value more than men. When pay is disclosed, men and women respond similarly. Without disclosure, men search randomly while women sort negatively on pay. A search model rationalizes these facts, showing that non-disclosure transforms small gender differences in amenity preferences into large gender gaps in sorting.  To test whether transparency closes the gaps, I field a large-scale experiment on the platform, randomizing mandatory vs. optional pay disclosure in 20,000 job ads across 8,900 firms. Large-firm pay and amenities remain unchanged by transparency. Yet, women's applications to these firms increase 95%, and men's by 59%, reversing the gender gap in directed search. Large firms also overestimate the costs of transparency; treatment raises their pay disclosure rate by 30% post-experiment. I conclude that women do not knowingly "buy" flexibility with pay. Rather, they turn to flexibility when its price is unknown. 
 
 </details>
 
@@ -62,16 +64,34 @@ Corruption remains a major obstacle to the delivery of public services in develo
 </details>	
 <br />
 
+
+
+
+### [What happens when women suddenly stop receiving cash transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)
+<span style="color:#333333;">(with Nasir Iqbal,</span> <a href="https://sites.google.com/site/mahreenmahmudsite/home">Mahreen Mahmud</a> 
+<span style="color:#333333;">and </span> <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a>)
+
+Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org).
+
+<details>
+
+  <summary>Click for abstract</summary>	
+	
+Female-targeted cash transfers are widely used as a policy tool to enhance women's empowerment.  However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation.  We study how women are affected by program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow a panel of 2,333 women exiting Pakistan’s largest cash transfer program.  One year after exit, drawing on a comprehensive battery of empowerment,  intimate partner violence, and well-being measures, we find no evidence of backlash. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit. 
+</details>	
+<br />
+
+
+
 <hr class="section-divider">
-
-
+ 
 
 
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-### Coping with Catastrophe: Pakistan's 2022 Floods
-<span style="color:#333333;">(with</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
+### Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters
+<span style="color:#333333;">(with</span> <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">)</span>
 
 Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022).
 
@@ -87,7 +107,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 ### Heat Insurance at Work
 <span style="color:#333333;">(with</span> <a href="https://www.ashleypople.com">Ashley Pople</a>, 
-<a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a> 
+<a href="https://polsimpson.github.io">Pol Simpson</a> 
 <span style="color:#333333;">, 
 </span> <a href="https://sites.google.com/view/eddyzou/home">Eddy Zou</a><span style="color:#333333;"></span> and 
 <span style="color:#333333;"></span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a>)
@@ -104,7 +124,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 ### Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery
 <span style="color:#333333;">(with</span> <a href="https://canishknaik.github.io">Canishk Naik</a> 
-<span style="color:#333333;">and</span> <a href="https://www.lse.ac.uk/economics/people/research-students/polly-simpson">Pol Simpson</a><span style="color:#333333;">)</span>
+<span style="color:#333333;">and</span> <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">)</span>
 
 Designing pilot. Supported by the [Hub for Equal Representation](https://www.hubequalrep.org) (LSE).
 
