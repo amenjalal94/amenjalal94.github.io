@@ -90,7 +90,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-### Coping with Catastrophe: Pakistan's 2022 Floods
+### Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters
 <span style="color:#333333;">(with</span> <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">)</span>
 
 Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022).
