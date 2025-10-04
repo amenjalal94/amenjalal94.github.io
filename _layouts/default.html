@@ -69,7 +69,24 @@
     .meta-row.actions {
       justify-content: center;   /* center the content horizontally */
     }
-   
+   /* Base weight just for the text, not the icon */
+    .meta-row.actions a.action-link .action-text {
+      font-weight: 500;
+    }
+    
+    /* Make it bold on hover; a bit more specific to beat theme rules */
+    .meta-row.actions a.action-link:hover .action-text {
+      font-weight: 700 !important;  /* remove !important if you prefer, keep if theme forces a weight */
+    }
+    
+    /* keep your existing scale effect */
+    .action-link {
+      transition: transform .08s ease;
+    }
+    .action-link:hover {
+      transform: scale(1.03);
+    }
+
     
     /* socials row: tighter, smaller text */
     .meta-row.socials {
@@ -160,11 +177,13 @@
           <hr class="sidebar-divider">
           <div class="meta-row actions">
             <a href="https://amenjalal94.github.io/docs/CV.pdf" class="action-link">
-              <img src="/assets/icons/CV.png" alt="CV" class="icon-img"> CV
+              <img src="/assets/icons/CV.png" alt="CV" class="icon-img">
+              <span class="action-text">CV</span>
             </a>
             <span class="dot">•</span>
             <a href="mailto:u.jalal@lse.ac.uk" class="action-link">
-              <img src="/assets/icons/mail.png" alt="Email" class="icon-img"> Email
+              <img src="/assets/icons/mail.png" alt="Email" class="icon-img">
+              <span class="action-text">Email</span>
             </a>
           </div>
 
