@@ -4,7 +4,7 @@ Hello! I am a PhD student in economics at the [London School of Economics (LSE)]
 
 I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant.
 
-My research interests are in development, labor, gender and environmental economics. 
+My research interests are in development, environmental and labor economics, with a central focus on gender. 
 <hr class="section-divider">
 
 
