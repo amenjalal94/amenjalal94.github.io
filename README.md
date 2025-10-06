@@ -4,7 +4,7 @@ Hello! I am a PhD student in economics at the [London School of Economics (LSE)]
 
 I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant.
 
-My research interests are in development, environmental and labor economics, with a central focus on gender. 
+My research interests are in development, environmental and labor economics. Most of my work is focused on understanding how gender and climate shocks shape labor market outcomes in low-income countries. 
 <hr class="section-divider">
 
 
@@ -67,7 +67,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 
 
-### [What happens when women suddenly stop receiving cash transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)
+### [What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)
 <span style="color:#333333;">(with Nasir Iqbal,</span> <a href="https://sites.google.com/site/mahreenmahmudsite/home">Mahreen Mahmud</a> 
 <span style="color:#333333;">and </span> <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a>)
 
