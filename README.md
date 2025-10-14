@@ -11,7 +11,7 @@ My research interests are in development, environmental and labor economics. Mos
 ## Working papers 
 <a id="working-papers"></a>
 
-### [Screening Women Out? Pay Transparency in Job Search](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)
+### [Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)
 
 <span style="color:#333333; font-weight:bold;">[</span>
 <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
@@ -26,7 +26,7 @@ Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org).
 
 <summary>Click for abstract</summary>
 
- Women sort into lower-paying firms than men. Whether this reflects preferences or frictions remains unknown. Using 310,000 job ads from Pakistan's largest job search platform, and a survey experiment with workers, I document that large, high-paying firms are more likely to omit salaries in job ads and less likely to offer flexibility – which women value moderately more. When firms disclose pay on the platform, application elasticities are similar across genders. But without disclosure, men search randomly while women sort negatively on pay. A simple model rationalizes this, showing that pay non-disclosure transforms small gender differences in amenity preferences into large gender gaps in sorting. To test whether transparency closes these gaps, I field a large-scale experiment randomizing mandatory vs. optional pay disclosure in 20,088 jobs across 8,906 firms. Large-firm pay and amenities remain unchanged in response. Yet, women's applications to these firms increase 95% and men's 59%, reversing the gender gap in directed search. This suggests women do not knowingly "buy" flexibility with pay; rather, they turn to flexibility when its price is unknown. Moreover, fully treated large firms are 30% more likely to voluntarily disclose pay post-experiment, indicating they overestimated the cost of transparency. 
+Up to half of the gender pay gap stems from women's sorting into low-wage firms. Do women prefer amenities to wages, or face barriers to search? I tackle this question using data on 29 million job applications from Pakistan's largest job search platform, combined with firm and worker surveys and a field experiment on 20,088 jobs across 8,906 firms. I document that large, high-paying firms are more likely to omit salaries in job ads and less likely to offer flexibility – an amenity women value slightly more. When pay is disclosed, men and women respond similarly to wages. But when undisclosed, behaviors diverge: men search randomly, while women sort negatively on pay. A simple model shows that pay non-disclosure amplifies small gender differences in amenity preferences into large gender gaps in applications. To test whether pay transparency closes these gaps, I randomize mandatory vs. optional pay disclosure on the platform. The experiment leaves large-firm pay and amenities unchanged. Yet women's applications to these firms increase 95%, and men's 59%, reversing the gender gap in directed search.  This implies women do not knowingly "buy" flexibility with pay; rather, they turn to flexibility when its price is unknown. Meanwhile, firms most exposed to mandated transparency become 30% more likely to disclose pay post-experiment, suggesting they overestimated the costs of transparency.
 
 </details>
 
