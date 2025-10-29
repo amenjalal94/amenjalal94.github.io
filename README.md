@@ -11,7 +11,7 @@ My research interests are in development, environmental and labor economics. Mos
 ## Working papers 
 <a id="working-papers"></a>
 
-### [Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf#view=FitH&pagemode=none)
+### [Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)
 
 <span style="color:#333333; font-weight:bold;">[</span>
 <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
@@ -33,7 +33,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 <br />
 
 
-### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf#view=FitH&pagemode=none)
+### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
 <span style="color:#333333;">(with</span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a> 
 <span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>
 
@@ -49,7 +49,7 @@ In countries with low female employment, college-educated women often transition
 <br />
 
 
-### [Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf#view=FitH&pagemode=none)
+### [Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)
 <span style="color:#333333;">(with</span> <a href="https://sites.google.com/view/mhaseeb">Muhammad Haseeb</a>, 
 <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a> 
 <span style="color:#333333;">and Alex Quispe)</span>
@@ -67,7 +67,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 
 
-### [What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf#view=FitH&pagemode=none)
+### [What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)
 <span style="color:#333333;">(with Nasir Iqbal,</span> <a href="https://sites.google.com/site/mahreenmahmudsite/home">Mahreen Mahmud</a> 
 <span style="color:#333333;">and </span> <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a>)
 
