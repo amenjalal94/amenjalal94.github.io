@@ -270,7 +270,10 @@
       pdfLinks.forEach(link => {
         link.addEventListener('click', function(e) {
           e.preventDefault();
-          window.open(this.href, '_blank');
+          const url = this.href;
+          // Add cache-busting parameter to force fresh load
+          const separator = url.includes('?') ? '&' : '?';
+          window.open(url + separator + '_t=' + Date.now(), '_blank');
         });
       });
     });
