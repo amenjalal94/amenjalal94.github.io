@@ -93,7 +93,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 ### Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters
 <span style="color:#333333;">(with</span> <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">)</span>
 
-Two annual follow-up surveys completed. Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). [IGC Blog Post](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-rural-poor-populations-fared-pakistans-2022).
+Two annual follow-up surveys completed. A policy brief of our findings is available [here](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
 
 <details>
 
