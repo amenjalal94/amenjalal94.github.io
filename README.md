@@ -1,10 +1,8 @@
-Hello! I am a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). <br /><br />
+Hello! I am a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). I have a Bachelors in economics from [Yale University](https://economics.yale.edu). <br /><br />
 
 <span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. <br /><br />
 
 My research spans <span style="color:#B23A48; font-weight:bold;">development, environmental</span> and <span style="color:#B23A48; font-weight:bold;">labor economics</span>. Most of my work studies how gender and climate shocks shape labor market outcomes in low-income countries. <br /><br />
-
-I have a Bachelors in economics from [Yale University](https://economics.yale.edu). <br /><br />
 
 <hr class="section-divider">
 
