@@ -14,9 +14,7 @@ My research spans <span style="color:#B23A48; font-weight:bold;">development, en
 <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
 <span style="color:#333333; font-weight:bold;"> ]</span>
 
-Outstanding Paper Award, [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). 
-
-Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
+[Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
 
 <details>
 
