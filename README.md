@@ -2,7 +2,7 @@ Hello! I am a PhD student in economics at the [London School of Economics (LSE)]
 
 <span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. 
 
-My research interests are in <span style="color:#757575; font-weight:bold;">development, environmental and labor</span> economics. Most of my work is focused on understanding how gender and climate shocks shape labor market outcomes in low-income countries. 
+My research interests are in <span style="color:#B23A48; font-weight:bold;">development, environmental</span> and <span style="color:#B23A48; font-weight:bold;">labor economics</span>. Most of my work is focused on understanding how gender and climate shocks shape labor market outcomes in low-income countries. 
 
 I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant.
 
@@ -11,7 +11,7 @@ I have a Bachelors in economics from [Yale University](https://economics.yale.ed
 ## Working papers 
 <a id="working-papers"></a>
 
-**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)**
+#### [Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)
 <span style="color:#333333; font-weight:bold;">[</span>
 <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
 <span style="color:#333333; font-weight:bold;">]</span>
@@ -30,7 +30,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 <br />
 
 
-**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)**
+#### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
 <span style="color:#333333;">(with</span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a> 
 <span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>
 
@@ -46,7 +46,7 @@ In countries with low female employment, college-educated women often transition
 <br />
 
 
-**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)**
+#### [Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)
 <span style="color:#333333;">(with</span> <a href="https://sites.google.com/view/mhaseeb">Muhammad Haseeb</a>, 
 <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a> 
 <span style="color:#333333;">and Alex Quispe)</span>
@@ -64,7 +64,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 
 
-**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)**
+#### [What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)
 <span style="color:#333333;">(with Nasir Iqbal,</span> <a href="https://sites.google.com/site/mahreenmahmudsite/home">Mahreen Mahmud</a> 
 <span style="color:#333333;">and </span> <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a>)
 
