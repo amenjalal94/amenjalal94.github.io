@@ -16,7 +16,7 @@ I have a Bachelors in economics from [Yale University](https://economics.yale.ed
 <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
 <span style="color:#333333; font-weight:bold;"> ]</span>
 
-Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). 
+Outstanding Paper Award, [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). 
 
 Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
 
@@ -78,7 +78,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 
 **Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters** (with Pol Simpson)
 
-Policy brief of findings available [here](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
+Policy brief [here](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
 
 <details>
 
