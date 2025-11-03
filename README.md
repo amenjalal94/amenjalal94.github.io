@@ -4,7 +4,7 @@ Hello! I am a PhD student in economics at the [London School of Economics](https
 
 My research spans <span style="color:#B23A48; font-weight:bold;">development, environmental</span> and <span style="color:#B23A48; font-weight:bold;">labor economics</span>. Most of my work studies how gender and climate shocks shape labor market outcomes in low-income countries. <br /><br />
 
-I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant.<br /><br />
+I have a Bachelors in economics from [Yale University](https://economics.yale.edu). <br /><br />
 
 <hr class="section-divider">
 
