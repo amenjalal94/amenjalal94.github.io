@@ -145,15 +145,16 @@
       letter-spacing: 0.4px;
     }
       
-    #working-papers p {
+    /* === tighten paragraph spacing only under Working papers + Works in progress === */
+    a[id="working-papers"] ~ p,
+    a[id="working-papers"] ~ details,
+    a[id="works-in-progress"] ~ p,
+    a[id="works-in-progress"] ~ details {
       margin-top: 0.25rem;
       margin-bottom: 0.25rem;
+      line-height: 1.4;
     }
 
-    #works-in-progress p {
-      margin-top: 0.25rem;
-      margin-bottom: 0.25rem;
-    }  
 
   </style>
   </head>
