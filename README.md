@@ -1,10 +1,10 @@
-Hello! I am a PhD student in economics at the [London School of Economics (LSE)](https://www.lse.ac.uk/economics). 
+Hello! I am a PhD student in economics at the [London School of Economics (LSE)](https://www.lse.ac.uk/economics). <br />
 
-<span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. 
+<span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. <br />
 
-My research interests are in <span style="color:#B23A48; font-weight:bold;">development, environmental</span> and <span style="color:#B23A48; font-weight:bold;">labor economics</span>. Most of my work is focused on understanding how gender and climate shocks shape labor market outcomes in low-income countries. 
+My research interests are in <span style="color:#B23A48; font-weight:bold;">development, environmental</span> and <span style="color:#B23A48; font-weight:bold;">labor economics</span>. Most of my work is focused on understanding how gender and climate shocks shape labor market outcomes in low-income countries. <br />
 
-I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant.
+I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant.<br />
 
 <hr class="section-divider">
 
@@ -118,11 +118,11 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 
 ## Policy writing 
 
-**[Using Biometrics to Deliver Cash Payments to Women: Early Results from an Impact Evaluation in Pakistan](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)**. World Bank 2022.
+**[Using Biometrics to Deliver Cash Payments to Women: Early Results from an Impact Evaluation in Pakistan](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)**. World Bank 2022.<br />
 
-**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf)**. World Bank 2025.
+**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf)**. World Bank 2025.<br />
 
-**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan)**. IGC 2025.
+**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan)**. IGC 2025.<br />
 
 <hr class="section-divider">
 
