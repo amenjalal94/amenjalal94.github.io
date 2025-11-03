@@ -2,7 +2,7 @@ Hello! I am a PhD student in economics at the [London School of Economics (LSE)]
 
 <span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. 
 
-My research interests are in **development, environmental and labor** economics. Most of my work is focused on understanding how gender and climate shocks shape labor market outcomes in low-income countries. 
+My research interests are in <span style="color:#757575; font-weight:bold;">development, environmental and labor</span> economics. Most of my work is focused on understanding how gender and climate shocks shape labor market outcomes in low-income countries. 
 
 I have a Bachelors in economics from [Yale University](https://economics.yale.edu). Before starting the PhD, I worked at the [World Bank](https://www.worldbank.org/en/home) as a research assistant.
 
