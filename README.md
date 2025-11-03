@@ -8,12 +8,17 @@ I have a Bachelors in economics from [Yale University](https://economics.yale.ed
 
 <hr class="section-divider">
 
-## Job market paper
+## Working papers 
 <a id="working-papers"></a>
+
 **[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)**
+<span style="color:#333333; font-weight:bold;">[ </span>
+<span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
+<span style="color:#333333; font-weight:bold;"> ]</span>
 
-Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
+Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). 
 
+Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
 
 <details>
 
@@ -23,10 +28,48 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 </details>
 <br />
+
+
+**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with Oriana Bandiera and Nina Roussille)
+
+Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
+
+<details>
+
+  <summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
+ 
+In countries with low female employment, college-educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 college-graduating students, we document that men and women start their search with similar work aspirations, apply at similar rates, and receive comparable numbers of job offers. Yet a 27 pp employment gap emerges within six months post-graduation. This gap stems largely from timing: for women alone, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. To test whether this relationship is causal, we randomize a modest incentive to apply early. By shifting search into the early window, the intervention raises women's employment by ~20% but leaves men's employment unaffected, closing a third of the gender gap. Our evidence suggests that applying early enables women to start working before demands from the marriage market arise. Treatment effects are driven by women who underestimate how quickly these demands materialize, revealing an "illusion of time." This illusion can be persistent since women in our sample recognize the barriers to employment faced by their female peers, but overestimate their own ability to overcome them.
+</details>
+<br />
+
+
+**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with Muhammad Haseeb, Kate Vyborny and Alex Quispe)
+
+Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
+<details>
+
+  <summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
+	
+Corruption remains a major obstacle to the delivery of public services in developing countries. We study whether competition between service delivery agents can mitigate corruption, leveraging exogenous changes to the market structure of agents responsible for delivering government cash transfers in Pakistan. A reform that increased the market power of these agents led to a 29.1 pp increase in the probability that a beneficiary had to pay an involuntary bribe to access the cash transfer. However, in areas with 1 standard deviation higher competition, this increase in bribe payments is almost completely eliminated. We rule out that mechanisms other than competition drive these results, such as strategic entry, changes in market access, and differences in monitoring efforts or cash recipient characteristics.
+</details>	
+<br />
+
+
+
+**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with Nasir Iqbal, Mahreen Mahmud and Kate Vyborny)
+
+Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org).
+<details>
+
+  <summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
+	
+Female-targeted cash transfers are widely used as a policy tool to enhance women's empowerment.  However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation.  We study how women are affected by program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow a panel of 2,333 women exiting Pakistan's largest cash transfer program.  One year after exit, drawing on a comprehensive battery of empowerment,  intimate partner violence, and well-being measures, we find no evidence of backlash. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit. 
+</details>	
+<br />
+
+
+
 <hr class="section-divider">
-
-
-
  
 
 
@@ -69,49 +112,6 @@ Designing pilot. Supported by the [Hub for Equal Representation](https://www.hub
 Disaster recovery often focuses on rebuilding physical infrastructure, overlooking the mental health impact of traumatic events like floods. In Pakistan, where flooding in 2022 submerged a third of the country and lasted up to 8 months, women exposed to a more intense flood shock were 11 pp more likely to have severe psychological distress 2 years later. Ignoring mental health in reconstruction may prolong the socio-economic impact of disasters by limiting individuals' ability to work, plan, and recover. This project explores complementarities between mental health support and the standard infrastructure-focused approach by randomizing a trauma-based mental health intervention and leveraging natural variation in access to a housing reconstruction program in a 2x2 design. Our findings aim to measure the non-economic losses and damages of climate catastrophes, and inform more holistic disaster recovery policies that address both physical and psychological needs.
 </details>	
 <br />
-
-
-<hr class="section-divider">
-
-## Working papers 
-<a id="working-papers"></a>
-**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with Oriana Bandiera and Nina Roussille)
-
-Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
-
-<details>
-
-  <summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
- 
-In countries with low female employment, college-educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 college-graduating students, we document that men and women start their search with similar work aspirations, apply at similar rates, and receive comparable numbers of job offers. Yet a 27 pp employment gap emerges within six months post-graduation. This gap stems largely from timing: for women alone, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. To test whether this relationship is causal, we randomize a modest incentive to apply early. By shifting search into the early window, the intervention raises women's employment by ~20% but leaves men's employment unaffected, closing a third of the gender gap. Our evidence suggests that applying early enables women to start working before demands from the marriage market arise. Treatment effects are driven by women who underestimate how quickly these demands materialize, revealing an "illusion of time." This illusion can be persistent since women in our sample recognize the barriers to employment faced by their female peers, but overestimate their own ability to overcome them.
-</details>
-<br />
-
-
-**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with Muhammad Haseeb, Kate Vyborny and Alex Quispe)
-
-Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
-<details>
-
-  <summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
-	
-Corruption remains a major obstacle to the delivery of public services in developing countries. We study whether competition between service delivery agents can mitigate corruption, leveraging exogenous changes to the market structure of agents responsible for delivering government cash transfers in Pakistan. A reform that increased the market power of these agents led to a 29.1 pp increase in the probability that a beneficiary had to pay an involuntary bribe to access the cash transfer. However, in areas with 1 standard deviation higher competition, this increase in bribe payments is almost completely eliminated. We rule out that mechanisms other than competition drive these results, such as strategic entry, changes in market access, and differences in monitoring efforts or cash recipient characteristics.
-</details>	
-<br />
-
-
-
-**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with Nasir Iqbal, Mahreen Mahmud and Kate Vyborny)
-
-Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org).
-<details>
-
-  <summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
-	
-Female-targeted cash transfers are widely used as a policy tool to enhance women's empowerment.  However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation.  We study how women are affected by program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow a panel of 2,333 women exiting Pakistan's largest cash transfer program.  One year after exit, drawing on a comprehensive battery of empowerment,  intimate partner violence, and well-being measures, we find no evidence of backlash. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit. 
-</details>	
-<br />
-
 
 
 <hr class="section-divider">
