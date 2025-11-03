@@ -145,18 +145,17 @@
       letter-spacing: 0.4px;
     }
 
-    /* === widen main text column next to sidebar === */
-    @media (min-width: 980px) {
-      header { 
-        width: 260px !important;          /* sidebar width */
-      }
-      section {
-        margin-left: 340px !important;    /* increase gutter between sidebar & text */
-        max-width: none !important;       /* remove theme-imposed limit */
-        width: calc(100% - 360px) !important; /* use more screen space */
-      }
+  /* === reduce line spacing in main text === */
+    section {
+      line-height: 1.35;    /* default is around 1.6 — try 1.3–1.4 for tighter text */
     }
-
+    
+    /* make headings a bit tighter too */
+    section h2, section h3, section h4 {
+      margin-top: 1.1em;
+      margin-bottom: 0.4em;
+      line-height: 1.2;
+    }
     </style>
   </head>
   <body>
