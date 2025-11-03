@@ -120,7 +120,7 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 **[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf)**. World Bank 2025.<br /><br />
 
 
-**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan)**. IGC 2025.<br />
+**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan)**. IGC 2025.<br /><br />
 
 <hr class="section-divider">
 
