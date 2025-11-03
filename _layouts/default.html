@@ -151,7 +151,30 @@
       margin-bottom: 0.25rem;
       line-height: 1.4;      /* optional: keeps text readable but denser */
     }
-
+    
+    /* === Wider main text column + fixed sidebar gap === */
+    @media (min-width: 980px) {
+      /* Sidebar stays fixed width */
+      header {
+        width: 260px !important;
+        flex-shrink: 0;
+      }
+    
+      /* Main content uses remaining screen width */
+      section {
+        max-width: none !important;           /* remove theme width cap */
+        margin-left: 320px !important;        /* fixed gap between sidebar & text */
+        width: calc(100% - 340px) !important; /* use remaining space */
+        line-height: 1.45;                    /* readable text spacing */
+      }
+    
+      /* Allow wrapper to grow wider like Canishk’s */
+      .wrapper {
+        max-width: 1300px !important;         /* increase total layout width */
+        width: 95%;
+        margin: 0 auto;
+      }
+    }
 
 
   </style>
