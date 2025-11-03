@@ -2,7 +2,7 @@ Hello! I am a PhD student in economics at the [London School of Economics](https
 
 <span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. <br /><br />
 
-My research interests are in <span style="color:#B23A48; font-weight:bold;">development, environmental</span> and <span style="color:#B23A48; font-weight:bold;">labor economics</span>. Most of my work studies how gender and climate shocks shape labor market outcomes in low-income countries. <br /><br />
+My research interests are in <span style="color:#B23A48; font-weight:bold;">development, environmental</span> and <span style="color:#B23A48; font-weight:bold;">labor economics</span>. Most of my work studies how gender and climate shocks shape labor markets in low-income countries. <br /><br />
 
 <hr class="section-divider">
 
@@ -26,7 +26,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 <br />
 
 
-**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with Oriana Bandiera and Nina Roussille)
+**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with O. Bandiera and N. Roussille)
 
 Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
 
@@ -39,7 +39,7 @@ In countries with low female employment, college-educated women often transition
 <br />
 
 
-**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with Muhammad Haseeb, Kate Vyborny and Alex Quispe)
+**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny and A. Quispe)
 
 Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
 <details>
@@ -52,7 +52,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 
 
-**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with Nasir Iqbal, Mahreen Mahmud and Kate Vyborny)
+**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud and K. Vyborny)
 
 Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org).
 <details>
@@ -72,7 +72,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-**Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters** (with Pol Simpson)
+**Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters** (with P. Simpson)
 
 Policy brief [here](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
 
@@ -85,7 +85,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 </details>
 <br />
 
-**Heat Insurance at Work** (with Ashley Pople, Pol Simpson, Eddy Zou and Oriana Bandiera)
+**Heat Insurance at Work** (with A. Pople, P. Simpson, E. Zou and O. Bandiera)
   
 Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
 <details>
@@ -97,7 +97,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 
-**Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery** (with Canishk Naik and Pol Simpson)
+**Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery** (with C. Naik and P. Simpson)
 
 Designing pilot. Supported by the [Hub for Equal Representation](https://www.hubequalrep.org) (LSE).
 
