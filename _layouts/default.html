@@ -147,11 +147,13 @@
 
     /* === widen main text column next to sidebar === */
     @media (min-width: 980px) {
-      header { width: 260px !important; }                /* set sidebar width */
+      header { 
+        width: 260px !important;          /* sidebar width */
+      }
       section {
-        margin-left: 300px !important;                   /* space for sidebar + small gutter */
-        max-width: none !important;                      /* remove narrow limit */
-        width: calc(100% - 320px) !important;            /* use remaining width */
+        margin-left: 340px !important;    /* increase gutter between sidebar & text */
+        max-width: none !important;       /* remove theme-imposed limit */
+        width: calc(100% - 360px) !important; /* use more screen space */
       }
     }
 
