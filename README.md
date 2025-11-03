@@ -11,7 +11,7 @@ My research interests are in development, environmental and labor economics. Mos
 ## Working papers 
 <a id="working-papers"></a>
 
-### [Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)
+**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)**
 
 <span style="color:#333333; font-weight:bold;">[</span>
 <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
@@ -33,7 +33,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 <br />
 
 
-### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
+**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)**
 <span style="color:#333333;">(with</span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a> 
 <span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>
 
@@ -49,7 +49,7 @@ In countries with low female employment, college-educated women often transition
 <br />
 
 
-### [Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)
+**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)**
 <span style="color:#333333;">(with</span> <a href="https://sites.google.com/view/mhaseeb">Muhammad Haseeb</a>, 
 <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a> 
 <span style="color:#333333;">and Alex Quispe)</span>
@@ -67,7 +67,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 
 
-### [What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)
+**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)**
 <span style="color:#333333;">(with Nasir Iqbal,</span> <a href="https://sites.google.com/site/mahreenmahmudsite/home">Mahreen Mahmud</a> 
 <span style="color:#333333;">and </span> <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a>)
 
@@ -90,7 +90,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 ## Works in progress 
 <a id="works-in-progress"></a>
 
-### Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters
+**Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters**
 <span style="color:#333333;">(with</span> <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">)</span>
 
 Two annual follow-up surveys completed. A policy brief of our findings is available [here](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
@@ -105,7 +105,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 <br />
 
-### Heat Insurance at Work
+**Heat Insurance at Work**
 <span style="color:#333333;">(with</span> <a href="https://www.ashleypople.com">Ashley Pople</a><span style="color:#333333;">, </span> 
 <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">, </span> <a href="https://sites.google.com/view/eddyzou/home">Eddy Zou</a><span style="color:#333333;"></span> <span style="color:#333333;">and </span> 
 <span style="color:#333333;"></span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a>)
@@ -120,7 +120,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 </details>	
 <br />
 
-### Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery
+**Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery**
 <span style="color:#333333;">(with</span> <a href="https://canishknaik.github.io">Canishk Naik</a> 
 <span style="color:#333333;">and</span> <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">)</span>
 
