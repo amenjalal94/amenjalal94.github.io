@@ -14,44 +14,36 @@ I have a Bachelors in economics from [Yale University](https://economics.yale.ed
 #### [Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)
 <span style="color:#333333; font-weight:bold;">[</span>
 <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
-<span style="color:#333333; font-weight:bold;">]</span>
+<span style="color:#333333; font-weight:bold;">]</span> 
 
-
-Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
-
-<details>
-
-<summary>Click for abstract</summary>
+<details> 
+	<summary>Click for abstract</summary>
 
 Up to half of the gender pay gap stems from women's sorting into low-wage firms. Do women prefer amenities to wages, or face barriers to search? I tackle this question using data on 29 million job applications from Pakistan's largest job search platform, combined with firm and worker surveys and a field experiment mandating pay transparency. I document that large, high-paying firms are more likely to omit salaries in job ads and less likely to offer flexibility – an amenity women value slightly more than men. When pay is disclosed, men and women respond similarly to wages. But when undisclosed, behaviors diverge: men search randomly, while women sort negatively on pay. A theoretical framework shows that pay non-disclosure amplifies small gender differences in amenity preferences into large gender gaps in applications. To test whether transparency closes these gaps, I randomize mandatory versus optional pay disclosure in 20,088 jobs across 8,906 firms on the platform. The experiment leaves large-firm pay and amenities unchanged. Yet women's applications to these firms increase 95%, and men's 59%, reversing the gender gap in directed search.  This implies women do not knowingly "buy" flexibility with pay; rather, they turn to flexibility when its price is unknown. Meanwhile, large firms most exposed to mandated transparency become 30% more likely to disclose pay post-experiment, suggesting they overestimated the costs of transparency.
 
 </details>
 
-<br />
+Outstanding Paper Award at the [Discrimination and Diversity Workshop](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
+
 
 
 #### [The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)
 <span style="color:#333333;">(with</span> <a href="https://www.orianabandiera.net">Oriana Bandiera</a> 
-<span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span>
+<span style="color:#333333;">and</span> <a href="http://ninaroussille.github.io/">Nina Roussille</a><span style="color:#333333;">)</span> 
 
-Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
-
-<details>
-
-  <summary>Click for abstract</summary>  
+<details> 
+	
+	<summary>Click for abstract</summary>  
  
 In countries with low female employment, college-educated women often transition directly from education to homemaking. Does this reflect informed, forward-looking choices or unanticipated constraints? We study this question in Pakistan, where two-thirds of college-educated women remain out of the labor force. Tracking 2,400 college-graduating students, we document that men and women start their search with similar work aspirations, apply at similar rates, and receive comparable numbers of job offers. Yet a 27 pp employment gap emerges within six months post-graduation. This gap stems largely from timing: for women alone, there is a critical window, immediately post-graduation, during which job search is associated with much higher chances of employment. To test whether this relationship is causal, we randomize a modest incentive to apply early. By shifting search into the early window, the intervention raises women's employment by ~20% but leaves men's employment unaffected, closing a third of the gender gap. Our evidence suggests that applying early enables women to start working before demands from the marriage market arise. Treatment effects are driven by women who underestimate how quickly these demands materialize, revealing an “illusion of time.” This illusion can be persistent since women in our sample recognize the barriers to employment faced by their female peers, but overestimate their own ability to overcome them.
 </details>
 
-<br />
-
+Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
 
 #### [Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)
 <span style="color:#333333;">(with</span> <a href="https://sites.google.com/view/mhaseeb">Muhammad Haseeb</a>, 
 <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a> 
 <span style="color:#333333;">and Alex Quispe)</span>
-
-Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
 
 <details>
 
@@ -59,8 +51,8 @@ Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates 
 	
 Corruption remains a major obstacle to the delivery of public services in developing countries. We study whether competition between service delivery agents can mitigate corruption, leveraging exogenous changes to the market structure of agents responsible for delivering government cash transfers in Pakistan. A reform that increased the market power of these agents led to a 29.1 pp increase in the probability that a beneficiary had to pay an involuntary bribe to access the cash transfer. However, in areas with 1 standard deviation higher competition, this increase in bribe payments is almost completely eliminated. We rule out that mechanisms other than competition drive these results, such as strategic entry, changes in market access, and differences in monitoring efforts or cash recipient characteristics.
 </details>	
-<br />
 
+Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
 
 
 
@@ -68,15 +60,13 @@ Corruption remains a major obstacle to the delivery of public services in develo
 <span style="color:#333333;">(with Nasir Iqbal,</span> <a href="https://sites.google.com/site/mahreenmahmudsite/home">Mahreen Mahmud</a> 
 <span style="color:#333333;">and </span> <a href="https://sites.google.com/site/kvyborny/home">Kate Vyborny</a>)
 
-Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org).
-
 <details>
 
   <summary>Click for abstract</summary>	
 	
 Female-targeted cash transfers are widely used as a policy tool to enhance women's empowerment.  However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation.  We study how women are affected by program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow a panel of 2,333 women exiting Pakistan’s largest cash transfer program.  One year after exit, drawing on a comprehensive battery of empowerment,  intimate partner violence, and well-being measures, we find no evidence of backlash. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit. 
 </details>	
-<br />
+Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org).
 
 
 
@@ -90,17 +80,15 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 **Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters**
 <span style="color:#333333;">(with</span> <a href="https://polsimpson.github.io">Pol Simpson</a><span style="color:#333333;">)</span>
 
-Two annual follow-up surveys completed. A policy brief of our findings is available [here](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
-
 <details>
 
-<summary>Click for abstract</summary>
+  <summary>Click for abstract</summary>
 
 Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women’s. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
 
 </details>
 
-<br />
+Two annual follow-up surveys completed. A policy brief of our findings is available [here](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
 
 **Heat Insurance at Work**
 <span style="color:#333333;">(with</span> <a href="https://www.ashleypople.com">Ashley Pople</a><span style="color:#333333;">, </span> 
@@ -115,7 +103,6 @@ Implementation on-going. AEA RCT registration [here](https://www.socialsciencere
 
 Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor work or limited access to adaptive resources. In 2024, 37 cities in India surpassed 45°C (113°F), and around 40,000 heat stroke cases were reported. How can social protection systems evolve to address the growing losses caused by extreme heat? We evaluate an innovative intervention in India that offers automatic daily wage payments to low-income workers when temperatures exceed a predetermined threshold. Developed by the Self Employed Women’s Association (SEWA) – a union representing over 3 million informal workers – the scheme is the world’s first parametric heat insurance product targeting earnings loss. We use a randomized encouragement design, incentivizing SEWA officers to promote enrollment in 2,821 treatment villages, while 2,821 control villages receive no targeted outreach. Panel survey data – combined with high-frequency measurement during the hot season – will allow us to estimate impacts on labor supply, financial decisions, health, consumption, and adaptive behavior. We also assess willingness to pay relative to actuarially fair pricing, providing evidence on the potential for commercial insurance-based heat protection.
 </details>	
-<br />
 
 **Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery**
 <span style="color:#333333;">(with</span> <a href="https://canishknaik.github.io">Canishk Naik</a> 
@@ -129,7 +116,6 @@ Designing pilot. Supported by the [Hub for Equal Representation](https://www.hub
 	
 Disaster recovery often focuses on rebuilding physical infrastructure, overlooking the mental health impact of traumatic events like floods. In Pakistan, where flooding in 2022 submerged a third of the country and lasted up to 8 months, women exposed to a more intense flood shock were 11 pp more likely to have severe psychological distress 2 years later. Ignoring mental health in reconstruction may prolong the socio-economic impact of disasters by limiting individuals’ ability to work, plan, and recover. This project explores complementarities between mental health support and the standard infrastructure-focused approach by randomizing a trauma-based mental health intervention and leveraging natural variation in access to a housing reconstruction program in a 2x2 design. Our findings aim to measure the non-economic losses and damages of climate catastrophes, and inform more holistic disaster recovery policies that address both physical and psychological needs.
 </details>	
-<br />
 
 <hr class="section-divider">
 
