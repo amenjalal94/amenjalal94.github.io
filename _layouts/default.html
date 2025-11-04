@@ -99,8 +99,11 @@
       margin-right: 12px;                /* creates space as it grows */
       text-decoration: none;                     /* keep it clean; optional */
     }
-
-    
+    /* add this */
+    @media (max-width: 640px){
+      section strong a,
+      section b a { display:inline; }  /* allow inline flow on small screens */
+    }    
     /* socials row: tighter, smaller text */
     .meta-row.socials {
       flex-wrap:nowrap; column-gap:0.5rem;
