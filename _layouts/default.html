@@ -188,8 +188,18 @@
         margin: 0 auto;
       }
     }
-
-
+    /* reduce top padding / margin before main text starts */
+    section {
+      padding-top: 0 !important;
+      margin-top: 0 !important;
+    }
+    
+    /*  add a small controlled gap so text isn’t glued to top */
+    @media (min-width: 980px) {
+      section {
+        padding-top: 0.5rem;  /* try 0.25–0.75rem to taste */
+      }
+    }
   </style>
   </head>
   <body>
