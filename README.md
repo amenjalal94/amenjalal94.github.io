@@ -26,7 +26,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 <br />
 
 
-**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with O. Bandiera and N. Roussille)
+**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with O. Bandiera, N. Roussille)
 
 Supported by [Gates Foundation](https://www.gatesfoundation.org), and [STICERD](https://sticerd.lse.ac.uk/) and [RISF](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund) at LSE.
 
@@ -39,7 +39,7 @@ In countries with low female employment, college-educated women often transition
 <br />
 
 
-**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny and A. Quispe)
+**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
 
 Supported by [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
 <details>
@@ -52,7 +52,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 
 
-**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud and K. Vyborny)
+**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud, K. Vyborny)
 
 Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org).
 <details>
@@ -85,7 +85,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 </details>
 <br />
 
-**Heat Insurance at Work** (with A. Pople, P. Simpson, E. Zou and O. Bandiera)
+**Heat Insurance at Work** (with A. Pople, P. Simpson, E. Zou, O. Bandiera)
   
 Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
 <details>
