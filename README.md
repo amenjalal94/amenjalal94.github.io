@@ -2,7 +2,7 @@ I'm a PhD student in economics at the [London School of Economics](https://www.l
 
 <span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. <br /><br />
 
-My research interests are in <span style="color:#757575;font-weight:bold;">development, environmental</span> and <span style="color:#757575;font-weight:bold;">labor economics</span>. Most of my work studies how gender and climate shocks shape labor markets in low-income countries. <br /><br />
+My research interests are in <span style="color:#757575;font-weight:bold;">development, environmental</span> and <span style="color:#757575;font-weight:bold;">labor economics</span>. Most of my work studies how gender and climate shocks shape labor market outcomes in low-income countries. <br /><br />
 
 <hr class="section-divider">
 
@@ -97,7 +97,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 
-**Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery** (with C. Naik and P. Simpson)
+**Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery** (with C. Naik, P. Simpson)
 
 Designing pilot. Supported by the [HER](https://www.hubequalrep.org) at LSE.
 
