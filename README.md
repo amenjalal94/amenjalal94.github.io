@@ -9,10 +9,7 @@ My research interests are in <span style="color:#757575;font-weight:bold;">devel
 ## Working papers 
 <a id="working-papers"></a>
 
-**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)**
-<span style="color:#333333; font-weight:bold;">[ </span>
-<span style="color:#B23A48; font-weight:bold;">Job Market Paper</span>
-<span style="color:#333333; font-weight:bold;"> ]</span>
+**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="color:#333333; font-weight:bold;">[ </span> <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span> <span style="color:#333333; font-weight:bold;"> ]</span>
 
 [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
 
