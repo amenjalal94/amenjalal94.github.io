@@ -85,7 +85,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 </details>
 <br />
 
-**Heat Insurance at Work** (with A. Pople, P. Simpson, E. Zou, O. Bandiera) [ [ SLIDES ](https://amenjalal.com/docs/JPSZB_2025.pdf) ]
+**Heat Insurance at Work** (with A. Pople, P. Simpson, E. Zou, O. Bandiera) <span style="color:#333333; font-weight:bold;">[ </span> [ SLIDES ](https://amenjalal.com/docs/JPSZB_2025.pdf) <span style="color:#333333; font-weight:bold;">] </span>
   
 Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
 <details>
