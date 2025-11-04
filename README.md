@@ -87,7 +87,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 **Heat Insurance at Work** (with A. Pople, P. Simpson, E. Zou and O. Bandiera)
   
-Implementation on-going. AEA RCT registration [here](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
+Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
 <details>
 
   <summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
