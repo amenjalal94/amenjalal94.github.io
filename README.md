@@ -99,7 +99,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 **Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery** (with C. Naik and P. Simpson)
 
-Designing pilot. Supported by the [Hub for Equal Representation](https://www.hubequalrep.org) (LSE).
+Designing pilot. Supported by the [HER](https://www.hubequalrep.org) (LSE).
 
 <details>
 
@@ -114,7 +114,7 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 
 ## Policy writing 
 
-**[Using Biometrics to Deliver Cash Payments to Women: Early Results from an Impact Evaluation in Pakistan](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)**. World Bank 2022.<br /><br />
+**[Using Biometrics to Deliver Cash Payments to Women](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)**. World Bank 2022.<br /><br />
 
 
 **[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf)**. World Bank 2025.<br /><br />
