@@ -41,7 +41,7 @@ In countries with low female employment, college-educated women often transition
 
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny and A. Quispe)
 
-Supported by the World Bank's [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
+Supported by [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
 <details>
 
   <summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
@@ -74,7 +74,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 
 **Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters** (with P. Simpson)
 
-Policy brief [here](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
+[Policy brief](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
 
 <details>
 
