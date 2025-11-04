@@ -99,7 +99,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 **Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery** (with C. Naik, P. Simpson)
 
-Designing pilot. Supported by the [HER](https://www.hubequalrep.org) at LSE.
+Designing pilot. Supported by [HER](https://www.hubequalrep.org) at LSE.
 
 <details>
 
