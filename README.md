@@ -114,13 +114,13 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 
 ## Policy writing 
 
-**[Using Biometrics to Deliver Cash Payments to Women](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf)**. World Bank 2022.<br /><br />
+**[Using Biometrics to Deliver Cash Payments to Women](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf).** World Bank 2022.<br /><br />
 
 
-**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf)**. World Bank 2025.<br /><br />
+**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf).** World Bank 2025.<br /><br />
 
 
-**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan)**. IGC 2025.<br /><br />
+**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan).** IGC 2025.<br /><br />
 
 <hr class="section-divider">
 
