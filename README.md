@@ -28,7 +28,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with O. Bandiera and N. Roussille)
 
-Supported by [Gates Foundation](https://www.gatesfoundation.org), [STICERD (LSE)](https://sticerd.lse.ac.uk/), and [RISF (LSE)](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund).
+Supported by [Gates Foundation](https://www.gatesfoundation.org), and [STICERD](https://sticerd.lse.ac.uk/) and [RISF](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund) at LSE.
 
 <details>
 
@@ -99,7 +99,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 **Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery** (with C. Naik and P. Simpson)
 
-Designing pilot. Supported by the [HER](https://www.hubequalrep.org) (LSE).
+Designing pilot. Supported by the [HER](https://www.hubequalrep.org) at LSE.
 
 <details>
 
