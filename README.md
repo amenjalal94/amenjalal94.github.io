@@ -1,4 +1,4 @@
-Hello! I am a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). I have a Bachelors in economics from [Yale University](https://economics.yale.edu). <br /><br />
+I'm a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). I have a Bachelors in economics from [Yale University](https://economics.yale.edu). <br /><br />
 
 <span style="color:#757575; font-weight:bold;">I am on the 2025-26 job market</span>. <br /><br />
 
