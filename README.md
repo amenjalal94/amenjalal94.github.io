@@ -6,7 +6,7 @@ My research interests are in <span style="color:#757575;font-weight:bold;">devel
 
 <hr class="section-divider">
 
-## Working papers 
+### Working papers 
 <a id="working-papers"></a>
 
 **[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="color:#333333; font-weight:bold;">[ </span> <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span> <span style="color:#333333; font-weight:bold;"> ]</span>
@@ -66,7 +66,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
  
 
 
-## Works in progress 
+### Works in progress 
 <a id="works-in-progress"></a>
 
 **Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters** (with P. Simpson)
@@ -121,7 +121,7 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 
 <hr class="section-divider">
 
-## Teaching 
+### Teaching 
 <a id="teaching"></a>
 - **[Microeconomics for Public Policy](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/PP/2024_PP440.htm)** for Masters of Public Policy students (2024-25)
 - **[Empirical Methods for Public Policy](https://www.lse.ac.uk/resources/calendar.bak/courseGuides/EC/2015_EC455E.htm)** for Executive Masters of Public Administration and Public Policy students (2022-24)
