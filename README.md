@@ -4,7 +4,7 @@ I'm a PhD student in economics at the [London School of Economics](https://www.l
 
 <hr class="section-divider">
 
-## Working papers 
+### Working papers 
 <a id="working-papers"></a>
 
 **[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="color:#333333; font-weight:bold;">[ </span> <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span> <span style="color:#333333; font-weight:bold;"> ]</span>
@@ -73,11 +73,11 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 
 
 
-<!-- <hr class="section-divider"> -->
+<hr class="section-divider">
  
 
 
-## Works in progress 
+### Works in progress 
 <a id="works-in-progress"></a>
 
 <span style="color:#494949; font-weight:600;">Heat Insurance at Work</span> (with A. Pople, P. Simpson, E. Zou, O. Bandiera) <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
@@ -105,9 +105,9 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 <br />
 
 
-<!-- <hr class="section-divider"> -->
+<hr class="section-divider">
 
-## Policy writing 
+### Policy writing 
 
 **[Using Biometrics to Deliver Cash Payments to Women](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf).** World Bank 2022.<br /><br />
 
@@ -117,9 +117,9 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 
 **[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan).** IGC 2025.<br /><br />
 
-<!-- <hr class="section-divider"> -->
+<hr class="section-divider">
 
-## Teaching 
+### Teaching 
 <a id="teaching"></a>
 - **[Microeconomics for Public Policy](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/PP/2024_PP440.htm)** for Masters of Public Policy students (2024-25)
 - **[Empirical Methods for Public Policy](https://www.lse.ac.uk/resources/calendar.bak/courseGuides/EC/2015_EC455E.htm)** for Executive Masters of Public Administration and Public Policy students (2022-24)
