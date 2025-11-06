@@ -22,7 +22,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 **[Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters](http://amenjalal.com/docs/JS_2025.pdf)** (with P. Simpson)
 
-[Policy brief](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
+Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
 
 <details>
 
