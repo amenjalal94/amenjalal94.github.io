@@ -20,6 +20,19 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 </details>
 <br />
 
+**[Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters](http://amenjalal.com/docs/JS_2025.pdf)** (with P. Simpson)
+
+[Policy brief](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
+
+<details>
+
+<summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
+
+Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women's. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
+
+</details>
+<br />
+
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with O. Bandiera, N. Roussille)
 
@@ -66,19 +79,6 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 
 ### Works in progress 
 <a id="works-in-progress"></a>
-
-**Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters** (with P. Simpson)
-
-[Policy brief](https://www.theigc.org/sites/default/files/2024-09/Jalal%20et%20al.%20Policy%20Brief%20September%202024.pdf). Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
-
-<details>
-
-<summary><span style="color:#757575; font-weight:bold;">Abstract</span></summary>
-
-Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women's. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
-
-</details>
-<br />
 
 **Heat Insurance at Work** (with A. Pople, P. Simpson, E. Zou, O. Bandiera) <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
   
