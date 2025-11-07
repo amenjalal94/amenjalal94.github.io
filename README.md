@@ -9,7 +9,7 @@ I'm a PhD student in economics at the [London School of Economics](https://www.l
 
 **[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="color:#333333; font-weight:bold;">[ </span> <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span> <span style="color:#333333; font-weight:bold;"> ]</span>
 
-[Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). World Bank [Development Impact blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu).  Supported by [G<sup>2</sup>LM\|LIC (IZA)](https://g2lm-lic.iza.org). 
+[Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). World Bank [Development Impact blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu).  Supported by G<sup>2</sup>LM\|LIC (IZA). 
 
 <details>
 
@@ -22,7 +22,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 **[Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters](http://amenjalal.com/docs/JS_2025.pdf)** (with P. Simpson)
 
-Supported by the [IGC](https://www.theigc.org), [STEG](https://steg.cepr.org) and [Harvard University](https://www.hks.harvard.edu/centers/cid). 
+Supported by the IGC, STEG and Harvard University.
 
 <details>
 
@@ -36,7 +36,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with O. Bandiera, N. Roussille)
 
-Supported by [Gates Foundation](https://www.gatesfoundation.org), and [STICERD](https://sticerd.lse.ac.uk/) and [RISF](https://info.lse.ac.uk/staff/divisions/research-and-innovation/research/apply-for-funding/lse-research-support-fund) at LSE.
+Supported by Gates Foundation, and STICERD and RISF at LSE.
 
 <details>
 
@@ -49,7 +49,7 @@ In countries with low female employment, college-educated women often transition
 
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
 
-Supported by [ID4D](https://id4d.worldbank.org) and the [Gates Foundation](https://www.gatesfoundation.org).
+Supported by ID4D and the Gates Foundation.
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -62,7 +62,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud, K. Vyborny)
 
-Supported by [IFPRI](https://www.ifpri.org) and [IPA](https://poverty-action.org).
+Supported by IFPRI and IPA.
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -82,7 +82,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 
 <span style="color:#494949; font-weight:600;">Heat Insurance at Work</span> (with A. Pople, P. Simpson, E. Zou, O. Bandiera) <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
   
-Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). Supported by [JPAL K-CAI](https://www.povertyactionlab.org/initiative/king-climate-action-initiative).
+Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). Supported by JPAL K-CAI.
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -94,7 +94,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 <span style="color:#494949; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> (with C. Naik, P. Simpson)
 
-Designing pilot. Supported by [HER](https://www.hubequalrep.org) at LSE.
+Designing pilot. Supported by HER at LSE.
 
 <details>
 
