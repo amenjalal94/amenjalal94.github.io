@@ -22,7 +22,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 **[Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters](http://amenjalal.com/docs/JS_2025.pdf)** (with P. Simpson)
 
-Funding: IGC, STEG and Harvard University.
+Funding: IGC, STEG, LSE and Harvard University.
 
 <details>
 
@@ -36,7 +36,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_July2025.pdf)** (with O. Bandiera, N. Roussille)
 
-Funding: Gates Foundation, and STICERD and RISF at LSE.
+Funding: Gates Foundation and LSE.
 
 <details>
 
@@ -94,7 +94,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 <span style="color:#494949; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> (with C. Naik, P. Simpson)
 
-Designing pilot. Funding: HER at LSE.
+Designing pilot. Funding: LSE.
 
 <details>
 
