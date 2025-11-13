@@ -49,7 +49,7 @@ In countries with low female employment, college-educated women often transition
 
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
 
-Funding: ID4D and the Gates Foundation.
+Funding: World Bank and the Gates Foundation.
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
