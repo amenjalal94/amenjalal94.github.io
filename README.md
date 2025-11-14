@@ -7,7 +7,7 @@ I'm a PhD student in economics at the [London School of Economics](https://www.l
 ### Working papers 
 <a id="working-papers"></a>
 
-**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="color:#333333; font-weight:bold;">[ </span> <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span> <span style="color:#333333; font-weight:bold;"> ]</span>
+**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="color:#333333; font-weight:bold;">[ </span> <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span> <span style="color:#333333; font-weight:bold;"> ]</span><br/>
 
 Selected for the [EALE](https://eale.nl/home) 2026 job market tour. Winner of [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) by EEA and Discrimination & Diversity Workshop. Featured in the World Bank Development Impact [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). Funding: G<sup>2</sup>LM\|LIC (IZA). 
 
