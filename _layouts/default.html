@@ -207,6 +207,25 @@
       margin-top: -0.3rem;      /* safely “pull up” the next title */
     }
 
+    /* Hide the native disclosure triangle (Safari/Chrome/Edge) */
+    section details summary::-webkit-details-marker { display: none; }
+    /* Hide Firefox's marker */
+    section details summary { list-style: none; }
+    
+    /* Custom arrow (size fully controllable here) */
+    section details summary::before {
+      content: "▸";                 /* or "▶" */
+      display: inline-block;
+      margin-right: 0.4rem;
+      font-size: 0.9em;             /* tweak to taste (0.85–1em) */
+      transform: translateY(1px);   /* tiny baseline nudge */
+      transition: transform 120ms ease;
+    }
+    
+    /* Rotate arrow when open */
+    section details[open] summary::before {
+      transform: rotate(90deg) translateY(0);
+    }
   </style>
   </head>
   <body>
