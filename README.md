@@ -15,7 +15,7 @@ I'm a PhD student in economics at the [London School of Economics](https://www.l
 
 Selected for the [EALE](https://eale.nl/home) 2026 job market tour. Winner of [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) by EEA and Discrimination & Diversity Workshop. Featured in the World Bank Development Impact [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). Funding: G<sup>2</sup>LM\|LIC (IZA). 
 
-<div style="height:0.3rem;"></div>
+<div style="height:0.27rem;"></div>
 <details>
 
 <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -29,6 +29,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 Funding: IGC, STEG, LSE and Harvard University.
 
+<div style="height:0.27rem;"></div>
 <details>
 
 <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -43,6 +44,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 Funding: Gates Foundation and LSE.
 
+<div style="height:0.27rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -55,6 +57,8 @@ In countries with low female employment, college-educated women often transition
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
 
 Funding: World Bank and the Gates Foundation.
+
+<div style="height:0.27rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -68,6 +72,8 @@ Corruption remains a major obstacle to the delivery of public services in develo
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud, K. Vyborny)
 
 Funding: IFPRI and IPA.
+
+<div style="height:0.27rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -88,6 +94,8 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 <span style="color:#494949; font-weight:600;">Heat Insurance at Work</span> (with A. Pople, P. Simpson, E. Zou, O. Bandiera) <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
   
 Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). Funding: JPAL K-CAI.
+
+<div style="height:0.27rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -101,6 +109,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 Designing pilot. Funding: LSE.
 
+<div style="height:0.27rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
