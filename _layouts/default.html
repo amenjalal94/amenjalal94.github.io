@@ -146,21 +146,6 @@
       transform: scale(1.03);
       text-decoration:none;    
     }
-
-    
-    .jmp-badge {
-      display: inline-block;
-      background-color: white;
-      color: #6699CC;
-      padding: 2px 7px;
-      font-size: 0.71em;
-      font-weight: 500;
-      border: 1px solid #6699CC;
-      border-radius: 7px;
-      margin-left: 8px;
-      letter-spacing: 0.4px;
-    }
-      
     /* === tighten paragraph spacing in main text === */
     section p {
       margin-top: 0.0rem;   /* default is usually ~1rem */
@@ -207,25 +192,26 @@
       margin-top: -0.3rem;      /* safely “pull up” the next title */
     }
 
-    /* Hide the native disclosure triangle (Safari/Chrome/Edge) */
+    /* Hide the default disclosure triangle */
     section details summary::-webkit-details-marker { display: none; }
-    /* Hide Firefox's marker */
     section details summary { list-style: none; }
     
-    /* Custom arrow (size fully controllable here) */
+    /* Custom arrow, aligned with text */
     section details summary::before {
-      content: "▸";                 /* or "▶" */
+      content: "▸";
       display: inline-block;
       margin-right: 0.4rem;
-      font-size: 0.9em;             /* tweak to taste (0.85–1em) */
-      transform: translateY(1px);   /* tiny baseline nudge */
+      font-size: 0.9em;
+      vertical-align: middle;
+      transform: translateY(-1px);   /* raise arrow slightly */
       transition: transform 120ms ease;
     }
     
-    /* Rotate arrow when open */
+    /* Rotate when open */
     section details[open] summary::before {
-      transform: rotate(90deg) translateY(0);
+      transform: rotate(90deg) translateY(-1px);
     }
+
   </style>
   </head>
   <body>
