@@ -15,7 +15,7 @@ I'm a PhD student in economics at the [London School of Economics](https://www.l
 
 Selected for the [EALE](https://eale.nl/home) 2026 job market tour. Winner of [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) by EEA and Discrimination & Diversity Workshop. Featured in the World Bank Development Impact [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). Funding: G<sup>2</sup>LM\|LIC (IZA). 
 
-<div style="height:0.19rem;"></div>
+<div style="height:0.16rem;"></div>
 <details>
 
 <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -29,7 +29,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 Funding: IGC, STEG, LSE and Harvard University.
 
-<div style="height:0.19rem;"></div>
+<div style="height:0.16rem;"></div>
 <details>
 
 <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -44,7 +44,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 Funding: Gates Foundation and LSE.
 
-<div style="height:0.19rem;"></div>
+<div style="height:0.16rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -58,7 +58,7 @@ In countries with low female employment, college-educated women often transition
 
 Funding: World Bank and the Gates Foundation.
 
-<div style="height:0.19rem;"></div>
+<div style="height:0.16rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -73,7 +73,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 Funding: IFPRI and IPA.
 
-<div style="height:0.19rem;"></div>
+<div style="height:0.16rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -95,7 +95,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
   
 Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). Funding: JPAL K-CAI.
 
-<div style="height:0.19rem;"></div>
+<div style="height:0.16rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -109,7 +109,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 Designing pilot. Funding: LSE.
 
-<div style="height:0.19rem;"></div>
+<div style="height:0.16rem;"></div>
 <details>
 
   <summary><span style="color:##727272; font-weight:bold;">Abstract</span></summary>
@@ -123,10 +123,14 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 
 ### Policy writing 
 
-**[Using Biometrics to Deliver Cash Payments to Women](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf).** World Bank 2022.<br /><br />
+**[Using Biometrics to Deliver Cash Payments to Women](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf).** World Bank 2022.
+
+<div style="height:0.6rem;"></div>
 
 
-**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf).** World Bank 2025.<br /><br />
+**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf).** World Bank 2025.
+
+<div style="height:0.6rem;"></div>
 
 
 **[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan).** IGC 2025.<br /><br />
