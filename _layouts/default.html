@@ -106,10 +106,10 @@
     }    
     /* socials row: tighter, smaller text */
     .meta-row.socials {
-      flex-wrap:nowrap; column-gap:0.5rem;
+      flex-wrap:nowrap; column-gap:0.3rem;
     }
     .meta-row.socials .label {
-      margin-right: 0.25rem;
+      margin-right: 0.15rem;
     }
     .meta-row.socials a {
       font-size:0.83rem;
@@ -146,26 +146,11 @@
       transform: scale(1.03);
       text-decoration:none;    
     }
-
-    
-    .jmp-badge {
-      display: inline-block;
-      background-color: white;
-      color: #6699CC;
-      padding: 2px 7px;
-      font-size: 0.71em;
-      font-weight: 500;
-      border: 1px solid #6699CC;
-      border-radius: 7px;
-      margin-left: 8px;
-      letter-spacing: 0.4px;
-    }
-      
     /* === tighten paragraph spacing in main text === */
     section p {
       margin-top: 0.0rem;   /* default is usually ~1rem */
       margin-bottom: 0.0rem;
-      line-height: 1.4;      /* optional: keeps text readable but denser */
+      line-height: 1.45;      /* optional: keeps text readable but denser */
     }
     
     /* === Wider main text column + fixed sidebar gap === */
@@ -181,7 +166,7 @@
         max-width: none !important;           /* remove theme width cap */
         margin-left: 320px !important;        /* fixed gap between sidebar & text */
         width: calc(100% - 380px) !important; /* use remaining space */
-        line-height: 1.45;                    /* readable text spacing */
+        line-height: 1.4;                    /* readable text spacing */
       }
     
       /* Allow wrapper to grow */
@@ -194,6 +179,37 @@
 
     body, section, header, footer {
       color: #595959 !important;
+    }
+
+   /* Reduce space below section headers (like 'Working papers') */
+    section h3 {
+      margin-bottom: 0.9rem;   /* default is often ~1rem; lower = tighter */
+    }     
+    section details {
+      margin-bottom: 0rem;      /* no bottom gap */
+    }
+    section details + p {
+      margin-top: -0.3rem;      /* safely “pull up” the next title */
+    }
+
+    /* Hide the default disclosure triangle */
+    section details summary::-webkit-details-marker { display: none; }
+    section details summary { list-style: none; }
+    
+    /* Custom arrow, aligned with text */
+    section details summary::before {
+      content: "▸";
+      display: inline-block;
+      margin-right: 0.4rem;
+      font-size: 0.9em;
+      vertical-align: middle;
+      transform: translateY(-1.5px);   /* raise arrow slightly */
+      transition: transform 120ms ease;
+    }
+    
+    /* Rotate when open */
+    section details[open] summary::before {
+      transform: rotate(90deg) translateY(-1px);
     }
 
   </style>
