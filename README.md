@@ -13,7 +13,7 @@ Hello! I'm a PhD student in economics at the [London School of Economics](https:
 
 <div style="height:0.05rem;"></div>
 
-Selected for the European Association of Labour Economics [2026 job market tour](https://eale.nl/node/7803). Winner of [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) by EEA and Discrimination & Diversity Workshop. Featured in the World Bank Development Impact [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). Funding: G<sup>2</sup>LM\|LIC (IZA). 
+Selected for the European Association of Labour Economists [2026 job market tour](https://eale.nl/node/7803). Winner of [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) by EEA and Discrimination & Diversity Workshop. Featured in the World Bank Development Impact [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). Funding: G<sup>2</sup>LM\|LIC (IZA). 
 
 <div style="height:0.16rem;"></div>
 <details>
