@@ -42,7 +42,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** (with O. Bandiera, N. Roussille)
 
-Funding: Gates Foundation and LSE.
+Submitted. Funding: Gates Foundation and LSE.
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -71,7 +71,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud, K. Vyborny)
 
-Funding: IFPRI and IPA.
+Submitted. Funding: IFPRI and IPA.
 
 <div style="height:0.16rem;"></div>
 <details>
