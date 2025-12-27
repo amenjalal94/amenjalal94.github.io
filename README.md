@@ -27,7 +27,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 **[Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters](http://amenjalal.com/docs/JS_2025.pdf)** (with P. Simpson)
 
-Funding: IGC, STEG, LSE and Harvard University.
+Preliminary. Funding: IGC, STEG, LSE and Harvard University.
 
 <div style="height:0.16rem;"></div>
 <details>
