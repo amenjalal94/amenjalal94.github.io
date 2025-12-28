@@ -56,7 +56,7 @@ Even in traditional societies, men and women graduate from college at increasing
 
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
 
-Funding: World Bank and the Gates Foundation.
+Revised draft coming soon. Funding: World Bank and the Gates Foundation.
 
 <div style="height:0.16rem;"></div>
 <details>
