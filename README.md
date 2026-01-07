@@ -25,21 +25,6 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 </details>
 <br />
 
-**[Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters](http://amenjalal.com/docs/JS_2025.pdf)** (with P. Simpson)
-
-Preliminary. Funding: IGC, STEG, LSE and Harvard University.
-
-<div style="height:0.16rem;"></div>
-<details>
-
-<summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
-
-Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women's. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
-
-</details>
-<br />
-
-
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** (with O. Bandiera, N. Roussille)
 
 Submitted. Funding: Gates Foundation and LSE.
@@ -53,6 +38,19 @@ Even in traditional societies, men and women graduate from college at increasing
 </details>
 <br />
 
+**[Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters](http://amenjalal.com/docs/JS_2025.pdf)** (with P. Simpson)
+
+Preliminary. Funding: IGC, STEG, LSE and Harvard University.
+
+<div style="height:0.16rem;"></div>
+<details>
+
+<summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+
+Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women's. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
+
+</details>
+<br />
 
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
 
