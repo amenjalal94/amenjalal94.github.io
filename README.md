@@ -137,8 +137,8 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 
 ### Teaching 
 <a id="teaching"></a>
-- **[Microeconomics for Public Policy](https://www.lse.ac.uk/resources/calendar2024-2025/courseGuides/PP/2024_PP440.htm)** for Masters of Public Policy students (2024-25)
-- **[Empirical Methods for Public Policy](https://www.lse.ac.uk/resources/calendar.bak/courseGuides/EC/2015_EC455E.htm)** for Executive Masters of Public Administration and Public Policy students (2022-24)
-- **[Macroeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1B3.htm)** for undergraduate students (2022-24)
-- **[Microeconomics I](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/EC/2021_EC1A3.htm)** for undergraduate students (2022-23)
-- **[Introduction to Statistics](https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/PP/2023_PP430E.htm)** for Executive Masters of Public Administration and Public Policy students (2022-24)
+- **Microeconomics for Public Policy** for Masters of Public Policy students (2024-25)
+- **Empirical Methods for Public Policy** for Executive Masters of Public Administration and Public Policy students (2022-24)
+- **Macroeconomics I** for undergraduate students (2022-24)
+- **Microeconomics I** for undergraduate students (2022-23)
+- **Introduction to Statistics** for Executive Masters of Public Administration and Public Policy students (2022-24)
