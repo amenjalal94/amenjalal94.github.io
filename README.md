@@ -137,8 +137,8 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 
 ### Teaching 
 <a id="teaching"></a>
-- **Microeconomics for Public Policy** for Masters of Public Policy students (2024-25)
-- **Empirical Methods for Public Policy** for Executive Masters of Public Administration and Public Policy students (2022-24)
-- **Macroeconomics I** for undergraduate students (2022-24)
-- **Microeconomics I** for undergraduate students (2022-23)
-- **Introduction to Statistics** for Executive Masters of Public Administration and Public Policy students (2022-24)
+- <span style="color:#494949; font-weight:bold;">Microeconomics for Public Policy</span> for Masters of Public Policy students (2024-25)
+- <span style="color:#494949; font-weight:bold;">Empirical Methods for Public Policy</span> for Executive Masters of Public Administration and Public Policy students (2022-24)
+- <span style="color:#494949; font-weight:bold;">Macroeconomics I</span> for undergraduate students (2022-24)
+- <span style="color:#494949; font-weight:bold;">Microeconomics I</span> for undergraduate students (2022-23)
+- <span style="color:#494949; font-weight:bold;">Introduction to Statistics</span> for Executive Masters of Public Administration and Public Policy students (2022-24)
