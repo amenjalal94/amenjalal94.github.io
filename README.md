@@ -1,8 +1,8 @@
-Hello! I'm a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). I have a Bachelors in economics from [Yale University](https://economics.yale.edu). 
+I'm a PhD student in economics at the London School of Economics. My research interests are in <span style="color:#494949;font-weight:bold;">development, environmental</span> and <span style="color:#494949;font-weight:bold;">labor economics</span>. Most of my work studies how gender and climate shocks shape labor market outcomes in low-income countries. <br /><br />
 
 <div style="height:0.6rem;"></div>
 
-<span style="color:#494949; font-weight:bold;">I'm on the 2025-26 job market</span>. My research interests are in <span style="color:#494949;font-weight:bold;">development, environmental</span> and <span style="color:#494949;font-weight:bold;">labor economics</span>. Most of my work studies how gender and climate shocks shape labor market outcomes in low-income countries. <br /><br />
+I am joining Harvard University, first as a [Harvard Academy Scholar](https://academy.wcfia.harvard.edu/about/mission) in August 2026, and then as an Assistant Professor at the Harvard Kennedy School in August 2027. <br /><br />
 
 <hr class="section-divider">
 
