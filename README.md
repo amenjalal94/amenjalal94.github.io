@@ -38,20 +38,6 @@ Even in traditional societies, men and women graduate from college at increasing
 </details>
 <br />
 
-**[Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters](http://amenjalal.com/docs/JS_2025.pdf)** (with P. Simpson)
-
-Preliminary. Funding: IGC, STEG, LSE and Harvard University.
-
-<div style="height:0.16rem;"></div>
-<details>
-
-<summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
-
-Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women's. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
-
-</details>
-<br />
-
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
 
 Revised draft coming soon. Funding: World Bank and the Gates Foundation.
@@ -100,6 +86,21 @@ Implementation on-going. [AEA RCT registration](https://www.socialscienceregistr
 
 Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor work or limited access to adaptive resources. In 2024, 37 cities in India surpassed 45°C (113°F), and around 40,000 heat stroke cases were reported. How can social protection systems evolve to address the growing losses caused by extreme heat? We evaluate an innovative intervention in India that offers automatic daily wage payments to low-income workers when temperatures exceed a predetermined threshold. Developed by the Self Employed Women's Association (SEWA) – a union representing over 3 million informal workers – the scheme is the world's first parametric heat insurance product targeting earnings loss. We use a randomized encouragement design, incentivizing SEWA officers to promote enrollment in 2,821 treatment villages, while 2,821 control villages receive no targeted outreach. Panel survey data – combined with high-frequency measurement during the hot season – will allow us to estimate impacts on labor supply, financial decisions, health, consumption, and adaptive behavior. We also assess willingness to pay relative to actuarially fair pricing, providing evidence on the potential for commercial insurance-based heat protection.
 </details>	
+<br />
+
+
+<span style="color:#494949; font-weight:600;">Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters</span> (with P. Simpson)
+
+Preparing working paper. Funding: IGC, STEG, LSE and Harvard University.
+
+<div style="height:0.16rem;"></div>
+<details>
+
+<summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+
+Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women's. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
+
+</details>
 <br />
 
 
