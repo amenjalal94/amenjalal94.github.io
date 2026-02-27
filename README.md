@@ -1,4 +1,4 @@
-I'm a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). My research interests are in <span style="color:#494949;font-weight:bold;">development, environmental</span> and <span style="color:#494949;font-weight:bold;">labor economics</span>. Most of my work studies how gender and climate shocks shape labor markets in low-income countries. 
+I'm a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). My research interests are in development, environmental and labor economics. Most of my work studies how gender and climate shocks shape labor markets in low-income countries. 
 
 <div style="height:1rem;"></div>
 
