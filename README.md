@@ -2,7 +2,7 @@ I'm a PhD student in economics at the [London School of Economics](https://www.l
 
 <div style="height:1rem;"></div>
 
-I will join Harvard University as an [Academy Scholar](https://academy.wcfia.harvard.edu/about/mission) at the Harvard Academy in August 2026, and as an Assistant Professor at the [Harvard Kennedy School](https://www.hks.harvard.edu) in August 2027. <br /><br />
+I will join Harvard University as an Academy Scholar at the [Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)  in August 2026, and as an Assistant Professor at the [Harvard Kennedy School](https://www.hks.harvard.edu) in August 2027. <br /><br />
 
 <hr class="section-divider">
 
