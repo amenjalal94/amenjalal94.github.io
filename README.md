@@ -13,7 +13,7 @@ I will join Harvard University as an Academy Scholar at the [Harvard Academy](ht
 
 <div style="height:0.05rem;"></div>
 
-Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. Coverage: World Bank Development Impact [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). Funding: G<sup>2</sup>LM\|LIC (IZA). 
+Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. Coverage: World Bank Development Impact [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -27,7 +27,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** (with O. Bandiera, N. Roussille)
 
-Submitted. Funding: Gates Foundation and LSE.
+Submitted. 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -40,7 +40,7 @@ Even in traditional societies, men and women graduate from college at increasing
 
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
 
-Revised draft coming soon. Funding: World Bank and the Gates Foundation.
+Revised draft coming soon. 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -55,7 +55,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud, K. Vyborny)
 
-Conditionally accepted, <span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. Funding: IFPRI and IPA.
+Conditionally accepted, <span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -77,7 +77,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 
 <span style="color:#494949; font-weight:600;">Heat Insurance at Work</span> (with A. Pople, P. Simpson, E. Zou, O. Bandiera) <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
   
-Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). Funding: JPAL K-CAI.
+Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -91,7 +91,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 <span style="color:#494949; font-weight:600;">Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters</span> (with P. Simpson)
 
-Preparing working paper. Funding: IGC, STEG, LSE and Harvard University.
+Preparing working paper. 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -106,7 +106,7 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 
 <span style="color:#494949; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> (with C. Naik, P. Simpson)
 
-Designing pilot. Funding: LSE.
+Designing pilot.
 
 <div style="height:0.16rem;"></div>
 <details>
