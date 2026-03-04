@@ -55,7 +55,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud, K. Vyborny)
 
-Conditionally accepted, <span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
+Accepted, <span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
 
 <div style="height:0.16rem;"></div>
 <details>
