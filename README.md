@@ -25,9 +25,9 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 </details>
 <br />
 
-**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** (with O. Bandiera, N. Roussille)
+**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** 
 
-Submitted. 
+with O. Bandiera, N. Roussille. Submitted. 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -38,9 +38,9 @@ Even in traditional societies, men and women graduate from college at increasing
 </details>
 <br />
 
-**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
+**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** 
 
-Revised draft coming soon. 
+with M. Haseeb, K. Vyborny, A. Quispe. Revised draft coming soon. 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -53,9 +53,9 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 
 
-**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud, K. Vyborny)
+**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** 
 
-Accepted, <span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
+with N. Iqbal, M. Mahmud, K. Vyborny. Accepted, <span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -75,9 +75,9 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 ### Works in progress 
 <a id="works-in-progress"></a>
 
-<span style="color:#494949; font-weight:600;">Heat Insurance at Work</span> (with A. Pople, P. Simpson, E. Zou, O. Bandiera) <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
+<span style="color:#494949; font-weight:600;">Heat Insurance at Work</span> <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
   
-Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). 
+with A. Pople, P. Simpson, E. Zou, O. Bandiera. Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -89,9 +89,9 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 
-<span style="color:#494949; font-weight:600;">Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters</span> (with P. Simpson)
+<span style="color:#494949; font-weight:600;">Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters</span> 
 
-Preparing working paper. 
+with P. Simpson. Preparing working paper. 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -104,9 +104,9 @@ Disaster response policies often focus on immediate relief or long-term reconstr
 <br />
 
 
-<span style="color:#494949; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> (with C. Naik, P. Simpson)
+<span style="color:#494949; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> 
 
-Designing pilot.
+with C. Naik, P. Simpson. Designing pilot.
 
 <div style="height:0.16rem;"></div>
 <details>
