@@ -13,7 +13,7 @@ I will join Harvard University as an Academy Scholar at the [Harvard Academy](ht
 
 <div style="height:0.05rem;"></div>
 
-Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. World Bank Development Impact [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
+Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. World Bank [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
 
 <div style="height:0.16rem;"></div>
 <details>
