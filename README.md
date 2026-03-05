@@ -1,349 +1,145 @@
-<!DOCTYPE html> 
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8WE3MQQCNK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+I'm a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). My research interests are in development, environmental and labor economics. Most of my work studies how gender and climate shocks shape labor markets in low-income countries. 
 
-  gtag('config', 'G-8WE3MQQCNK');
-</script>
-    <meta http-equiv="X-Content-Type-Options" content="nosniff">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">    
-    <script src="https://kit.fontawesome.com/d9deda5943.js" crossorigin="anonymous"></script>
-    
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-    <style>
-    /* PNG icons (CV, Email) */
-    .icon-img{
-      width:32px; height:32px; object-fit:contain;
-      vertical-align:middle; margin-right:6px;
-    }
-    
-    /* FA icons (X, Bluesky) sized to match PNGs */
-    .icon-fa{
-      font-size:13px; line-height:1;
-      vertical-align:middle; margin-right:3px; color:#1f2937;
-    }
-    .bluesky{ color:#0285FF; }        /* official Bluesky blue */
-    
-    /* rows */
-    .meta-row {
-      display:flex; align-items:center; flex-wrap:wrap;
-      gap:.5rem; margin:.45rem 0;
-    }
-    .meta-row a {
-      display:inline-flex;
-      align-items:center;
-      font-size:0.95rem;
-      text-decoration:none;
-      transition: color 0.15s ease;
-    }
-    /* Bigger text for CV + Email only (icons stay 32px due to .icon-img) */
-    .meta-row.actions a.action-link {
-      font-size: 1.1rem;   /* adjust to scale */
-      font-weight: 500;
-    }
-    
-    /* make the separator dot scale with the text */
-    .meta-row.actions .dot { font-size: 1.1rem; }
-      
-    .meta-row a:hover {
-      text-decoration:none;  /* remove underline */
-    }
-    .dot { color:#888; font-weight:700; margin:0 .3rem; }
-    
-    .meta-row .label {
-      font-weight:600;
-      margin-right:0.5rem;
-    }
-    .meta-row.actions {
-      justify-content: center;   /* center the content horizontally */
-    }
-   /* Base weight just for the text, not the icon */
-    .meta-row.actions a.action-link .action-text {
-      font-weight: 500;
-    }
-    
-    /* Make it bold on hover; a bit more specific to beat theme rules */
-    .meta-row.actions a.action-link:hover .action-text {
-      font-weight: 700 !important;  /* remove !important if you prefer, keep if theme forces a weight */
-    }
-    
-    /* keep your existing scale effect */
-    .action-link {
-      transition: transform .08s ease;
-    }
-    .action-link:hover {
-      transform: scale(1.02);
-    }
-    /* Hover grow for bold Markdown titles */
-    section strong a,
-    section b a {
-      display: inline-block;                     /* needed for transform */
-      transition: transform .08s ease;
-      transform-origin: left center;   
-    }
-    section strong a:hover,
-    section b a:hover {
-      transform: scale(1.03);                    /* same subtle grow as others */
-      margin-right: 12px;                /* creates space as it grows */
-      text-decoration: none;                     /* keep it clean; optional */
-    }
-    /* add this */
-    @media (max-width: 640px){
-      section strong a,
-      section b a { display:inline; }  /* allow inline flow on small screens */
-    }    
-    /* socials row: tighter, smaller text */
-    .meta-row.socials {
-      flex-wrap:nowrap; column-gap:0.3rem;
-    }
-    .meta-row.socials .label {
-      margin-right: 0.15rem;
-    }
-    .meta-row.socials a {
-      font-size:0.83rem;
-      white-space:nowrap;
-    }
-    /* CV + Email links grow + bold on hover */
-    .action-link {
-      font-weight:500;
-      transition: transform .08s ease, font-weight .08s ease;
-    }
-    .action-link:hover {
-      font-weight:700;
-      transform: scale(1.03);
-    }
-    
-    /* Jump to */
-    .jump-to .label { font-weight:700; margin:.6rem 0 .3rem; }
-    .jump-to ul { list-style:none; padding:0; margin:0; }
-    .jump-to li { margin:.3rem 0; }
-    
-    /* divider */
-    .sidebar-divider{
-      border:0; border-top:1px solid #e5e7eb;
-      margin:.6rem 0 .4rem 0;
-    }
-    
-    /* blue links that grow + bold on hover */
-    .jump-link{
-      text-decoration:none; font-weight:500;
-      transition: transform .08s ease, font-weight .08s ease;
-    }
-    .jump-link:hover {
-      font-weight:700;
-      transform: scale(1.03);
-      text-decoration:none;    
-    }
-    /* === tighten paragraph spacing in main text === */
-    section p {
-      margin-top: 0.0rem;   /* default is usually ~1rem */
-      margin-bottom: 0.0rem;
-      line-height: 1.45;      /* optional: keeps text readable but denser */
-    }
-    
-    /* === Wider main text column + fixed sidebar gap === */
-    @media (min-width: 980px) {
-      /* Sidebar stays fixed width */
-      header {
-        width: 260px !important;
-        flex-shrink: 0;
-      }
-    
-      /* Main content uses remaining screen width */
-      section {
-        max-width: none !important;           /* remove theme width cap */
-        margin-left: 320px !important;        /* fixed gap between sidebar & text */
-        width: calc(100% - 380px) !important; /* use remaining space */
-        line-height: 1.4;                    /* readable text spacing */
-      }
-    
-      /* Allow wrapper to grow */
-      .wrapper {
-        max-width: 1250px !important;         /* increase total layout width */
-        width: 95%;
-        margin: 0 auto;
-      }
-    }
+<div style="height:1rem;"></div>
 
-    body, section, header, footer {
-      color: #595959 !important;
-    }
+I will join Harvard University as an Academy Scholar at the [Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)  in August 2026, and as an Assistant Professor at the [Harvard Kennedy School](https://www.hks.harvard.edu) in August 2027. <br /><br />
 
-   /* Reduce space below section headers (like 'Working papers') */
-    section h3 {
-      margin-bottom: 0.9rem;   /* default is often ~1rem; lower = tighter */
-    }     
-    section details {
-      margin-bottom: 0rem;      /* no bottom gap */
-    }
-    section details + p {
-      margin-top: -0.3rem;      /* safely "pull up" the next title */
-    }
+<hr class="section-divider">
 
-    /* Hide the default disclosure triangle */
-    section details summary::-webkit-details-marker { display: none; }
-    section details summary { list-style: none; }
-    
-    /* Custom arrow, aligned with text */
-    section details summary::before {
-      content: "▸";
-      display: inline-block;
-      margin-right: 0.4rem;
-      font-size: 0.9em;
-      vertical-align: middle;
-      transform: translateY(-1.5px);   /* raise arrow slightly */
-      transition: transform 120ms ease;
-    }
-    
-    /* Rotate when open */
-    section details[open] summary::before {
-      transform: rotate(90deg) translateY(-1px);
-    }
+### Working papers 
+<a id="working-papers"></a>
 
-  </style>
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p class="phonetic"><em>(My name is pronounced Ae-mun Ja-laal)</em></p>
+**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="color:#333333; font-weight:bold;">[ </span> <span style="color:#B23A48; font-weight:bold;">Job Market Paper</span> <span style="color:#333333; font-weight:bold;"> ]</span>
 
-        {% if site.logo %}
-          <div style="text-align: center;">
-            <!-- rounded-rectangle shape commented out: border-radius: 8px; -->
-            <img src="{{site.logo | relative_url}}" alt="Photo of Amen Jalal" style="border-radius: 50%; box-shadow: 0 4px 14px rgba(0,0,0,0.25); margin: 10px auto; display: block;">
-          </div>
-        {% endif %}
+<div style="height:0.05rem;"></div>
+
+Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. World Bank Development Impact [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
+
+<div style="height:0.16rem;"></div>
+<details>
+
+<summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+
+Up to half of the gender pay gap stems from women's sorting into low-wage firms. Do women prefer amenities to wages, or face barriers to search? I tackle this question using data on 29 million job applications from Pakistan's largest job search platform, combined with firm and worker surveys and a field experiment mandating pay transparency. I document that large, high-paying firms are more likely to omit salaries in job ads and less likely to offer flexibility – an amenity women value slightly more than men. When pay is disclosed, men and women respond similarly to wages. But when undisclosed, behaviors diverge: men search randomly, while women sort negatively on pay. A theoretical framework shows that pay non-disclosure amplifies small gender differences in amenity preferences into large gender gaps in applications. To test whether transparency closes these gaps, I randomize mandatory versus optional pay disclosure in 20,088 jobs across 8,906 firms on the platform. The experiment leaves large-firm pay and amenities unchanged. Yet women's applications to these firms increase 95%, and men's 59%, reversing the gender gap in directed search.  This implies women do not prefer flexibility to wages. Rather, they turn to flexibility when they cannot access wages. Meanwhile, large firms most exposed to mandated transparency become 30% more likely to disclose pay post-experiment, suggesting they overestimated the costs of transparency.
+
+</details>
+<br />
+
+**[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** (with O. Bandiera, N. Roussille)
+
+Submitted. 
+
+<div style="height:0.16rem;"></div>
+<details>
+
+  <summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+ 
+Even in traditional societies, men and women graduate from college at increasingly similar rates. Yet their paths diverge upon labor market entry: men work while most women stay home. What drives this divergence? Tracking 2,400 college students in Pakistan, we show that men and women hold similarly high work aspirations at graduation and subsequently apply to jobs and receive offers at comparable rates. Yet a 27 pp gender employment gap emerges within six months, driven by women rejecting offers far more often than men. A key predictor of women’s job acceptance decision is the timing of search: those who apply within two months of graduation are much more likely to be employed later. To test causality and uncover mechanisms, we randomize a modest incentive to apply early. The intervention shifts search earlier for both genders, raises women's employment by ~20% while leaving men's unaffected, thereby closing a third of the gender gap. Employment gains are concentrated among women who underestimate how soon marriage activities arise, revealing that they delayed job search under an “illusion of time.” For these women, early job search can initiate a self-reinforcing cycle: by entering the labor force before the marriage market, they attract more progressive suitors, which in turn can create a more supportive environment for sustained employment.
+</details>
+<br />
+
+**[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** (with M. Haseeb, K. Vyborny, A. Quispe)
+
+Revised draft coming soon. 
+
+<div style="height:0.16rem;"></div>
+<details>
+
+  <summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+	
+Corruption remains a major obstacle to the delivery of public services in developing countries. We study whether competition between service delivery agents can mitigate corruption, leveraging exogenous changes to the market structure of agents responsible for delivering government cash transfers in Pakistan. A reform that increased the market power of these agents led to a 29.1 pp increase in the probability that a beneficiary had to pay an involuntary bribe to access the cash transfer. However, in areas with 1 standard deviation higher competition, this increase in bribe payments is almost completely eliminated. We rule out that mechanisms other than competition drive these results, such as strategic entry, changes in market access, and differences in monitoring efforts or cash recipient characteristics.
+</details>	
+<br />
 
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** (with N. Iqbal, M. Mahmud, K. Vyborny)
 
-        {% if site.github.is_user_page %}
-        
-        
-        
-        <div class="sidebar-links">
-        
-          <!-- line 1: CV + Email -->
-          
-          <hr class="sidebar-divider">
-          <div class="meta-row actions">
-            <a href="https://amenjalal94.github.io/docs/CV.pdf" class="action-link">
-              <img src="/assets/icons/CV.png" alt="CV" class="icon-img">
-              <span class="action-text">CV</span>
-            </a>
-            <span class="dot">•</span>
-            <a href="mailto:u.jalal@lse.ac.uk" class="action-link">
-              <img src="/assets/icons/mail.png" alt="Email" class="icon-img">
-              <span class="action-text">Email</span>
-            </a>
-          </div>
+Accepted, <span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
+
+<div style="height:0.16rem;"></div>
+<details>
+
+  <summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+	
+Female-targeted cash transfers are widely used as a policy tool to enhance women's empowerment.  However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation.  We study how women are affected by program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow a panel of 2,333 women exiting Pakistan's largest cash transfer program.  One year after exit, drawing on a comprehensive battery of empowerment,  intimate partner violence, and well-being measures, we find no evidence of backlash. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit. 
+</details>	
+<br />
 
 
-          
-          <!-- divider -->
-          <hr class="sidebar-divider">
-                  
-          <!-- Socials -->
-          <div class="meta-row socials">
-            <span class="label">Social media:</span>
-            <a href="https://twitter.com/amenjalal_" rel="me" aria-label="Twitter (X)">
-              <i class="fab fa-x-twitter icon-fa"></i> Twitter (X)
-            </a>
-            <a href="https://bsky.app/profile/amenjalal.bsky.social" rel="me" aria-label="Bluesky">
-              <i class="fab fa-bluesky icon-fa bluesky"></i> Bluesky
-            </a>
-          </div>
 
-          
-          <!-- divider -->
-          <hr class="sidebar-divider">
-        
-          <!-- jump to -->
-          <div class="jump-to">
-            <p class="label">Jump to:</p>
-            <ul>
-              <li><a class="jump-link" href="#working-papers">Working papers</a></li>
-              <li><a class="jump-link" href="#works-in-progress">Works in progress</a></li>
-              <li><a class="jump-link" href="#policy-writing">Policy writing</a></li>
-              <li><a class="jump-link" href="#teaching">Teaching</a></li>
-            </ul>
-          </div>
-        
-        </div>
+<hr class="section-divider">
+ 
 
 
-        {% endif %}
-        
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-        {% assign sorted = site.html_pages | sort:"rank" %}
-        {% for item in sorted %}
-          {% if item.path != "index.md" and item.title and item.rank %}
-            <li>
-              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
-              <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
-            </li>
-          {% endif %}
-        {% endfor %}
-      </header>
-      <section>
+### Works in progress 
+<a id="works-in-progress"></a>
 
-      {{ content }}
+<span style="color:#494949; font-weight:600;">Heat Insurance at Work</span> (with A. Pople, P. Simpson, E. Zou, O. Bandiera) <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
+  
+Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). 
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
+<div style="height:0.16rem;"></div>
+<details>
 
-    <!-- PDF orientation fix -->
-    <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
-      pdfLinks.forEach(link => {
-        link.addEventListener('click', function(e) {
-          e.preventDefault();
-          const url = this.href;
-          window.open(url, '_blank');
-        });
-      });
-    });
-    </script>
-    
-  </body>
-</html>
+  <summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+
+Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor work or limited access to adaptive resources. In 2024, 37 cities in India surpassed 45°C (113°F), and around 40,000 heat stroke cases were reported. How can social protection systems evolve to address the growing losses caused by extreme heat? We evaluate an innovative intervention in India that offers automatic daily wage payments to low-income workers when temperatures exceed a predetermined threshold. Developed by the Self Employed Women's Association (SEWA) – a union representing over 3 million informal workers – the scheme is the world's first parametric heat insurance product targeting earnings loss. We use a randomized encouragement design, incentivizing SEWA officers to promote enrollment in 2,821 treatment villages, while 2,821 control villages receive no targeted outreach. Panel survey data – combined with high-frequency measurement during the hot season – will allow us to estimate impacts on labor supply, financial decisions, health, consumption, and adaptive behavior. We also assess willingness to pay relative to actuarially fair pricing, providing evidence on the potential for commercial insurance-based heat protection.
+</details>	
+<br />
+
+
+<span style="color:#494949; font-weight:600;">Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters</span> (with P. Simpson)
+
+Preparing working paper. 
+
+<div style="height:0.16rem;"></div>
+<details>
+
+<summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+
+Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women's. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
+
+</details>
+<br />
+
+
+<span style="color:#494949; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> (with C. Naik, P. Simpson)
+
+Designing pilot.
+
+<div style="height:0.16rem;"></div>
+<details>
+
+  <summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+	
+Disaster recovery often focuses on rebuilding physical infrastructure, overlooking the mental health impact of traumatic events like floods. In Pakistan, where flooding in 2022 submerged a third of the country and lasted up to 8 months, women exposed to a more intense flood shock were 11 pp more likely to have severe psychological distress 2 years later. Ignoring mental health in reconstruction may prolong the socio-economic impact of disasters by limiting individuals' ability to work, plan, and recover. This project explores complementarities between mental health support and the standard infrastructure-focused approach by randomizing a trauma-based mental health intervention and leveraging natural variation in access to a housing reconstruction program in a 2x2 design. Our findings aim to measure the non-economic losses and damages of climate catastrophes, and inform more holistic disaster recovery policies that address both physical and psychological needs.
+</details>	
+<br />
+
+
+<hr class="section-divider">
+
+### Policy writing 
+
+**[Using Biometrics to Deliver Cash Payments to Women](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf).** World Bank 2022.
+
+<div style="height:0.6rem;"></div>
+
+
+**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf).** World Bank 2025.
+
+<div style="height:0.6rem;"></div>
+
+
+**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan).** IGC 2025.<br /><br />
+
+<hr class="section-divider">
+
+### Teaching 
+<a id="teaching"></a>
+- <span style="color:#494949; font-weight:bold;">Microeconomics for Public Policy</span> for Masters of Public Policy students (2024-25)
+- <span style="color:#494949; font-weight:bold;">Empirical Methods for Public Policy</span> for Executive Masters of Public Administration and Public Policy students (2022-24)
+- <span style="color:#494949; font-weight:bold;">Macroeconomics I</span> for undergraduate students (2022-24)
+- <span style="color:#494949; font-weight:bold;">Microeconomics I</span> for undergraduate students (2022-23)
+- <span style="color:#494949; font-weight:bold;">Introduction to Statistics</span> for Executive Masters of Public Administration and Public Policy students (2022-24)
