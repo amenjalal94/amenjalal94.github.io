@@ -217,8 +217,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p class="phonetic"><em>(My name is pronounced Ae-mun Ja-laal)</em></p>
+        <h1 style="margin-bottom: 0.1rem;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p class="phonetic" style="margin-top: 0;"><em>(My name is pronounced Ae-mun Ja-laal)</em></p>
 
         {% if site.logo %}
           <div style="text-align: center;">
@@ -242,14 +242,13 @@
         
           <!-- line 1: CV + Email -->
           
-          <hr class="sidebar-divider">
           <div class="meta-row actions">
             <a href="https://amenjalal94.github.io/docs/CV.pdf" class="action-link">
               <img src="/assets/icons/CV.png" alt="CV" class="icon-img">
               <span class="action-text">CV</span>
             </a>
             <span class="dot">•</span>
-            <a href="mailto:u.jalal@lse.ac.uk" class="action-link">
+            <a href="/cdn-cgi/l/email-protection#a7d289cdc6cbc6cbe7cbd4c289c6c489d2cc" class="action-link">
               <img src="/assets/icons/mail.png" alt="Email" class="icon-img">
               <span class="action-text">Email</span>
             </a>
@@ -319,7 +318,7 @@
         {% endif %}
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -337,13 +336,4 @@
       const pdfLinks = document.querySelectorAll('a[href$=".pdf"]');
       pdfLinks.forEach(link => {
         link.addEventListener('click', function(e) {
-          e.preventDefault();
-          const url = this.href;
-          window.open(url, '_blank');
-        });
-      });
-    });
-    </script>
-    
-  </body>
-</html>
+          e.preventD
