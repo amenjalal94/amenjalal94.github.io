@@ -89,7 +89,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 
-<span style="color:#494949; font-weight:600;">Immediate Relief, Delayed Recovery: Labor Market Impacts of Natural Disasters</span> 
+<span style="color:#494949; font-weight:600;">Direct Damage, Indirect Costs: The Spillover Impacts of Natural Disasters</span> 
 
 with P. Simpson. Preparing working paper. 
 
@@ -98,7 +98,7 @@ with P. Simpson. Preparing working paper.
 
 <summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
 
-Disaster response policies often focus on immediate relief or long-term reconstruction, but what happens in between? We examine how the impacts of Pakistan's 2022 floods evolve over two years, by collecting panel data from 5,100 low-income households across six districts, and leveraging exogenous local variation in topography and rainfall to estimate causal effects. One year post-floods, a more severe flood shock depleted household assets and reduced labor demand, prompting households to sell assets, commute further for work, and turn to self-employment. They also received more formal and informal aid. As a result, they were able to sustain consumption levels on par with less affected households. However, by year two these patterns are reversed: more flooded households have returned to private employment, working similar hours as less flooded households, but doing so at lower wages. They are also more likely to report reducing consumption and health expenditure, taking new loans and drawing down savings to make ends meet. We also find that more intense floods have persistent negative impacts on physical and mental health - particularly women's. These findings reveal a medium-run assistance gap: after emergency relief but before long-run reconstruction, households face income risks that standard disaster response overlooks, allowing the effects of climate shocks to persist through labor markets.
+Households in developing countries have built strategies to cope with weather shocks --- migrating for work, borrowing from those less affected, and selling assets. But these strategies rely on the shock being localised. We study what happens when it is not, using panel data on 5,100 households affected by Pakistan's 2022 floods and a recentered instrumental variables design that separately identifies the effects of local and regional flood exposure. Households with greater local flooding experience physical damage and displacement, but appear to cope: they receive more aid, travel further for work, and maintain consumption in both years. Conditional on own flooding, however, greater regional exposure tells a very different story. These households receive less aid --- consistent with zero-sum allocation of limited relief --- and face large reductions in agricultural employment, while the ability to commute to less affected areas appears to be blocked. In year one, they cope by selling assets. By year two, these buffers seem exhausted: households are drawing down savings, taking on new debt, skipping meals, and experiencing worse physical health. Our results suggest that there are considerable medium-term costs of flooding driven not by direct physical damage but by indirect effects that are not considered by standard disaster response policy. As climate change drives floods of increasing scale, these indirect, regional costs are likely to become an increasingly important share of total damage.
 
 </details>
 <br />
