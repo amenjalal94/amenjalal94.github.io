@@ -13,7 +13,7 @@ I will join Harvard University as an Assistant Professor at the [Harvard Kennedy
 
 <div style="height:0.05rem;"></div>
 
-Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. World Bank [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
+Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. Coverage: World Bank [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -27,7 +27,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** 
 
-with O. Bandiera, N. Roussille. Submitted. 
+with O. Bandiera, N. Roussille. Submitted. Coverage: [VoxDev](https://voxdev.org/topic/labour-markets/race-between-marriage-and-labour-markets)
 
 <div style="height:0.16rem;"></div>
 <details>
