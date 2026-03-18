@@ -13,7 +13,7 @@ I will join Harvard University as an Assistant Professor at the [Harvard Kennedy
 
 <div style="height:0.05rem;"></div>
 
-Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. Coverage: World Bank [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
+Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. Coverage: [World Bank](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
 
 <div style="height:0.16rem;"></div>
 <details>
