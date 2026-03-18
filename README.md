@@ -2,7 +2,7 @@ I'm a PhD student in economics at the [London School of Economics](https://www.l
 
 <div style="height:1rem;"></div>
 
-I will join Harvard University as an Academy Scholar at the [Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)  in August 2026, and as an Assistant Professor at the [Harvard Kennedy School](https://www.hks.harvard.edu) in August 2027. <br /><br />
+I will join Harvard University as an Assistant Professor at the [Harvard Kennedy School](https://www.hks.harvard.edu) in August 2027, after a year as an Academy Scholar at the [Harvard Academy](https://academy.wcfia.harvard.edu/about/mission), starting August 2026. <br /><br />
 
 <hr class="section-divider">
 
@@ -13,7 +13,7 @@ I will join Harvard University as an Academy Scholar at the [Harvard Academy](ht
 
 <div style="height:0.05rem;"></div>
 
-Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. World Bank [blog](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
+Selected for European Association of Labour Economists' [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop) – European Economic Association and Discrimination & Diversity Workshop. Coverage: [World Bank](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -27,7 +27,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** 
 
-with O. Bandiera, N. Roussille. Submitted. 
+with O. Bandiera, N. Roussille. Submitted. Coverage: [VoxDev](https://voxdev.org/topic/labour-markets/race-between-marriage-and-labour-markets)
 
 <div style="height:0.16rem;"></div>
 <details>
