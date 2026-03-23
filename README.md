@@ -6,6 +6,24 @@ I will join Harvard University as an Assistant Professor at the [Harvard Kennedy
 
 <hr class="section-divider">
 
+### Publications
+<a id="publications"></a>
+
+**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://www.sciencedirect.com/science/article/pii/S004727272600054X)** 
+
+with N. Iqbal, M. Mahmud, K. Vyborny. <br>
+<span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
+
+<div style="height:0.16rem;"></div>
+<details>
+
+  <summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
+	
+Female-targeted cash transfers are widely used as a policy tool to enhance women’s empowerment. However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation. We study how women are affected by unanticipated program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow 2333 women exiting Pakistan’s largest cash transfer program, surveying them before program exit and one year after it. Drawing on comprehensive measures of empowerment, intimate partner violence, and well-being, we find no evidence of negative impacts a year after exit. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit.
+</details>	
+<br />
+
+
 ### Working papers 
 <a id="working-papers"></a>
 
@@ -51,20 +69,6 @@ Corruption remains a major obstacle to the delivery of public services in develo
 </details>	
 <br />
 
-
-
-**[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://amenjalal.com/docs/IJMV_2025.pdf)** 
-
-with N. Iqbal, M. Mahmud, K. Vyborny. Accepted, <span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
-
-<div style="height:0.16rem;"></div>
-<details>
-
-  <summary><span style="color:#494949; font-weight:bold;">Abstract</span></summary>
-	
-Female-targeted cash transfers are widely used as a policy tool to enhance women's empowerment.  However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation.  We study how women are affected by program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow a panel of 2,333 women exiting Pakistan's largest cash transfer program.  One year after exit, drawing on a comprehensive battery of empowerment,  intimate partner violence, and well-being measures, we find no evidence of backlash. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit. 
-</details>	
-<br />
 
 
 
