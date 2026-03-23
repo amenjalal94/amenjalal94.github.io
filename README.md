@@ -138,12 +138,3 @@ Disaster recovery often focuses on rebuilding physical infrastructure, overlooki
 
 **[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan).** IGC 2025.<br /><br />
 
-<hr class="section-divider">
-
-### Teaching 
-<a id="teaching"></a>
-- <span style="color:#494949; font-weight:bold;">Microeconomics for Public Policy</span> for Masters of Public Policy students (2024-25)
-- <span style="color:#494949; font-weight:bold;">Empirical Methods for Public Policy</span> for Executive Masters of Public Administration and Public Policy students (2022-24)
-- <span style="color:#494949; font-weight:bold;">Macroeconomics I</span> for undergraduate students (2022-24)
-- <span style="color:#494949; font-weight:bold;">Microeconomics I</span> for undergraduate students (2022-23)
-- <span style="color:#494949; font-weight:bold;">Introduction to Statistics</span> for Executive Masters of Public Administration and Public Policy students (2022-24)
