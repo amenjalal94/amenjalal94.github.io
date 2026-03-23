@@ -1,8 +1,8 @@
-I'm a <span style="color:#545656; font-weight:bold;">PhD student</span> in economics at the **[London School of Economics](https://www.lse.ac.uk/economics)**. My research interests are in development, environmental and labor economics. Most of my work studies how gender and climate shocks shape labor markets in low-income countries. 
+I'm a PhD student in economics at the **[London School of Economics](https://www.lse.ac.uk/economics)**. My research interests are in development, environmental and labor economics. Most of my work studies how gender and climate shocks shape labor markets in low-income countries. 
 
 <div style="height:1rem;"></div>
 
-I will join Harvard University as an <span style="color:#545656; font-weight:bold;">Assistant Professor</span> at the **[Harvard Kennedy School](https://www.hks.harvard.edu)** in August 2027, after a year as an <span style="color:#545656; font-weight:bold;">Academy Scholar</span> at the **[Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)**, starting August 2026. <br /><br />
+I will join Harvard University as an Assistant Professor at the **[Harvard Kennedy School](https://www.hks.harvard.edu)** in August 2027, after a year as an Academy Scholar at the **[Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)**, starting August 2026. <br /><br />
 
 <hr class="section-divider">
 
