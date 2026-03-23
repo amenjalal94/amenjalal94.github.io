@@ -76,7 +76,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
  
 
 
-### Works in progress 
+### Select works in progress 
 <a id="works-in-progress"></a>
 
 <span style="color:#494949; font-weight:600;">Heat Insurance at Work</span> <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
