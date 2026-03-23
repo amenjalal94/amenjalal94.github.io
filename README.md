@@ -11,8 +11,7 @@ I will join Harvard University as an Assistant Professor at the [Harvard Kennedy
 
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://www.sciencedirect.com/science/article/pii/S004727272600054X)** 
 
-with N. Iqbal, M. Mahmud, K. Vyborny. <br>
-<span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
+with N. Iqbal, M. Mahmud, K. Vyborny. <span style="color:#494949; font-weight:bold;">Journal of Public Economics</span>. 
 
 <div style="height:0.16rem;"></div>
 <details>
@@ -23,6 +22,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 </details>	
 <br />
 
+<hr class="section-divider">
 
 ### Working papers 
 <a id="working-papers"></a>
