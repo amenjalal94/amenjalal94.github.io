@@ -16,7 +16,7 @@ with N. Iqbal, M. Mahmud, K. Vyborny. <span style="color:#494949; font-weight:bo
 <div style="height:0.16rem;"></div>
 <details>
 
-  <summary><span style="color:#505151; font-weight:bold;">Abstract</span></summary>
+  <summary><span style="color:#545656; font-weight:bold;">Abstract</span></summary>
 	
 Female-targeted cash transfers are widely used as a policy tool to enhance women’s empowerment. However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation. We study how women are affected by unanticipated program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow 2333 women exiting Pakistan’s largest cash transfer program, surveying them before program exit and one year after it. Drawing on comprehensive measures of empowerment, intimate partner violence, and well-being, we find no evidence of negative impacts a year after exit. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit.
 </details>	
@@ -36,7 +36,7 @@ Selected for European Association of Labour Economists' [job market tour](https:
 <div style="height:0.16rem;"></div>
 <details>
 
-<summary><span font-weight:bold;">Abstract</span></summary>
+<summary><span style="color:#545656; font-weight:bold;">Abstract</span></summary>
 
 Up to half of the gender pay gap stems from women's sorting into low-wage firms. Do women prefer amenities to wages, or face barriers to search? I tackle this question using data on 29 million job applications from Pakistan's largest job search platform, combined with firm and worker surveys and a field experiment mandating pay transparency. I document that large, high-paying firms are more likely to omit salaries in job ads and less likely to offer flexibility – an amenity women value slightly more than men. When pay is disclosed, men and women respond similarly to wages. But when undisclosed, behaviors diverge: men search randomly, while women sort negatively on pay. A theoretical framework shows that pay non-disclosure amplifies small gender differences in amenity preferences into large gender gaps in applications. To test whether transparency closes these gaps, I randomize mandatory versus optional pay disclosure in 20,088 jobs across 8,906 firms on the platform. The experiment leaves large-firm pay and amenities unchanged. Yet women's applications to these firms increase 95%, and men's 59%, reversing the gender gap in directed search.  This implies women do not prefer flexibility to wages. Rather, they turn to flexibility when they cannot access wages. Meanwhile, large firms most exposed to mandated transparency become 30% more likely to disclose pay post-experiment, suggesting they overestimated the costs of transparency.
 
