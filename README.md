@@ -16,7 +16,7 @@ with N. Iqbal, M. Mahmud, K. Vyborny. <span style="color:#494949; font-weight:bo
 <div style="height:0.16rem;"></div>
 <details>
 
-  <summary><span style="color:#434343; font-weight:bold;">Abstract</span></summary>
+  <summary><span style="color:#484848; font-weight:bold;">Abstract</span></summary>
 	
 Female-targeted cash transfers are widely used as a policy tool to enhance women’s empowerment. However, little is known about what happens when payments stop – whether due to budget cuts, program changes, or recipient graduation. We study how women are affected by unanticipated program exit, and whether they experience backlash when they stop bringing cash home. Using a regression discontinuity-in-differences design around a revised eligibility threshold, we follow 2333 women exiting Pakistan’s largest cash transfer program, surveying them before program exit and one year after it. Drawing on comprehensive measures of empowerment, intimate partner violence, and well-being, we find no evidence of negative impacts a year after exit. These results suggest that the gains experienced by women during the program are not undone by adverse reactions upon exit.
 </details>	
