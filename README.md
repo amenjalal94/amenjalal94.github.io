@@ -1,8 +1,8 @@
-I'm a PhD student in economics at the [London School of Economics](https://www.lse.ac.uk/economics). My research interests are in development, environmental and labor economics. Most of my work studies how gender and climate shocks shape labor markets in low-income countries. 
+I'm a PhD student in economics at the **[London School of Economics](https://www.lse.ac.uk/economics)**. My research interests are in development, environmental and labor economics. Most of my work studies how gender and climate shocks shape labor markets in low-income countries. 
 
 <div style="height:1rem;"></div>
 
-I will join Harvard University as an Assistant Professor at the [Harvard Kennedy School](https://www.hks.harvard.edu) in August 2027, after a year as an Academy Scholar at the [Harvard Academy](https://academy.wcfia.harvard.edu/about/mission), starting August 2026. <br /><br />
+I will join Harvard University as an Assistant Professor at the **[Harvard Kennedy School](https://www.hks.harvard.edu)** in August 2027, after a year as an Academy Scholar at the **[Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)**, starting August 2026. <br /><br />
 
 <hr class="section-divider">
 
@@ -27,7 +27,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 ### Working papers 
 <a id="working-papers"></a>
 
-**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="color:#333333; font-weight:bold;">[ </span> <span style="color:#FB4D51; font-weight:bold;">Job Market Paper</span> <span style="color:#333333; font-weight:bold;"> ]</span>
+**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="color:#545656; font-weight:bold;">[ </span> <span style="color:#FB4D51; font-weight:bold;">Job Market Paper</span> <span style="color:#545656; font-weight:bold;"> ]</span>
 
 <div style="height:0.05rem;"></div>
 
