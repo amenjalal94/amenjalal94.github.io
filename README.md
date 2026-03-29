@@ -27,7 +27,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 ### Working papers 
 <a id="working-papers"></a>
 
-**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="background-color:#f0f0f0; color:#E04549; font-weight:bold; padding:2px 10px; border-radius:6px; font-size:0.85em;">Job Market Paper</span>
+**[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** <span style="background-color:#f5f5f5; color:#E04549; font-weight:bold; padding:2px 10px; border-radius:6px; font-size:0.85em; border: 1px solid #cccccc;">Job Market Paper</span>
 
 <div style="height:0.05rem;"></div>
 
