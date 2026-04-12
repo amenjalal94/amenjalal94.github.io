@@ -10,7 +10,7 @@ I will join Harvard University as an Assistant Professor at the **[Harvard Kenne
 <a id="publications"></a>
 
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://www.sciencedirect.com/science/article/pii/S004727272600054X)** 
-<div style="height:.3rem;"></div>
+<div style="height:.2rem;"></div>
 <span style="color:#545656; font-weight:bold;">Journal of Public Economics.</span><br>
 <div style="height:.2rem;"></div>
 
@@ -33,7 +33,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 **[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** 
 <span style="background-color:#f5f5f5; color:#E04549; font-weight:bold; padding:2px 10px; border-radius:6px; font-size:0.85em; border: 1px solid #e0e0e0;">Job Market Paper</span>
 
-<div style="height:.3rem;"></div>
+<div style="height:.2rem;"></div>
 
 Selected for EALE [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Coverage: [World Bank](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
 
@@ -50,7 +50,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 <div style="height:.8rem;"></div>
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** 
-<div style="height:.3rem;"></div>
+<div style="height:.2rem;"></div>
 <span style="color:#545656; font-weight:bold;">
   Revise & Resubmit, Review of Economic Studies.
 </span><br>
@@ -72,7 +72,7 @@ Even in traditional societies, men and women graduate from college at increasing
 
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** 
 
-<div style="height:.3rem;"></div>
+<div style="height:.2rem;"></div>
 with M. Haseeb, K. Vyborny, A. Quispe. Revised draft coming soon. 
 
 <div style="height:0.2rem;"></div>
@@ -96,7 +96,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 <span style="color:#545656; font-weight:600;">Heat Insurance at Work</span> <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
 
-  <div style="height:.3rem;"></div>
+  <div style="height:.2rem;"></div>
 with A. Pople, P. Simpson, E. Zou, O. Bandiera. Implementation on-going. 
 
 <div style="height:0.2rem;"></div>
@@ -113,7 +113,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 <span style="color:#545656; font-weight:600;">Direct Damage, Indirect Costs: The Spillover Impacts of Natural Disasters</span> 
 
-<div style="height:.3rem;"></div>
+<div style="height:.2rem;"></div>
 with P. Simpson. Preparing working paper. 
 
 <div style="height:0.2rem;"></div>
@@ -132,7 +132,7 @@ Disaster-prone communities have long developed strategies to weather seasonal sh
 
 <span style="color:#545656; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> 
 
-<div style="height:.3rem;"></div>
+<div style="height:.2rem;"></div>
 with C. Naik, P. Simpson. Designing pilot.
 
 <div style="height:0.2rem;"></div>
