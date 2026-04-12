@@ -12,11 +12,11 @@ I will join Harvard University as an Assistant Professor at the **[Harvard Kenne
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://www.sciencedirect.com/science/article/pii/S004727272600054X)** 
 <div style="height:.35rem;"></div>
 <span style="color:#545656; font-weight:bold;">Journal of Public Economics</span><br>
-<div style="height:.25rem;"></div>
+<div style="height:.2rem;"></div>
 
 with N. Iqbal, M. Mahmud, K. Vyborny. 
 
-<div style="height:0.16rem;"></div>
+<div style="height:0.2rem;"></div>
 <details>
 
   <summary><span style="color:#545656; font-weight:bold;">Abstract</span></summary>
@@ -37,7 +37,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 
 Selected for EALE [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Coverage: [World Bank](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
 
-<div style="height:0.16rem;"></div>
+<div style="height:0.2rem;"></div>
 <details>
 
 <summary><span style="color:#545656; font-weight:bold;">Abstract</span></summary>
@@ -53,10 +53,10 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
   Revise & Resubmit, Review of Economic Studies
 </span><br>
 
-<div style="height:.25rem;"></div>
+<div style="height:.2rem;"></div>
 with O. Bandiera, N. Roussille. Coverage: [VoxDev.](https://voxdev.org/topic/labour-markets/race-between-marriage-and-labour-markets)
 
-<div style="height:0.16rem;"></div>
+<div style="height:0.2rem;"></div>
 <details>
 
   <summary><span style="color:#545656; font-weight:bold;">Abstract</span></summary>
@@ -70,7 +70,7 @@ Even in traditional societies, men and women graduate from college at increasing
 <div style="height:.35rem;"></div>
 with M. Haseeb, K. Vyborny, A. Quispe. Revised draft coming soon. 
 
-<div style="height:0.16rem;"></div>
+<div style="height:0.2rem;"></div>
 <details>
 
   <summary><span style="color:#545656; font-weight:bold;">Abstract</span></summary>
@@ -94,7 +94,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
   <div style="height:.35rem;"></div>
 with A. Pople, P. Simpson, E. Zou, O. Bandiera. Implementation on-going. 
 
-<div style="height:0.16rem;"></div>
+<div style="height:0.2rem;"></div>
 <details>
 
   <summary><span style="color:#545656; font-weight:bold;">Abstract</span></summary>
@@ -109,7 +109,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <div style="height:.35rem;"></div>
 with P. Simpson. Preparing working paper. 
 
-<div style="height:0.16rem;"></div>
+<div style="height:0.2rem;"></div>
 <details>
 
 <summary><span style="color:#545656; font-weight:bold;">Abstract</span></summary>
@@ -125,7 +125,7 @@ Disaster-prone communities have long developed strategies to weather seasonal sh
 <div style="height:.35rem;"></div>
 with C. Naik, P. Simpson. Designing pilot.
 
-<div style="height:0.16rem;"></div>
+<div style="height:0.2rem;"></div>
 <details>
 
   <summary><span style="color:#545656; font-weight:bold;">Abstract</span></summary>
