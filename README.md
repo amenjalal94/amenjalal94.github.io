@@ -10,7 +10,7 @@ I will join Harvard University as an Assistant Professor at the **[Harvard Kenne
 <a id="publications"></a>
 
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://www.sciencedirect.com/science/article/pii/S004727272600054X)** 
-
+<div style="height:.5rem;"></div>
 <span style="color:#545656; font-weight:bold;">Journal of Public Economics</span><br>
 with N. Iqbal, M. Mahmud, K. Vyborny. 
 
@@ -45,7 +45,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 <br />
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** 
-
+<div style="height:.5rem;"></div>
 <span style="color:#545656; font-weight:bold;">
   Revise & Resubmit, Review of Economic Studies
 </span><br>
