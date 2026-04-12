@@ -81,7 +81,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 
 <span style="color:#545656; font-weight:600;">Heat Insurance at Work</span> <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;">[ Slides ](https://amenjalal.com/docs/JPSZB_2025.pdf)</span> <span style="color:#333333; font-weight:bold;">] </span>
   
-with A. Pople, P. Simpson, E. Zou, O. Bandiera. Implementation on-going. [AEA RCT registration](https://www.socialscienceregistry.org/trials/15728). 
+with A. Pople, P. Simpson, E. Zou, O. Bandiera. Implementation on-going. 
 
 <div style="height:0.16rem;"></div>
 <details>
