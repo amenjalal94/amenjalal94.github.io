@@ -45,7 +45,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** 
 
-with O. Bandiera, N. Roussille. Submitted. Coverage: [VoxDev.](https://voxdev.org/topic/labour-markets/race-between-marriage-and-labour-markets)
+with O. Bandiera, N. Roussille. <span style="color:#545656; font-weight:600;">R&R Review of Economic Studies</span>. Coverage: [VoxDev.](https://voxdev.org/topic/labour-markets/race-between-marriage-and-labour-markets)
 
 <div style="height:0.16rem;"></div>
 <details>
