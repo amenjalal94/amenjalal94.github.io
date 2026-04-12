@@ -1,4 +1,4 @@
-I'm a PhD student in economics at the **[London School of Economics](https://www.lse.ac.uk/economics)**, working on development, environmental and labor economics. 
+I'm an economics PhD student at the **[London School of Economics](https://www.lse.ac.uk/economics)**, working on development, environmental and labor economics. 
 
 <div style="height:1rem;"></div>
 
