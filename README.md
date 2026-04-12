@@ -31,10 +31,9 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 <a id="working-papers"></a>
 
 **[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** 
-<div style="height:.35rem;"></div>
 <span style="background-color:#f5f5f5; color:#E04549; font-weight:bold; padding:2px 10px; border-radius:6px; font-size:0.85em; border: 1px solid #e0e0e0;">Job Market Paper</span>
 
-<div style="height:0.05rem;"></div>
+<div style="height:.35rem;"></div>
 
 Selected for EALE [job market tour](https://eale.nl/node/7803). Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Coverage: [World Bank](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
 
