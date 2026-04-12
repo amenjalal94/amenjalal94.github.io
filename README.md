@@ -11,7 +11,7 @@ I will join Harvard University as an Assistant Professor at the **[Harvard Kenne
 
 **[What Happens When Women Suddenly Stop Receiving Cash Transfers?](https://www.sciencedirect.com/science/article/pii/S004727272600054X)** 
 <div style="height:.3rem;"></div>
-<span style="color:#545656; font-weight:bold;">Journal of Public Economics</span><br>
+<span style="color:#545656; font-weight:bold;">Journal of Public Economics.</span><br>
 <div style="height:.2rem;"></div>
 
 with N. Iqbal, M. Mahmud, K. Vyborny. 
@@ -47,10 +47,12 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 </details>
 <br />
 
+<div style="height:.3rem;"></div>
+
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** 
 <div style="height:.3rem;"></div>
 <span style="color:#545656; font-weight:bold;">
-  Revise & Resubmit, Review of Economic Studies
+  Revise & Resubmit, Review of Economic Studies.
 </span><br>
 
 <div style="height:.2rem;"></div>
@@ -64,6 +66,9 @@ with O. Bandiera, N. Roussille. Coverage: [VoxDev.](https://voxdev.org/topic/lab
 Even in traditional societies, men and women graduate from college at increasingly similar rates. Yet their paths diverge upon labor market entry: men work while most women stay home. What drives this divergence? Tracking 2,400 college students in Pakistan, we show that men and women hold similarly high work aspirations at graduation and subsequently apply to jobs and receive offers at comparable rates. Yet a 27 pp gender employment gap emerges within six months, driven by women rejecting offers far more often than men. A key predictor of women’s job acceptance decision is the timing of search: those who apply within two months of graduation are much more likely to be employed later. To test causality and uncover mechanisms, we randomize a modest incentive to apply early. The intervention shifts search earlier for both genders, raises women's employment by ~20% while leaving men's unaffected, thereby closing a third of the gender gap. Employment gains are concentrated among women who underestimate how soon marriage activities arise, revealing that they delayed job search under an “illusion of time.” For these women, early job search can initiate a self-reinforcing cycle: by entering the labor force before the marriage market, they attract more progressive suitors, which in turn can create a more supportive environment for sustained employment.
 </details>
 <br />
+
+
+<div style="height:.3rem;"></div>
 
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** 
 
@@ -104,6 +109,8 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 
+<div style="height:.3rem;"></div>
+
 <span style="color:#545656; font-weight:600;">Direct Damage, Indirect Costs: The Spillover Impacts of Natural Disasters</span> 
 
 <div style="height:.3rem;"></div>
@@ -119,6 +126,9 @@ Disaster-prone communities have long developed strategies to weather seasonal sh
 </details>
 <br />
 
+
+
+<div style="height:.3rem;"></div>
 
 <span style="color:#545656; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> 
 
