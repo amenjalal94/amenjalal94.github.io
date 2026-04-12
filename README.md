@@ -47,7 +47,7 @@ Up to half of the gender pay gap stems from women's sorting into low-wage firms.
 </details>
 <br />
 
-<div style="height:.3rem;"></div>
+<div style="height:.45rem;"></div>
 
 **[The Illusion of Time: Gender Gaps in Job Search and Employment](https://amenjalal94.github.io/docs/BJR_2025.pdf)** 
 <div style="height:.3rem;"></div>
@@ -68,7 +68,7 @@ Even in traditional societies, men and women graduate from college at increasing
 <br />
 
 
-<div style="height:.3rem;"></div>
+<div style="height:.45rem;"></div>
 
 **[Can Competition Reduce Corruption?](https://amenjalal.com/docs/HJQV_2025.pdf)** 
 
@@ -109,7 +109,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 
-<div style="height:.3rem;"></div>
+<div style="height:.45rem;"></div>
 
 <span style="color:#545656; font-weight:600;">Direct Damage, Indirect Costs: The Spillover Impacts of Natural Disasters</span> 
 
@@ -128,7 +128,7 @@ Disaster-prone communities have long developed strategies to weather seasonal sh
 
 
 
-<div style="height:.3rem;"></div>
+<div style="height:.45rem;"></div>
 
 <span style="color:#545656; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> 
 
