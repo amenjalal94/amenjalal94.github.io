@@ -104,7 +104,7 @@ with A. Pople, P. Simpson, K. Srivastava, E. Zou, O. Bandiera. Implementation on
 
    <summary>Abstract</summary>
 
-Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor or factory-based work, and limited access to adaptive resources. How can social protection evolve to address the growing losses caused by extreme heat? We conduct a randomised controlled trial among low-income workers in Delhi, India, comparing the effects of providing heat alerts, anticipatory cash transfers, and day-of cash transfers when temperatures exceed a given threshold on labour supply, adaptation behaviours, health, and financial wellbeing. The design examines the relative effectiveness of information versus cash transfers, and the importance of transfer timing in helping workers cope with the costs of extreme heat.
+Heatwaves, intensified by climate change, hit the poorest the hardest. Many are exposed to dangerous temperatures through outdoor or factory-based work, and limited access to adaptive resources. How can social protection evolve to address the growing losses caused by extreme heat? We conduct a randomised controlled trial among low-income workers in Delhi, India, comparing the effects of providing heat alerts, anticipatory cash transfers, and day-of cash transfers when temperatures exceed a given threshold on labour supply, adaptation behaviours, health, and financial wellbeing. The design examines the relative effectiveness of information versus cash transfers, as well as the importance of transfer timing in mitigating the costs of extreme heat.
 </details>	
 <br />
 
