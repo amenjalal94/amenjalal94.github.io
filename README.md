@@ -35,7 +35,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 
 <div style="height:.2rem;"></div>
 
-Selected for the EALE and ReStud North America job market tour. Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Coverage: [World Bank](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
+Selected for the ReStud and EALE job market tours. Won [Outstanding Paper Award](https://www.eeassoc.org/news/outstanding-paper-awards-5th-virtual-discrimination-and-diversity-workshop). Coverage: [World Bank](https://blogs.worldbank.org/en/impactevaluations/the-price-of-flexibility--revealing-salaries-in-job-postings--gu). 
 
 <div style="height:0.2rem;"></div>
 <details>
