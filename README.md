@@ -130,7 +130,7 @@ Disaster-prone communities have long developed strategies to weather seasonal sh
 
 <div style="height:.8rem;"></div>
 
-<span style="color:#545656; font-weight:600;">The Fundamental Need for Shelter: Evidence from the World’s Largest Housing Reconstruction Program</span> 
+<span style="color:#545656; font-weight:600;">The Fundamental Need for Shelter: Evidence from the World’s Largest Home Reconstruction Program</span> 
 
 <div style="height:.2rem;"></div>
 with C. Naik, P. Simpson. Designing pilot.
@@ -140,7 +140,7 @@ with C. Naik, P. Simpson. Designing pilot.
 
    <summary>Abstract</summary>
 	
-Psychologists have long argued that human needs are met in order of priority: until basic needs such as shelter are secured, attention and effort remain focused on them, delaying higher-order pursuits. This idea has implications for a range of economic outcomes — shaping, for instance, how much background risk a household bears and, thus, how willing it is to make high-risk, high-reward investments in the future. Despite its influence, the idea that needs follow a hierarchy has rarely been tested using credible causal evidence on economic behaviour. We provide such a test using the reconstruction of flood-destroyed homes in Sindh, Pakistan. Exploiting staggered disbursements of home-reconstruction grants, we compare otherwise-similar households that received funding just before and just after a programme expansion. Combining administrative records with a survey of 6,000 households, we estimate the effects of home security on risk-taking, migration, health, schooling, and productive investment.
+Psychologists have long argued that human needs are met in order of priority: until basic needs such as shelter are secured, attention and effort remain focused on them, delaying higher-order pursuits. This idea has implications for a range of economic outcomes — shaping, for instance, how much background risk a household bears and, thus, how willing it is to make high-risk, high-reward investments in the future. Despite its influence, the idea that needs follow a hierarchy has rarely been tested using credible causal evidence on economic behaviour. We provide such a test using the reconstruction of flood-destroyed homes in Sindh, Pakistan. Exploiting staggered disbursements of home-reconstruction grants, we compare otherwise-similar households that received funding just before and just after a program expansion. Combining administrative records with a survey of 6,000 households, we estimate the effects of home security on risk-taking, migration, health, schooling, and productive investment.
 
 </details>	
 <br />
