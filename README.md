@@ -94,7 +94,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 ### Select works in progress 
 <a id="works-in-progress"></a>
 
-<span style="color:#545656; font-weight:600;">Heat Insurance at Work</span> <span style="color:#333333; font-weight:bold;">[ </span> <span style="font-weight:bold;"> </span>
+<span style="color:#545656; font-weight:600;">Heat Insurance at Work</span> 
 
   <div style="height:.2rem;"></div>
 with A. Pople, P. Simpson, K. Srivastava, E. Zou, O. Bandiera. Implementation on-going. 
@@ -111,7 +111,7 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 
 <div style="height:.8rem;"></div>
 
-<span style="color:#545656; font-weight:600;">Direct Damage, Indirect Costs: The Spillover Impacts of Natural Disasters</span> 
+<span style="color:#545656; font-weight:600;">Direct Damage, Indirect Costs: The Incidence of Natural Disasters</span> 
 
 <div style="height:.2rem;"></div>
 with P. Simpson. Preparing working paper. 
