@@ -130,7 +130,7 @@ Disaster-prone communities have long developed strategies to weather seasonal sh
 
 <div style="height:.8rem;"></div>
 
-<span style="color:#545656; font-weight:600;">Rebuilding Lives, Not Just Homes: Addressing Trauma in Disaster Recovery</span> 
+<span style="color:#545656; font-weight:600;">The Fundamental Need for Shelter: Evidence from the World’s Largest Housing Reconstruction Program</span> 
 
 <div style="height:.2rem;"></div>
 with C. Naik, P. Simpson. Designing pilot.
@@ -140,7 +140,8 @@ with C. Naik, P. Simpson. Designing pilot.
 
    <summary>Abstract</summary>
 	
-Disaster recovery often focuses on rebuilding physical infrastructure, overlooking the mental health impact of traumatic events like floods. In Pakistan, where flooding in 2022 submerged a third of the country and lasted up to 8 months, women exposed to a more intense flood shock were 11 pp more likely to have severe psychological distress 2 years later. Ignoring mental health in reconstruction may prolong the socio-economic impact of disasters by limiting individuals' ability to work, plan, and recover. This project explores complementarities between mental health support and the standard infrastructure-focused approach by randomizing a trauma-based mental health intervention and leveraging natural variation in access to a housing reconstruction program in a 2x2 design. Our findings aim to measure the non-economic losses and damages of climate catastrophes, and inform more holistic disaster recovery policies that address both physical and psychological needs.
+Psychologists have long argued that human needs are met in order of priority: until basic needs such as shelter are secured, attention and effort remain focused on them, delaying higher-order pursuits. This idea has implications for a range of economic outcomes — shaping, for instance, how much background risk a household bears and, thus, how willing it is to make high-risk, high-reward investments in the future. Despite its influence, the idea that needs follow a hierarchy has rarely been tested using credible causal evidence on economic behaviour. We provide such a test using the reconstruction of flood-destroyed homes in Sindh, Pakistan. Exploiting staggered disbursements of home-reconstruction grants, we compare otherwise-similar households that received funding just before and just after a programme expansion. Combining administrative records with a survey of 6,000 households, we estimate the effects of home security on risk-taking, migration, health, schooling, and productive investment.
+
 </details>	
 <br />
 
