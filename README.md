@@ -150,15 +150,15 @@ Psychologists have long argued that human needs are met in order of priority: un
 
 ### Policy writing 
 
-**[Using Biometrics to Deliver Cash Payments to Women](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf).** World Bank 2022.
+**[Using Biometrics to Deliver Cash Payments to Women](https://documents1.worldbank.org/curated/en/099155004142238180/pdf/P1763410d1e1af00108e170e5754d04fed9.pdf).** World Bank Evidence Note 2022.
 
 <div style="height:0.6rem;"></div>
 
 
-**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf).** World Bank 2025.
+**[Collecting Accurate Data on Intimate Partner Violence](https://documents1.worldbank.org/curated/en/099406503032591629/pdf/IDU157126b0b1079f1483d18ce317cfccf04f886.pdf).** World Bank Policy Research Paper 2025.
 
 <div style="height:0.6rem;"></div>
 
 
-**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan).** IGC 2025.<br /><br />
+**[Equilibrium Effects of a Billion Trees on Ecosystems and Livelihoods](https://www.theigc.org/blogs/billion-tree-tsunami-afforestation-pakistan).** IGC Blog 2025.<br /><br />
 
