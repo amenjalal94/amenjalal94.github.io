@@ -1,8 +1,12 @@
-I'm an economics PhD student at the **[London School of Economics](https://www.lse.ac.uk/economics)**, working on development, environmental and labor economics. 
+I'm an Academy Scholar (post-doc) at the **[Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)**, working on development, environmental and labor economics. 
 
 <div style="height:1rem;"></div>
 
-I will join Harvard University as an Assistant Professor at the **[Harvard Kennedy School](https://www.hks.harvard.edu)** in August 2027, after a year as an Academy Scholar at the **[Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)**, starting August 2026. <br /><br />
+I will join  **[Harvard Kennedy School](https://www.hks.harvard.edu)** as an Assistant Professor in August 2027. 
+
+<div style="height:1rem;"></div>
+
+I have a PhD in Economics from the **[London School of Economics](https://www.lse.ac.uk/economics)**. <br /><br />
 
 <hr class="section-divider">
 
