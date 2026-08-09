@@ -6,7 +6,7 @@ I will join  **[Harvard Kennedy School](https://www.hks.harvard.edu)** as an Ass
 
 <div style="height:1rem;"></div>
 
-I have a PhD in Economics from the **[London School of Economics](https://www.lse.ac.uk/economics)**. <br /><br />
+I have a PhD in Economics from the **[London School of Economics](https://www.lse.ac.uk/economics)** and a BA in Economics from **[Yale University](https://economics.yale.edu/undergraduate/undergraduate)**. <br /><br />
 
 <hr class="section-divider">
 
