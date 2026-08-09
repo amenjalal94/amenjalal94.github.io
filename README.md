@@ -1,4 +1,4 @@
-I'm an Academy Scholar (post-doc) at the **[Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)**, working on development, environmental and labor economics. 
+I'm an Academy Scholar (post-doc) at the **[Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)** for International and Area Studies at Harvard University. 
 
 <div style="height:1rem;"></div>
 
@@ -6,7 +6,7 @@ I will join  **[Harvard Kennedy School](https://www.hks.harvard.edu)** as an Ass
 
 <div style="height:1rem;"></div>
 
-I have a PhD in Economics from the **[London School of Economics](https://www.lse.ac.uk/economics)** and a BA in Economics from **[Yale University](https://economics.yale.edu/undergraduate/undergraduate)**. <br /><br />
+I have a PhD in Economics from the **[London School of Economics](https://www.lse.ac.uk/economics)** and a BA in Economics from **[Yale University](https://economics.yale.edu/undergraduate/undergraduate)**. I work on development, environmental and labor economics.  <br /><br />
 
 <hr class="section-divider">
 
