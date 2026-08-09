@@ -1,14 +1,14 @@
 I'm an Academy Scholar (post-doc) at the **[Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)** for International and Area Studies at Harvard University. 
 
-<div style="height:.8rem;"></div>
+<div style="height:.7rem;"></div>
 
 I will join **[Harvard Kennedy School](https://www.hks.harvard.edu)** as an Assistant Professor in August 2027. 
 
-<div style="height:.8rem;"></div>
+<div style="height:.7rem;"></div>
 
 I have a PhD in Economics from the **[London School of Economics](https://www.lse.ac.uk/economics)** and a BA in Economics from **[Yale University](https://economics.yale.edu/undergraduate/undergraduate)**. 
 
-<div style="height:.8rem;"></div>
+<div style="height:.7rem;"></div>
 
 I work on development, environmental, and labor economics.  <br /><br />
 
