@@ -2,7 +2,7 @@ I'm an Academy Scholar (post-doc) at the **[Harvard Academy](https://academy.wcf
 
 <div style="height:1rem;"></div>
 
-I will join  **[Harvard Kennedy School](https://www.hks.harvard.edu)** as an Assistant Professor in August 2027. 
+I will join **[Harvard Kennedy School](https://www.hks.harvard.edu)** as an Assistant Professor in August 2027. 
 
 <div style="height:1rem;"></div>
 
@@ -10,7 +10,7 @@ I have a PhD in Economics from the **[London School of Economics](https://www.ls
 
 <div style="height:1rem;"></div>
 
-I work on development, environmental and labor economics.  <br /><br />
+I work on development, environment, and labor economics.  <br /><br />
 
 <hr class="section-divider">
 
