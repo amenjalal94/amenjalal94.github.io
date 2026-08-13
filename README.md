@@ -105,7 +105,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 <span style="color:#545656; font-weight:600;">Heat Insurance at Work</span> 
 
   <div style="height:.2rem;"></div>
-with A. Pople, P. Simpson, K. Srivastava, E. Zou, O. Bandiera. Implementation on-going. 
+with A. Pople, P. Simpson, K. Srivastava, E. Zou, O. Bandiera. Endline on-going. 
 
 <div style="height:0.2rem;"></div>
 <details>
@@ -141,7 +141,7 @@ Natural disasters affect not only the locations they physically hit, but also su
 <span style="color:#545656; font-weight:600;">The Fundamental Need for Shelter: Evidence from the World’s Largest Home Reconstruction Program</span> 
 
 <div style="height:.2rem;"></div>
-with C. Naik, P. Simpson. Planning fieldwork.
+with C. Naik, P. Simpson. Launching fieldwork.
 
 <div style="height:0.2rem;"></div>
 <details>
