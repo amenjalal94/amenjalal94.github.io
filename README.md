@@ -141,7 +141,7 @@ Natural disasters affect not only the locations they physically hit, but also su
 <span style="color:#545656; font-weight:600;">The Fundamental Need for Shelter: Evidence from the World’s Largest Home Reconstruction Program</span> 
 
 <div style="height:.2rem;"></div>
-with C. Naik, P. Simpson. Launching fieldwork.
+with C. Naik, P. Simpson. Fieldwork on-going.
 
 <div style="height:0.2rem;"></div>
 <details>
