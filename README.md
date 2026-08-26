@@ -105,7 +105,7 @@ Corruption remains a major obstacle to the delivery of public services in develo
 <span style="color:#545656; font-weight:600;">Heat Insurance at Work</span> 
 
   <div style="height:.2rem;"></div>
-with A. Pople, P. Simpson, K. Srivastava, E. Zou, O. Bandiera. Implementation on-going. 
+with A. Pople, P. Simpson, K. Srivastava, E. Zou, O. Bandiera. Endline on-going. 
 
 <div style="height:0.2rem;"></div>
 <details>
@@ -129,7 +129,7 @@ with P. Simpson. Preparing working paper.
 
  <summary>Abstract</summary>
 
-Natural disasters affect not only the locations they physically hit, but also surrounding areas through trade linkages. As a result, the economic incidence of disasters differs from their physical footprint. We argue that ignoring this divergence leads us to understate the costs of natural disasters and misallocate the assistance that follows. To do so, we collect panel data on 5,100 rural households, surveyed in the aftermath of Pakistan’s large-scale 2022 floods. We combine this with satellite flood measures and administrative damage data, and use a re-centered IV design to separately identify the impacts of direct and indirect flood exposure. We find that direct exposure to flooding causes physical damage to homes and crops, whilst flooding in the surrounding area drives impacts on other economic outcomes. A one-standard-deviation increase in indirect exposure to flooding reduces the probability of being in paid employment by 9 percentage points, increases local food prices by 8% and lowers real consumption by 12%. All else equal, direct exposure makes a household more likely to receive aid, while having flooded neighbours makes it less likely. This is not reflected in disaster relief - all else equal, direct exposure makes a household more likely to receive aid, while having flooded neighbours makes it less likely. To assess the benefits of optimal targeting, we build a spatial general-equilibrium model, and find substantial welfare gains compared to targeting on physical exposure, particularly when floods are large.
+Natural disasters affect not only the locations they physically hit, but also surrounding areas through trade linkages. As a result, the economic incidence of disasters differs from their physical footprint. We argue that ignoring this divergence leads us to understate the costs of natural disasters and misallocate the assistance that follows. To do so, we collect panel data on 5,100 rural households, surveyed in the aftermath of Pakistan’s large-scale 2022 floods. We combine this with satellite flood measures and administrative damage data, and use a re-centered IV design to separately identify the impacts of direct and indirect flood exposure. We find that direct exposure to flooding causes physical damage to homes and crops, whilst flooding in the surrounding area drives impacts on other economic outcomes. A one-standard-deviation increase in indirect exposure to flooding reduces the probability of being in paid employment by 9 percentage points, increases local food prices by 8% and lowers real consumption by 12%. This is not reflected in disaster relief - all else equal, direct exposure makes a household more likely to receive aid, while having flooded neighbours makes it less likely. To assess the benefits of optimal targeting, we build a spatial general-equilibrium model, and find substantial welfare gains compared to targeting on physical exposure, particularly when floods are large.
 
 </details>
 <br />
@@ -141,7 +141,7 @@ Natural disasters affect not only the locations they physically hit, but also su
 <span style="color:#545656; font-weight:600;">The Fundamental Need for Shelter: Evidence from the World’s Largest Home Reconstruction Program</span> 
 
 <div style="height:.2rem;"></div>
-with C. Naik, P. Simpson. Planning fieldwork.
+with C. Naik, P. Simpson. Fieldwork on-going.
 
 <div style="height:0.2rem;"></div>
 <details>
