@@ -1,4 +1,4 @@
-I'm an **[Academy Scholar](https://academy.wcfia.harvard.edu/about/mission)** (post-doc) at Harvard University. I will join **[Harvard Kennedy School](https://www.hks.harvard.edu)** as an Assistant Professor in August 2027. 
+I'm an **[Academy Scholar](https://academy.wcfia.harvard.edu/about/mission)** (post-doc) at Harvard University. I'll join **[Harvard Kennedy School](https://www.hks.harvard.edu)** as an Assistant Professor in August 2027. 
 
 <div style="height:.7rem;"></div>
 
