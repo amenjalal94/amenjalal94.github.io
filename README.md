@@ -1,4 +1,4 @@
-I'm an Academy Scholar (post-doc) at the **[Academy for International and Area Studies](https://academy.wcfia.harvard.edu/about/mission)** at Harvard University. 
+I'm an Academy Scholar (post-doc) at the **[Harvard Academy](https://academy.wcfia.harvard.edu/about/mission)** for International and Area Studies at Harvard University. 
 
 <div style="height:.7rem;"></div>
 
