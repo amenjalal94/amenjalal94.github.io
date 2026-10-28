@@ -30,6 +30,7 @@ Female-targeted cash transfers are widely used as a policy tool to enhance women
 ### Working papers 
 <a id="working-papers"></a>
 
+
 **[Screening Women Out? Pay Transparency in Job Postings](https://amenjalal.com/docs/Jalal_ScreeningWomenOut_JMP.pdf)** 
 
 <div style="height:.2rem;"></div>
@@ -65,6 +66,24 @@ with O. Bandiera, N. Roussille. Coverage: [VoxDev.](https://voxdev.org/topic/lab
 Even in traditional societies, men and women graduate from college at increasingly similar rates. Yet their paths diverge upon labor market entry: men work while most women stay home. What drives this divergence? Tracking 2,400 college students in Pakistan, we show that men and women hold similarly high work aspirations at graduation and subsequently apply to jobs and receive offers at comparable rates. Yet a 27 pp gender employment gap emerges within six months, driven by women rejecting offers far more often than men. A key predictor of women’s job acceptance decision is the timing of search: those who apply within two months of graduation are much more likely to be employed later. To test causality and uncover mechanisms, we randomize a modest incentive to apply early. The intervention shifts search earlier for both genders, raises women's employment by ~20% while leaving men's unaffected, thereby closing a third of the gender gap. Employment gains are concentrated among women who underestimate how soon marriage activities arise, revealing that they delayed job search under an “illusion of time.” For these women, early job search can initiate a self-reinforcing cycle: by entering the labor force before the marriage market, they attract more progressive suitors, which in turn can create a more supportive environment for sustained employment.
 </details>
 <br />
+
+<div style="height:.8rem;"></div>
+
+**[The Economic Incidence of Natural Disasters](https://polsimpson.github.io/files/JalalSimpson_floods.pdf)** 
+
+<div style="height:.2rem;"></div>
+with P. Simpson. 
+
+<div style="height:0.2rem;"></div>
+<details>
+
+ <summary>Abstract</summary>
+
+Policymakers and researchers often view the costs of natural disasters as local to the areas they physically strike. We show that due to spatial linkages across markets, the economic incidence of a disaster extends well beyond its physical footprint. We study Pakistan’s large-scale 2022 floods, combining original panel surveys of 5,100 rural households with satellite flood maps and a recentred instrument based on a hydrological model. We find that moving a household from the 10th to the 90th percentile of flooding within 15km of its home lowers its real expenditure by 10%, of which nearly two-thirds is due to flooding more than 5km away from home. The same change in flooding reduces the share of men in wage employment by 9 percentage points (pp), raises food prices by 8% and asset sales by 3 pp, and lowers credit access by 5 pp. These effects are driven almost entirely by flooding more than 5km away. We quantify the economic incidence of flooding in general equilibrium by building a spatial model of trade and commuting. Although two in five locations experienced almost no flooding, the model implies that welfare fell everywhere, and that 73% of the average loss was caused by flooding elsewhere. Moreover, targeting aid on predicted losses rather than physical exposure achieves the same welfare at 18% lower cost. Thus, ignoring the divergence between economic incidence and physical exposure leads us to underestimate disaster costs and misallocate aid, particularly for larger disasters and more integrated economies.
+
+</details>
+<br />
+
 
 
 <div style="height:.8rem;"></div>
@@ -108,22 +127,6 @@ Heatwaves, intensified by climate change, hit the poorest the hardest. Many are 
 <br />
 
 
-<div style="height:.8rem;"></div>
-
-<span style="color:#545656; font-weight:600;">Direct Damage, Indirect Costs: The Incidence of Natural Disasters</span> 
-
-<div style="height:.2rem;"></div>
-with P. Simpson. Preparing working paper. 
-
-<div style="height:0.2rem;"></div>
-<details>
-
- <summary>Abstract</summary>
-
-Natural disasters affect not only the locations they physically hit, but also surrounding areas through trade linkages. As a result, the economic incidence of disasters differs from their physical footprint. We argue that ignoring this divergence leads us to understate the costs of natural disasters and misallocate the assistance that follows. To do so, we collect panel data on 5,100 rural households, surveyed in the aftermath of Pakistan’s large-scale 2022 floods. We combine this with satellite flood measures and administrative damage data, and use a re-centered IV design to separately identify the impacts of direct and indirect flood exposure. We find that direct exposure to flooding causes physical damage to homes and crops, whilst flooding in the surrounding area drives impacts on other economic outcomes. A one-standard-deviation increase in indirect exposure to flooding reduces the probability of being in paid employment by 9 percentage points, increases local food prices by 8% and lowers real consumption by 12%. This is not reflected in disaster relief - all else equal, direct exposure makes a household more likely to receive aid, while having flooded neighbours makes it less likely. To assess the benefits of optimal targeting, we build a spatial general-equilibrium model, and find substantial welfare gains compared to targeting on physical exposure, particularly when floods are large.
-
-</details>
-<br />
 
 
 
