@@ -70,6 +70,7 @@ Even in traditional societies, men and women graduate from college at increasing
 <div style="height:.8rem;"></div>
 
 **[The Economic Incidence of Natural Disasters](https://polsimpson.github.io/files/JalalSimpson_floods.pdf)** 
+<span style="background-color:#f5f5f5; color:#E04549; font-weight:bold; padding:2px 10px; border-radius:6px; font-size:0.85em; border: 1px solid #e0e0e0;">Pol's JMP!</span>
 
 <div style="height:.2rem;"></div>
 with P. Simpson. 
